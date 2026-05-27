@@ -1,0 +1,1419 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Words850 — Ogden 基础词汇学习</title>
+<script src="words_data.js"></script>
+<style>
+:root {
+  /* ── Color ── */
+  --primary: #2563eb;
+  --primary-dark: #1d4ed8;
+  --primary-light: #dbeafe;
+  --primary-bg: #eff6ff;
+  --text: #1e293b;
+  --text-secondary: #475569;
+  --text-muted: #94a3b8;
+  --text-light: #cbd5e1;
+  --bg: #f8fafc;
+  --surface: #ffffff;
+  --border: #e2e8f0;
+  --border-light: #f1f5f9;
+
+  /* ── Semantic ── */
+  --green: #16a34a;
+  --green-bg: #dcfce7;
+  --green-border: #bbf7d0;
+  --red: #dc2626;
+  --red-bg: #fee2e2;
+  --red-border: #fecaca;
+  --amber: #d97706;
+  --amber-bg: #fef3c7;
+  --amber-border: #fde68a;
+
+  /* ── Radius (Soft & Balanced) ── */
+  --r-sm: 6px;
+  --r-md: 10px;
+  --r-lg: 14px;
+  --r-xl: 20px;
+  --r-full: 9999px;
+
+  /* ── Shadow ── */
+  --shadow-sm: 0 1px 2px rgba(0,0,0,0.04);
+  --shadow-md: 0 4px 12px rgba(0,0,0,0.06);
+  --shadow-lg: 0 8px 30px rgba(0,0,0,0.08);
+  --shadow-xl: 0 12px 40px rgba(0,0,0,0.1);
+
+  /* ── Typography ── */
+  --font-sans: -apple-system, 'Segoe UI', system-ui, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  --font-serif: 'Georgia', 'Times New Roman', serif;
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+
+body {
+  font-family: var(--font-sans);
+  background: var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ─── Nav ─── */
+nav {
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  padding: 0 20px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+.nav-inner {
+  max-width: 900px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  height: 60px;
+}
+.nav-brand {
+  font-weight: 800;
+  font-size: 20px;
+  color: var(--primary);
+  letter-spacing: -0.3px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  user-select: none;
+}
+.nav-brand small {
+  font-weight: 400;
+  font-size: 11px;
+  color: var(--text-muted);
+  letter-spacing: 0;
+}
+.nav-tabs { display: flex; gap: 2px; margin-left: auto; }
+.nav-tab {
+  padding: 8px 18px;
+  border: none;
+  background: transparent;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text-muted);
+  cursor: pointer;
+  border-radius: var(--r-md);
+  transition: all 0.15s;
+}
+.nav-tab:hover { background: var(--primary-bg); color: var(--primary); }
+.nav-tab.active { background: var(--primary); color: #fff; box-shadow: var(--shadow-sm); }
+.nav-stats {
+  font-size: 13px;
+  color: var(--text-muted);
+  white-space: nowrap;
+  background: var(--bg);
+  padding: 4px 12px;
+  border-radius: var(--r-full);
+}
+
+/* ─── Main ─── */
+main {
+  flex: 1;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 32px 24px;
+  width: 100%;
+}
+.view { display: none; }
+.view.active { display: block; }
+
+/* ─── Flashcard ─── */
+#flashcard-view { display: none; flex-direction: column; align-items: center; gap: 24px; }
+#flashcard-view.active { display: flex; }
+
+.flashcard-empty {
+  text-align: center;
+  padding: 100px 20px;
+}
+.flashcard-empty h2 { font-size: 24px; font-weight: 700; margin-bottom: 8px; color: var(--text); }
+.flashcard-empty p { font-size: 15px; color: var(--text-muted); margin-bottom: 24px; }
+.flashcard-empty button {
+  padding: 12px 32px;
+  background: var(--primary);
+  color: #fff;
+  border: none;
+  border-radius: var(--r-md);
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.15s;
+  box-shadow: var(--shadow-sm);
+}
+.flashcard-empty button:hover { background: var(--primary-dark); transform: translateY(-1px); box-shadow: var(--shadow-md); }
+
+/* Card Flip */
+.card-scene {
+  width: 100%;
+  max-width: 520px;
+  perspective: 1400px;
+  margin: 16px auto 0;
+}
+.card-stack {
+  position: relative;
+  width: 100%;
+  padding-bottom: 68%;
+}
+.card-el {
+  position: absolute;
+  inset: 0;
+  cursor: pointer;
+  transform-style: preserve-3d;
+  transition: transform 0.6s cubic-bezier(0.22, 1, 0.36, 1);
+  border-radius: var(--r-lg);
+}
+.card-el.flipped { transform: rotateY(180deg); }
+.card-face {
+  position: absolute;
+  inset: 0;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  border-radius: var(--r-lg);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow-lg);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 40px 28px;
+  overflow-y: auto;
+}
+.card-face.card-back { transform: rotateY(180deg); }
+
+.card-front .word {
+  font-size: clamp(40px, 8vw, 56px);
+  font-weight: 800;
+  color: var(--text);
+  letter-spacing: -0.03em;
+  line-height: 1.1;
+}
+.card-front .ipa {
+  font-size: 18px;
+  color: var(--text-muted);
+  margin-top: 10px;
+  font-family: var(--font-serif);
+}
+.card-front .cat-tag {
+  margin-top: 20px;
+  padding: 6px 18px;
+  background: var(--primary-bg);
+  color: var(--primary);
+  border: 1px solid var(--primary-light);
+  border-radius: var(--r-full);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.3px;
+}
+.card-front .flip-hint {
+  position: absolute;
+  bottom: 22px;
+  font-size: 13px;
+  color: var(--text-light);
+  animation: pulse 2.5s ease-in-out infinite;
+}
+@keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.35} }
+
+.card-back { text-align: center; gap: 10px; padding: 36px 28px; }
+.card-back .meaning {
+  font-size: clamp(24px, 5vw, 32px);
+  font-weight: 700;
+  color: var(--primary-dark);
+  line-height: 1.35;
+}
+.card-back .def-en {
+  font-size: 15px;
+  color: var(--text-muted);
+  font-style: italic;
+  max-width: 88%;
+  line-height: 1.5;
+}
+.card-back .example-box {
+  margin-top: 8px;
+  padding: 14px 18px;
+  background: var(--primary-bg);
+  border-radius: var(--r-md);
+  border-left: 3px solid var(--primary);
+  width: 92%;
+  text-align: left;
+}
+.card-back .example-en {
+  font-size: 15px;
+  line-height: 1.5;
+  cursor: pointer;
+  transition: color 0.15s;
+}
+.card-back .example-en:hover { color: var(--primary); }
+.card-back .example-cn {
+  font-size: 13px;
+  color: var(--text-muted);
+  margin-top: 4px;
+  line-height: 1.4;
+}
+.card-back .synonyms {
+  font-size: 13px;
+  color: var(--text-muted);
+  line-height: 1.4;
+}
+
+/* Card Controls */
+.card-controls {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  width: 100%;
+  max-width: 480px;
+}
+.card-controls button {
+  width: 52px;
+  height: 52px;
+  border: 1px solid var(--border);
+  border-radius: 50%;
+  background: var(--surface);
+  cursor: pointer;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s;
+  color: var(--text-muted);
+  box-shadow: var(--shadow-sm);
+}
+.card-controls button:hover {
+  background: var(--primary-bg);
+  color: var(--primary);
+  border-color: var(--primary);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+}
+.card-controls button:active {
+  transform: translateY(0);
+}
+
+/* Eval Buttons */
+.eval-group {
+  display: flex;
+  gap: 10px;
+  width: 100%;
+  max-width: 480px;
+  flex-wrap: wrap;
+  justify-content: center;
+  transition: opacity 0.2s;
+}
+.eval-btn {
+  flex: 1;
+  min-width: 110px;
+  padding: 14px 12px;
+  border: 2px solid transparent;
+  border-radius: var(--r-md);
+  font-size: 14px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all 0.15s;
+  position: relative;
+}
+.eval-btn .shortcut {
+  display: inline-block;
+  font-size: 11px;
+  opacity: 0.4;
+  margin-left: 6px;
+  font-weight: 400;
+}
+.eval-btn.eval-dontknow {
+  background: var(--red-bg);
+  color: var(--red);
+  border-color: var(--red-border);
+}
+.eval-btn.eval-know {
+  background: var(--green-bg);
+  color: var(--green);
+  border-color: var(--green-border);
+}
+.eval-btn.eval-mastered {
+  background: var(--amber-bg);
+  color: var(--amber);
+  border-color: var(--amber-border);
+}
+.eval-btn:hover:not(:disabled) {
+  transform: translateY(-2px);
+  filter: brightness(0.97);
+  box-shadow: var(--shadow-sm);
+}
+.eval-btn:active:not(:disabled) {
+  transform: translateY(0);
+}
+.eval-btn:disabled {
+  opacity: 0.3;
+  cursor: default;
+  transform: none;
+}
+
+/* Session progress */
+.session-bar {
+  width: 100%;
+  max-width: 480px;
+}
+.session-bar-row {
+  display: flex;
+  justify-content: space-between;
+  font-size: 13px;
+  color: var(--text-muted);
+  margin-bottom: 6px;
+}
+.session-track {
+  height: 6px;
+  background: var(--border-light);
+  border-radius: var(--r-full);
+  overflow: hidden;
+}
+.session-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--primary), #60a5fa);
+  border-radius: var(--r-full);
+  transition: width 0.4s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.session-complete {
+  text-align: center;
+  padding: 20px;
+  display: none;
+}
+.session-complete.show { display: block; }
+.session-complete h3 { font-size: 20px; color: var(--primary); margin-bottom: 4px; }
+.session-complete p { font-size: 14px; color: var(--text-muted); }
+
+/* Voice settings */
+.voice-settings {
+  margin-top: 4px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 13px;
+  color: var(--text-muted);
+}
+.voice-settings select {
+  padding: 6px 12px;
+  font-size: 13px;
+  border: 1px solid var(--border);
+  border-radius: var(--r-sm);
+  background: var(--surface);
+  outline: none;
+  max-width: 240px;
+  color: var(--text);
+}
+
+/* ─── Browse ─── */
+.browse-header {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 24px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.browse-search {
+  flex: 1;
+  min-width: 200px;
+  padding: 12px 18px;
+  font-size: 15px;
+  border: 2px solid var(--border);
+  border-radius: var(--r-md);
+  outline: none;
+  background: var(--surface);
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+.browse-search:focus {
+  border-color: var(--primary);
+  box-shadow: 0 0 0 3px var(--primary-light);
+}
+.browse-filter {
+  padding: 12px 18px;
+  font-size: 14px;
+  border: 2px solid var(--border);
+  border-radius: var(--r-md);
+  outline: none;
+  background: var(--surface);
+  cursor: pointer;
+  color: var(--text);
+  min-width: 140px;
+  transition: border-color 0.2s;
+}
+.browse-filter:focus { border-color: var(--primary); }
+.browse-count {
+  font-size: 13px;
+  color: var(--text-muted);
+  padding: 0 4px;
+  white-space: nowrap;
+}
+
+/* Browse Grid – same columns on every screen */
+.browse-list-header {
+  display: grid;
+  grid-template-columns: 130px 1fr 100px;
+  gap: 16px;
+  padding: 10px 16px;
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  border-bottom: 2px solid var(--border);
+}
+.browse-list-header .col-cat {
+  text-align: right;
+}
+
+#browseList {
+  padding: 0;
+}
+
+.browse-row {
+  display: grid;
+  grid-template-columns: 130px 1fr 100px;
+  gap: 16px;
+  padding: 12px 16px;
+  cursor: pointer;
+  align-items: flex-start;
+  border-bottom: 1px solid var(--border-light);
+  transition: background 0.12s;
+}
+.browse-row:hover { background: var(--primary-bg); }
+.browse-row:active { background: var(--primary-light); }
+
+.browse-row .word-text {
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--primary);
+  line-height: 1.3;
+}
+.browse-row .ipa-text {
+  font-size: 12px;
+  color: var(--text-muted);
+  font-weight: 400;
+  display: block;
+  margin-top: 1px;
+}
+.browse-row .meaning-main {
+  font-size: 14px;
+  color: var(--text);
+  line-height: 1.5;
+}
+.browse-row .meaning-ex {
+  font-size: 12px;
+  color: var(--text-muted);
+  margin-top: 3px;
+  line-height: 1.4;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.browse-row .cat-col {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 8px;
+}
+.browse-row .cat-label {
+  padding: 4px 12px;
+  background: var(--primary-light);
+  color: var(--primary);
+  border-radius: var(--r-full);
+  font-size: 11px;
+  font-weight: 700;
+  white-space: nowrap;
+}
+.browse-row .status-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+.browse-row .status-dot.s-new { background: var(--text-light); }
+.browse-row .status-dot.s-learning { background: var(--amber); }
+.browse-row .status-dot.s-known { background: var(--primary); }
+.browse-row .status-dot.s-mastered { background: var(--green); }
+
+/* ─── Stats ─── */
+
+/* Total progress – standalone hero card */
+.stat-total {
+  display: block;
+  width: 100%;
+  background: linear-gradient(135deg, var(--primary), #1d4ed8);
+  border: none;
+  border-radius: var(--r-lg);
+  padding: 28px 24px;
+  text-align: center;
+  margin-bottom: 16px;
+  box-shadow: var(--shadow-md);
+  cursor: pointer;
+  transition: transform 0.15s, box-shadow 0.15s;
+}
+.stat-total:hover { transform: translateY(-2px); box-shadow: var(--shadow-lg); }
+.stat-total .stat-num {
+  font-size: 52px;
+  font-weight: 800;
+  color: #fff;
+  line-height: 1;
+  letter-spacing: -2px;
+}
+.stat-total .stat-label {
+  font-size: 15px;
+  color: rgba(255,255,255,0.75);
+  margin-top: 6px;
+  font-weight: 500;
+}
+
+/* Sub stats – 4 cards in 2×2 */
+.stats-sub {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  margin-bottom: 28px;
+}
+.stat-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--r-lg);
+  padding: 18px 12px;
+  text-align: center;
+  transition: box-shadow 0.2s;
+}
+.stat-card:hover { box-shadow: var(--shadow-sm); }
+.stat-card .stat-num {
+  font-size: 30px;
+  font-weight: 800;
+  color: var(--primary);
+  line-height: 1.1;
+  letter-spacing: -1px;
+}
+.stat-card .stat-label {
+  font-size: 13px;
+  color: var(--text-muted);
+  margin-top: 4px;
+  font-weight: 500;
+}
+.stat-card.stat-green .stat-num { color: var(--green); }
+.stat-card.stat-amber .stat-num { color: var(--amber); }
+.stat-card.stat-red .stat-num { color: var(--red); }
+
+.stats-section { margin-bottom: 28px; }
+.stats-section h3 {
+  font-size: 15px;
+  font-weight: 700;
+  margin-bottom: 16px;
+  color: var(--text);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.stats-section h3::after {
+  content: '';
+  flex: 1;
+  height: 1px;
+  background: var(--border);
+}
+.cat-bar { margin-bottom: 12px; }
+.cat-bar-label {
+  display: flex;
+  justify-content: space-between;
+  font-size: 13px;
+  margin-bottom: 4px;
+}
+.cat-bar-label span:first-child { font-weight: 600; }
+.cat-bar-label span:last-child { color: var(--text-muted); }
+.cat-bar-track {
+  height: 8px;
+  background: var(--border-light);
+  border-radius: var(--r-full);
+  overflow: hidden;
+}
+.cat-bar-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--primary), #60a5fa);
+  border-radius: var(--r-full);
+  transition: width 0.6s ease;
+}
+
+/* Today card – standalone hero */
+.stat-today {
+  display: block;
+  width: 100%;
+  background: var(--surface);
+  border: 2px solid var(--primary-light);
+  border-radius: var(--r-lg);
+  padding: 20px 24px;
+  text-align: center;
+  margin-bottom: 12px;
+  box-shadow: var(--shadow-sm);
+}
+.stat-today .stat-num {
+  font-size: 40px;
+  font-weight: 800;
+  color: var(--primary);
+  line-height: 1;
+  letter-spacing: -1px;
+}
+.stat-today .stat-label {
+  font-size: 14px;
+  color: var(--text-muted);
+  margin-top: 4px;
+  font-weight: 500;
+}
+
+/* Recent days grid (6 days, 3×2 on desktop, 2×3 on mobile) */
+.stats-days {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px;
+}
+.stat-day {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--r-md);
+  padding: 14px 8px;
+  text-align: center;
+  transition: box-shadow 0.2s;
+}
+.stat-day .stat-num {
+  font-size: 18px;
+  font-weight: 800;
+  color: var(--text);
+  line-height: 1.2;
+}
+.stat-day .stat-label {
+  font-size: 12px;
+  color: var(--text-muted);
+  margin-top: 2px;
+}
+.stat-day.has-count .stat-num { color: var(--primary); }
+
+/* Browse – Status Filter */
+.browse-status-filter {
+  display: flex;
+  gap: 6px;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+}
+.status-btn {
+  padding: 6px 16px;
+  border: 1.5px solid var(--border);
+  background: var(--surface);
+  border-radius: var(--r-full);
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text-secondary);
+  cursor: pointer;
+  transition: all 0.15s;
+}
+.status-btn:hover { border-color: var(--primary); color: var(--primary); }
+.status-btn.active { background: var(--primary); color: #fff; border-color: var(--primary); }
+
+/* Stats – clickable modules */
+.stat-card-click { cursor: pointer; }
+.stat-card-click:hover { box-shadow: var(--shadow-md); transform: translateY(-1px); }
+.cat-bar-click { cursor: pointer; }
+.cat-bar-click:hover .cat-bar-track { background: var(--primary-light); }
+
+/* ─── Responsive ─── */
+@media (max-width: 640px) {
+  nav { padding: 0 12px; }
+  .nav-inner { gap: 6px; height: 52px; }
+  .nav-brand { font-size: 16px; }
+  .nav-brand small { display: none; }
+  .nav-stats { font-size: 11px; padding: 3px 10px; }
+  .nav-tab { padding: 6px 12px; font-size: 13px; }
+  main { padding: 20px 12px; }
+  .card-scene { max-width: 100%; }
+  .card-stack { padding-bottom: 76%; }
+  .card-face { padding: 28px 16px; }
+  .eval-btn { min-width: 80px; padding: 12px 6px; font-size: 13px; }
+
+  .browse-header { gap: 8px; }
+  .browse-search { min-width: 140px; padding: 10px 14px; font-size: 14px; }
+  .browse-filter { min-width: 100px; padding: 10px 14px; }
+  .status-btn { padding: 5px 12px; font-size: 12px; }
+
+  .browse-list-header {
+    grid-template-columns: 90px 1fr 80px;
+    gap: 10px;
+    padding: 8px 12px;
+    font-size: 11px;
+  }
+  .browse-row {
+    grid-template-columns: 90px 1fr 80px;
+    gap: 10px;
+    padding: 10px 12px;
+  }
+  .browse-row .word-text { font-size: 14px; }
+  .browse-row .ipa-text { font-size: 11px; }
+  .browse-row .meaning-main { font-size: 13px; }
+  .browse-row .meaning-ex { font-size: 11px; }
+  .browse-row .cat-label { font-size: 10px; padding: 3px 8px; }
+
+  .stat-total { padding: 20px 16px; }
+  .stat-total .stat-num { font-size: 40px; }
+  .stats-sub { gap: 8px; }
+  .stat-card { padding: 14px 10px; }
+  .stat-card .stat-num { font-size: 24px; }
+  .stat-today { padding: 16px; }
+  .stat-today .stat-num { font-size: 32px; }
+  .stats-days { grid-template-columns: repeat(2, 1fr); gap: 6px; }
+  .stat-day { padding: 10px 6px; }
+}
+</style>
+</head>
+<body>
+
+<nav>
+  <div class="nav-inner">
+    <div class="nav-brand">Words850 <small>Ogden</small></div>
+    <div class="nav-tabs">
+      <button type="button" class="nav-tab active" data-view="flashcard">词卡</button>
+      <button type="button" class="nav-tab" data-view="browse">浏览</button>
+      <button type="button" class="nav-tab" data-view="stats">进度</button>
+    </div>
+    <div class="nav-stats" id="navStats"></div>
+  </div>
+</nav>
+
+<main>
+  <!-- ════ Flashcard ════ -->
+  <section id="flashcard-view" class="view active">
+
+    <div class="flashcard-empty" id="emptyState">
+      <h2 id="emptyTitle">⏳ 加载中...</h2>
+      <p id="emptyDesc">正在加载单词数据</p>
+      <button type="button" id="emptyBtn" onclick="startNewSession()" style="display:none">学习新词</button>
+    </div>
+
+    <div id="cardArea" style="display:none;width:100%;flex-direction:column;align-items:center;gap:24px">
+      <div class="card-scene">
+        <div class="card-stack">
+          <div class="card-el" id="cardEl" onclick="flipCard()">
+            <div class="card-face card-front">
+              <div class="word" id="frontWord"></div>
+              <div class="ipa" id="frontIpa"></div>
+              <div class="cat-tag" id="frontCat"></div>
+              <div class="flip-hint">点击翻转</div>
+            </div>
+            <div class="card-face card-back">
+              <div class="meaning" id="backMeaning"></div>
+              <div class="def-en" id="backDef"></div>
+              <div class="example-box">
+                <div class="example-en" id="backExEn"></div>
+                <div class="example-cn" id="backExCn"></div>
+              </div>
+              <div class="synonyms" id="backSyn"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card-controls">
+        <button type="button" onclick="playWordAudio()" title="朗读 (A)">🔊</button>
+      </div>
+
+      <div class="eval-group">
+        <button type="button" class="eval-btn eval-dontknow" onclick="evalCard('dontknow')">✗ 不会 <span class="shortcut">1</span></button>
+        <button type="button" class="eval-btn eval-know" onclick="evalCard('know')">✓ 认识 <span class="shortcut">2</span></button>
+        <button type="button" class="eval-btn eval-mastered" onclick="evalCard('mastered')">★ 掌握 <span class="shortcut">3</span></button>
+      </div>
+
+      <div class="session-bar">
+        <div class="session-bar-row">
+          <span id="sessionPos"></span>
+          <span id="sessionTotal"></span>
+        </div>
+        <div class="session-track">
+          <div class="session-fill" id="sessionFill" style="width:0%"></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="voice-settings">
+      <label>🎙️ 发音人：</label>
+      <select id="voiceSelect" title="选择朗读音色"></select>
+    </div>
+  </section>
+
+  <!-- ════ Browse ════ -->
+  <section id="browse-view" class="view">
+    <div class="browse-header">
+      <input type="text" class="browse-search" id="searchInput" placeholder="搜索单词或中文释义..." autocomplete="off">
+      <select class="browse-filter" id="catFilter">
+        <option value="all">全部分类</option>
+      </select>
+      <span class="browse-count" id="browseCount"></span>
+    </div>
+    <div class="browse-status-filter" id="statusFilter">
+      <button type="button" class="status-btn active" data-status="all">全部</button>
+      <button type="button" class="status-btn" data-status="new">未学</button>
+      <button type="button" class="status-btn" data-status="learning">学习中</button>
+      <button type="button" class="status-btn" data-status="known">认识</button>
+      <button type="button" class="status-btn" data-status="mastered">已掌握</button>
+    </div>
+    <div class="browse-list-header">
+      <span class="col-word">单词</span>
+      <span class="col-meaning">释义</span>
+      <span class="col-cat">分类</span>
+    </div>
+    <div id="browseList"></div>
+  </section>
+
+  <!-- ════ Stats ════ -->
+  <section id="stats-view" class="view">
+    <div class="stat-total" id="statTotal"></div>
+    <div class="stats-sub" id="statsSub"></div>
+    <div class="stats-section" id="statsCats"></div>
+    <div class="stats-section" id="statsRecent">
+      <h3>近 7 天学习量</h3>
+      <div class="stat-today" id="statToday"></div>
+      <div class="stats-days" id="statsDays"></div>
+    </div>
+  </section>
+</main>
+
+<script>
+// ═══════════════════════════════════════════
+//  Config
+// ═══════════════════════════════════════════
+const STORAGE_KEY = 'words850_progress';
+const BOX_INTERVALS = [0, 0, 1, 3, 7, 30];
+const SESSION_MIN = 8;
+const SESSION_MAX = 50;
+
+const CATEGORY_NAMES = {
+  OP: '操作词', GT: '一般事物词', PT: '事物词',
+  QG: '性质和量词', OPP: '对立词'
+};
+
+// ═══════════════════════════════════════════
+//  State
+// ═══════════════════════════════════════════
+let allWords = [];
+let progress = {};
+let session = [];
+let sessionIdx = 0;
+let currentWordId = null;
+let isFlipped = false;
+let voices = [];
+let voiceReady = false;
+let pendingBrowseFilter = null;
+
+const $ = s => document.querySelector(s);
+const $$ = s => document.querySelectorAll(s);
+
+// ═══════════════════════════════════════════
+//  Data Loading
+// ═══════════════════════════════════════════
+function loadData() {
+  if (!window.__WORDS_DATA || !window.__WORDS_DATA.length) {
+    $('#emptyTitle').textContent = '❌ 加载失败';
+    $('#emptyDesc').textContent = '无法加载单词数据，请确保 words_data.js 文件存在。';
+    return;
+  }
+  allWords = window.__WORDS_DATA;
+  loadProgress();
+  populateCatFilter();
+  initVoices();
+  buildSession();
+  updateNavStats();
+}
+
+// ═══════════════════════════════════════════
+//  Progress (localStorage)
+// ═══════════════════════════════════════════
+function loadProgress() {
+  try {
+    const raw = localStorage.getItem(STORAGE_KEY);
+    progress = raw ? JSON.parse(raw) : {};
+  } catch { progress = {}; }
+}
+
+function saveProgress() {
+  localStorage.setItem(STORAGE_KEY, JSON.stringify(progress));
+}
+
+function getRecord(wordId) {
+  if (!progress[wordId]) {
+    progress[wordId] = { box: 0, nextReview: 0, lastReview: 0, correctCount: 0, incorrectCount: 0 };
+  }
+  return progress[wordId];
+}
+
+function wordStatus(wordId) {
+  const rec = progress[wordId];
+  if (!rec) return 'new';
+  if (rec.box >= 5) return 'mastered';
+  if (rec.box >= 2) return 'known';
+  if (rec.box >= 1) return 'learning';
+  return 'new';
+}
+
+// ═══════════════════════════════════════════
+//  Session Building (Leitner)
+// ═══════════════════════════════════════════
+function buildSession() {
+  if (allWords.length === 0) return;
+  const now = Date.now();
+  const due = [];
+  const newWords = [];
+  for (const w of allWords) {
+    const rec = progress[w.id];
+    if (!rec) { newWords.push(w); continue; }
+    if (rec.nextReview <= now) due.push(w);
+  }
+  due.sort((a, b) => getRecord(a.id).nextReview - getRecord(b.id).nextReview);
+  let pool = due.slice(0, SESSION_MAX);
+  if (pool.length < SESSION_MIN && newWords.length > 0) {
+    const needed = Math.min(SESSION_MIN - pool.length, newWords.length, 15);
+    const shuffled = newWords.sort(() => Math.random() - 0.5).slice(0, needed);
+    pool = pool.concat(shuffled);
+  }
+  session = pool.sort(() => Math.random() - 0.5);
+  sessionIdx = 0;
+  updateNavStats();
+  renderFlashcard();
+}
+
+function startNewSession() {
+  session = allWords.slice().sort(() => Math.random() - 0.5).slice(0, SESSION_MAX);
+  sessionIdx = 0;
+  updateNavStats();
+  renderFlashcard();
+}
+
+// ═══════════════════════════════════════════
+//  Flashcard Engine
+// ═══════════════════════════════════════════
+function renderFlashcard() {
+  const empty = $('#emptyState');
+  const area = $('#cardArea');
+  if (session.length === 0) {
+    empty.style.display = 'block';
+    area.style.display = 'none';
+    const hasProgress = Object.keys(progress).length > 0;
+    $('#emptyTitle').textContent = hasProgress ? '🎉 全部掌握！' : '⏳ 加载中...';
+    $('#emptyDesc').textContent = hasProgress ? '所有单词已学完，明天再来复习吧' : '正在加载单词数据';
+    $('#emptyBtn').style.display = hasProgress ? 'inline-block' : 'none';
+    $('#emptyBtn').textContent = '随机复习';
+    return;
+  }
+  empty.style.display = 'none';
+  area.style.display = 'flex';
+  const w = session[sessionIdx];
+  if (!w) { sessionIdx = 0; renderFlashcard(); return; }
+  currentWordId = w.id;
+  isFlipped = false;
+  const card = $('#cardEl');
+  card.classList.remove('flipped');
+  $('#frontWord').textContent = w.word;
+  $('#frontIpa').textContent = w.ipa || '';
+  $('#frontCat').textContent = `${w.category} ${CATEGORY_NAMES[w.category] || ''}`;
+  $('#backMeaning').textContent = w.meaning_cn;
+  $('#backDef').textContent = w.definition_en || '';
+  $('#backExEn').textContent = w.example?.en || '';
+  $('#backExCn').textContent = w.example?.cn || '';
+  $('#backSyn').textContent = w.synonyms?.length ? `同义词: ${w.synonyms.join(', ')}` : '';
+  $$('.eval-btn').forEach(b => b.disabled = true);
+  const pos = sessionIdx + 1;
+  $('#sessionPos').textContent = `第 ${pos} 张`;
+  $('#sessionTotal').textContent = `共 ${session.length} 张`;
+  $('#sessionFill').style.width = `${(sessionIdx / session.length) * 100}%`;
+  updateNavStats();
+}
+
+function flipCard() {
+  if (!currentWordId) return;
+  const card = $('#cardEl');
+  isFlipped = !isFlipped;
+  card.classList.toggle('flipped', isFlipped);
+  if (isFlipped) {
+    $$('.eval-btn').forEach(b => b.disabled = false);
+  }
+}
+
+function evalCard(action) {
+  if (!currentWordId || !isFlipped) return;
+  const rec = getRecord(currentWordId);
+  const now = Date.now();
+  rec.lastReview = now;
+  rec.nextReview = now;
+  if (action === 'dontknow') {
+    rec.box = Math.max(0, rec.box - 1);
+    rec.incorrectCount = (rec.incorrectCount || 0) + 1;
+    rec.nextReview = now + 60000;
+  } else if (action === 'know') {
+    rec.box = Math.min(5, rec.box + 1);
+    rec.correctCount = (rec.correctCount || 0) + 1;
+    const days = BOX_INTERVALS[rec.box] || 1;
+    rec.nextReview = now + days * 86400000;
+  } else if (action === 'mastered') {
+    rec.box = 5;
+    rec.correctCount = (rec.correctCount || 0) + 1;
+    rec.nextReview = now + 30 * 86400000;
+  }
+  saveProgress();
+  $$('.eval-btn').forEach(b => b.disabled = true);
+  sessionIdx++;
+  if (sessionIdx >= session.length) {
+    showSessionComplete();
+  } else {
+    renderFlashcard();
+  }
+  updateNavStats();
+}
+
+function showSessionComplete() {
+  const area = $('#cardArea');
+  area.style.display = 'none';
+  const empty = $('#emptyState');
+  empty.style.display = 'block';
+  $('#emptyTitle').textContent = '🎉 本轮完成！';
+  $('#emptyDesc').textContent = `共复习 ${session.length} 张卡片`;
+  $('#emptyBtn').style.display = 'inline-block';
+}
+
+// ═══════════════════════════════════════════
+//  Audio
+// ═══════════════════════════════════════════
+const audioCache = {};
+
+function playWordAudio() {
+  if (!currentWordId) return;
+  const w = allWords.find(x => x.id === currentWordId);
+  if (!w) return;
+  if (isFlipped) {
+    playAudioFile(`${currentWordId}_sentence.wav`, w.example?.en || w.word);
+  } else {
+    playAudioFile(`${currentWordId}_word.wav`, w.word);
+  }
+}
+
+function playAudioFile(filename, fallbackText) {
+  const path = `audio/${filename}`;
+  if (audioCache[filename] === 'pending') return;
+  if (audioCache[filename] === false) { speakText(fallbackText); return; }
+  if (audioCache[filename] === true) {
+    new Audio(path).play().catch(() => speakText(fallbackText));
+    return;
+  }
+  audioCache[filename] = 'pending';
+  const audio = new Audio(path);
+  audio.oncanplaythrough = () => {
+    audioCache[filename] = true;
+    audio.play().catch(() => speakText(fallbackText));
+  };
+  audio.onerror = () => {
+    audioCache[filename] = false;
+    speakText(fallbackText);
+  };
+}
+
+function speakText(text) {
+  if (!text) return;
+  window.speechSynthesis.cancel();
+  const u = new SpeechSynthesisUtterance(text);
+  const sel = $('#voiceSelect').value;
+  if (sel && voices[sel]) u.voice = voices[sel];
+  u.lang = 'en-US';
+  u.rate = 0.9;
+  window.speechSynthesis.speak(u);
+}
+
+// ═══════════════════════════════════════════
+//  Voice Management
+// ═══════════════════════════════════════════
+function initVoices() {
+  const sel = $('#voiceSelect');
+  const tryLoad = () => {
+    let v = window.speechSynthesis.getVoices();
+    if (v.length === 0) {
+      const d = new SpeechSynthesisUtterance('');
+      window.speechSynthesis.speak(d);
+      window.speechSynthesis.cancel();
+      v = window.speechSynthesis.getVoices();
+    }
+    voices = v.filter(x => x.lang.startsWith('en'));
+    if (voices.length === 0) {
+      setTimeout(tryLoad, 300);
+      return;
+    }
+    populateVoiceSelect(sel);
+  };
+  if (speechSynthesis.onvoiceschanged !== undefined) {
+    speechSynthesis.onvoiceschanged = tryLoad;
+  }
+  setTimeout(tryLoad, 100);
+}
+
+function populateVoiceSelect(sel) {
+  voices.sort((a, b) => {
+    const prio = (n) => (n.includes('Natural') || n.includes('Online') ? 0 : 1);
+    return prio(a.name) - prio(b.name) || a.lang.localeCompare(b.lang);
+  });
+  sel.innerHTML = '<option value="">默认音色</option>';
+  voices.forEach((v, i) => {
+    const opt = document.createElement('option');
+    opt.value = i;
+    opt.textContent = `${v.name} (${v.lang})`;
+    sel.appendChild(opt);
+  });
+  voiceReady = true;
+}
+
+// ═══════════════════════════════════════════
+//  Browse Mode
+// ═══════════════════════════════════════════
+function populateCatFilter() {
+  const sel = $('#catFilter');
+  const cats = [...new Set(allWords.map(w => w.category).filter(Boolean))].sort();
+  cats.forEach(c => {
+    const opt = document.createElement('option');
+    opt.value = c;
+    opt.textContent = `${c} — ${CATEGORY_NAMES[c] || ''}`;
+    sel.appendChild(opt);
+  });
+}
+
+function renderBrowse() {
+  const statusBtns = $$('#statusFilter .status-btn');
+  const statusActive = $('#statusFilter .status-btn.active');
+
+  if (pendingBrowseFilter) {
+    if (pendingBrowseFilter.status != null) {
+      statusBtns.forEach(b => b.classList.toggle('active', b.dataset.status === pendingBrowseFilter.status));
+      $('#catFilter').value = 'all';
+    }
+    if (pendingBrowseFilter.cat != null) {
+      $('#catFilter').value = pendingBrowseFilter.cat;
+      statusBtns.forEach(b => b.classList.toggle('active', b.dataset.status === 'all'));
+    }
+    if (pendingBrowseFilter.status == null && pendingBrowseFilter.cat == null) {
+      statusBtns.forEach(b => b.classList.toggle('active', b.dataset.status === 'all'));
+      $('#catFilter').value = 'all';
+    }
+    pendingBrowseFilter = null;
+  }
+
+  const kw = $('#searchInput').value.trim().toLowerCase();
+  const cat = $('#catFilter').value;
+  const status = $('#statusFilter .status-btn.active')?.dataset.status || 'all';
+  const list = $('#browseList');
+
+  let data = allWords;
+  if (cat !== 'all') data = data.filter(w => w.category === cat);
+  if (status !== 'all') data = data.filter(w => wordStatus(w.id) === status);
+  if (kw) data = data.filter(w =>
+    w.word.toLowerCase().includes(kw) ||
+    w.meaning_cn.includes(kw) ||
+    (w.definition_en && w.definition_en.toLowerCase().includes(kw))
+  );
+
+  $('#browseCount').textContent = `${data.length} 条`;
+
+  list.innerHTML = data.map(w => {
+    const st = wordStatus(w.id);
+    const dots = { new: 's-new', learning: 's-learning', known: 's-known', mastered: 's-mastered' };
+    return `<div class="browse-row" onclick="goToCard('${w.id}')">
+      <span class="word-col">
+        <span class="word-text">${w.word}</span>
+        <span class="ipa-text">${w.ipa || ''}</span>
+      </span>
+      <span class="meaning-col">
+        <span class="meaning-main">${w.meaning_cn}</span>
+        ${w.example?.cn ? `<span class="meaning-ex">${w.example.cn}</span>` : ''}
+      </span>
+      <span class="cat-col">
+        <span class="cat-label">${w.category}</span>
+        <span class="status-dot ${dots[st] || 's-new'}"></span>
+      </span>
+    </div>`;
+  }).join('');
+}
+
+function goToCard(wordId) {
+  const idx = allWords.findIndex(w => w.id === wordId);
+  if (idx === -1) return;
+  session = allWords.slice();
+  sessionIdx = idx;
+  switchView('flashcard');
+  renderFlashcard();
+}
+
+// ═══════════════════════════════════════════
+//  Stats Mode
+// ═══════════════════════════════════════════
+function renderStats() {
+  const total = allWords.length;
+  let mastered = 0, known = 0, learning = 0, newCount = 0;
+  const catCounts = {};
+  for (const w of allWords) {
+    const st = wordStatus(w.id);
+    if (st === 'mastered') mastered++;
+    else if (st === 'known') known++;
+    else if (st === 'learning') learning++;
+    else newCount++;
+    const c = w.category || '?';
+    if (!catCounts[c]) catCounts[c] = { total: 0, mastered: 0 };
+    catCounts[c].total++;
+    if (st === 'mastered') catCounts[c].mastered++;
+  }
+  const done = mastered + known;
+  const pct = total ? Math.round(done / total * 100) : 0;
+
+  /* Total progress – standalone hero */
+  $('#statTotal').innerHTML = `
+    <div class="stat-num">${pct}%</div>
+    <div class="stat-label">总进度 · ${done}/${total}</div>
+  `;
+  $('#statTotal').dataset.filterCat = '';
+  $('#statTotal').dataset.filterStatus = '';
+
+  /* Sub stats – 4 cards in 2×2 */
+  $('#statsSub').innerHTML = `
+    <div class="stat-card stat-green stat-card-click" data-filter-status="mastered"><div class="stat-num">${mastered}</div><div class="stat-label">已掌握</div></div>
+    <div class="stat-card stat-card-click" data-filter-status="known"><div class="stat-num">${known}</div><div class="stat-label">认识</div></div>
+    <div class="stat-card stat-amber stat-card-click" data-filter-status="learning"><div class="stat-num">${learning}</div><div class="stat-label">学习中</div></div>
+    <div class="stat-card stat-red stat-card-click" data-filter-status="new"><div class="stat-num">${newCount}</div><div class="stat-label">未学</div></div>
+  `;
+
+  /* Category progress */
+  const catsHtml = Object.entries(catCounts).sort().map(([cat, c]) => {
+    const cp = c.total ? Math.round(c.mastered / c.total * 100) : 0;
+    return `<div class="cat-bar cat-bar-click" data-filter-cat="${cat}">
+      <div class="cat-bar-label">
+        <span>${cat} — ${CATEGORY_NAMES[cat] || ''}</span>
+        <span>${c.mastered}/${c.total} (${cp}%)</span>
+      </div>
+      <div class="cat-bar-track"><div class="cat-bar-fill" style="width:${cp}%"></div></div>
+    </div>`;
+  }).join('');
+  $('#statsCats').innerHTML = `<h3>分类进度</h3>${catsHtml}`;
+
+  /* Recent 7 days – today standalone, rest in grid */
+  const today = new Date().toDateString();
+  const dayNames = ['日', '一', '二', '三', '四', '五', '六'];
+  const days = [];
+  for (let i = 6; i >= 0; i--) {
+    const d = new Date(Date.now() - i * 86400000);
+    days.push({ ds: d.toDateString(), date: d });
+  }
+
+  let todayCount = 0;
+  const dayCards = days.map(({ ds, date }) => {
+    const count = Object.values(progress).filter(p => {
+      if (!p.lastReview) return false;
+      return new Date(p.lastReview).toDateString() === ds;
+    }).length;
+    if (ds === today) { todayCount = count; return ''; }
+    const cls = count > 0 ? 'has-count' : '';
+    return `<div class="stat-day ${cls}">
+      <div class="stat-num">${count}</div>
+      <div class="stat-label">周${dayNames[date.getDay()]}</div>
+    </div>`;
+  }).filter(Boolean).join('');
+
+  $('#statToday').innerHTML = `
+    <div class="stat-num">${todayCount}</div>
+    <div class="stat-label">今天</div>
+  `;
+  $('#statsDays').innerHTML = dayCards;
+}
+
+// ═══════════════════════════════════════════
+//  Navigation
+// ═══════════════════════════════════════════
+function switchView(name) {
+  $$('.view').forEach(v => v.classList.remove('active'));
+  $$('.nav-tab').forEach(t => t.classList.remove('active'));
+  document.getElementById(`${name}-view`).classList.add('active');
+  document.querySelector(`.nav-tab[data-view="${name}"]`).classList.add('active');
+  if (name === 'browse') renderBrowse();
+  if (name === 'stats') renderStats();
+  if (name === 'flashcard') renderFlashcard();
+}
+
+function updateNavStats() {
+  const total = allWords.length;
+  let mastered = 0, known = 0;
+  for (const w of allWords) {
+    const st = wordStatus(w.id);
+    if (st === 'mastered') mastered++;
+    else if (st === 'known') known++;
+  }
+  const due = session.length;
+  $('#navStats').textContent = `掌握 ${mastered+known}/${total} · 待复习 ${due}`;
+}
+
+// ═══════════════════════════════════════════
+//  Event Bindings
+// ═══════════════════════════════════════════
+document.addEventListener('DOMContentLoaded', loadData);
+$$('.nav-tab').forEach(tab => {
+  tab.addEventListener('click', () => switchView(tab.dataset.view));
+});
+$('#searchInput').addEventListener('input', renderBrowse);
+$('#catFilter').addEventListener('change', () => {
+  $$('#statusFilter .status-btn').forEach(b => b.classList.toggle('active', b.dataset.status === 'all'));
+  renderBrowse();
+});
+
+/* Status filter buttons */
+$$('#statusFilter .status-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    $$('#statusFilter .status-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    $('#catFilter').value = 'all';
+    renderBrowse();
+  });
+});
+
+/* Stats → Browse click delegation */
+$('#stats-view').addEventListener('click', e => {
+  const card = e.target.closest('.stat-card-click');
+  if (card) {
+    pendingBrowseFilter = { status: card.dataset.filterStatus, cat: null };
+    switchView('browse');
+    return;
+  }
+  const catBar = e.target.closest('.cat-bar-click');
+  if (catBar) {
+    pendingBrowseFilter = { status: null, cat: catBar.dataset.filterCat };
+    switchView('browse');
+    return;
+  }
+  const total = e.target.closest('.stat-total');
+  if (total) {
+    pendingBrowseFilter = { status: null, cat: null };
+    switchView('browse');
+    return;
+  }
+});
+
+document.addEventListener('keydown', e => {
+  if (e.target.tagName === 'INPUT' || e.target.tagName === 'SELECT') return;
+  switch (e.key) {
+    case ' ': e.preventDefault(); flipCard(); break;
+    case 'a': case 'A': e.preventDefault(); playWordAudio(); break;
+    case '1': if (isFlipped) evalCard('dontknow'); break;
+    case '2': if (isFlipped) evalCard('know'); break;
+    case '3': if (isFlipped) evalCard('mastered'); break;
+  }
+});
+</script>
+</body>
+</html>
