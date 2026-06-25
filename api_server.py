@@ -21,7 +21,9 @@ import httpx
 
 DATA_PATH = "ogden_850_words_with_ipa.json"
 JS_PATH = "words_data.js"
-DEFAULT_OLLAMA_URL = "http://localhost:11434/v1/chat/completions"
+OLLAMA_BASE = os.environ.get("OLLAMA_BASE", "http://localhost:11434")
+DEFAULT_OLLAMA_URL = f"{OLLAMA_BASE}/v1/chat/completions"
+DEFAULT_TTS_URL = os.environ.get("TTS_URL", "")
 
 LEVEL_DESC = {
     "beginner": "A1 level, ≤5 words, only basic vocabulary, SVO sentences",
@@ -60,12 +62,21 @@ def save_data(entries):
 
 class Handler(BaseHTTPRequestHandler):
     api_url = DEFAULT_OLLAMA_URL
+    ollama_base = OLLAMA_BASE
     model = "huihui_ai/hy-mt1.5-abliterated:latest"
+    tts_url = DEFAULT_TTS_URL
+    tts_voice = ""
 
     def do_GET(self):
         path = urlparse(self.path).path
         if path == "/health":
-            self._json(200, {"status": "ok"})
+            self._json(200, {"status": "ok", "model": self.model, "tts_url": self.tts_url, "tts_voice": self.tts_voice})
+            return
+        if path == "/models":
+            self._handle_list_models()
+            return
+        if path == "/config":
+            self._json(200, {"model": self.model, "tts_url": self.tts_url, "tts_voice": self.tts_voice})
             return
         if path in ("", "/"):
             path = "/index.html"
@@ -93,6 +104,12 @@ class Handler(BaseHTTPRequestHandler):
 
     def do_POST(self):
         path = urlparse(self.path).path
+        if path == "/config":
+            self._handle_set_config()
+            return
+        if path == "/tts":
+            self._handle_tts()
+            return
         if path != "/generate":
             self._json(404, {"error": "not found"})
             return
@@ -118,6 +135,59 @@ class Handler(BaseHTTPRequestHandler):
             self._json(200, result)
         except Exception as e:
             self._json(500, {"error": str(e)})
+
+    def _handle_list_models(self):
+        try:
+            resp = httpx.get(f"{self.ollama_base}/api/tags", timeout=10)
+            resp.raise_for_status()
+            models = [m["name"] for m in resp.json().get("models", [])]
+            self._json(200, {"models": models})
+        except Exception as e:
+            self._json(200, {"models": [], "error": str(e)})
+
+    def _handle_set_config(self):
+        try:
+            length = int(self.headers.get("Content-Length", 0))
+            body = json.loads(self.rfile.read(length))
+        except Exception as e:
+            self._json(400, {"error": f"bad request: {e}"})
+            return
+        if "model" in body and body["model"]:
+            self.model = body["model"]
+        if "tts_url" in body:
+            self.tts_url = body["tts_url"]
+        if "tts_voice" in body:
+            self.tts_voice = body["tts_voice"]
+        print(f"[config] model={self.model} tts_url={self.tts_url} tts_voice={self.tts_voice}")
+        self._json(200, {"model": self.model, "tts_url": self.tts_url, "tts_voice": self.tts_voice})
+
+    def _handle_tts(self):
+        if not self.tts_url:
+            self._json(400, {"error": "TTS_URL not configured"})
+            return
+        try:
+            length = int(self.headers.get("Content-Length", 0))
+            body = json.loads(self.rfile.read(length))
+        except Exception as e:
+            self._json(400, {"error": f"bad request: {e}"})
+            return
+        text = body.get("text", "")
+        if not text:
+            self._json(400, {"error": "text is required"})
+            return
+        try:
+            payload = {"text": text}
+            if self.tts_voice:
+                payload["voice"] = self.tts_voice
+            resp = httpx.post(self.tts_url, json=payload, timeout=60)
+            resp.raise_for_status()
+            self.send_response(200)
+            self.send_header("Content-Type", resp.headers.get("content-type", "audio/wav"))
+            self.send_header("Access-Control-Allow-Origin", "*")
+            self.end_headers()
+            self.wfile.write(resp.content)
+        except Exception as e:
+            self._json(500, {"error": f"TTS failed: {e}"})
 
     def _generate(self, word_id, tense, level, count):
         entries = load_data()
@@ -216,6 +286,8 @@ def main():
 
     Handler.api_url = os.environ.get("LLM_API_URL", args.api_url)
     Handler.model = os.environ.get("LLM_MODEL", args.model)
+    Handler.tts_url = os.environ.get("TTS_URL", "")
+    Handler.tts_voice = os.environ.get("TTS_VOICE", "")
 
     server = HTTPServer(("0.0.0.0", args.port), Handler)
     print(f"Words850 API running at http://localhost:{args.port}")

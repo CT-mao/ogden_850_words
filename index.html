@@ -1100,6 +1100,21 @@ main {
         </div>
       </div>
 
+      <div class="modal-section">
+        <h3>大模型 <span style="font-weight:400;text-transform:none;color:var(--text-muted)">（例句生成）</span></h3>
+        <select id="llmModelSelect" style="width:100%;padding:10px 14px;font-size:14px;border:2px solid var(--border);border-radius:var(--r-md);outline:none;background:var(--surface);color:var(--text)"></select>
+      </div>
+
+      <div class="modal-section">
+        <h3>语音引擎 <span style="font-weight:400;text-transform:none;color:var(--text-muted)">（朗读）</span></h3>
+        <div style="display:flex;flex-direction:column;gap:8px">
+          <label style="font-size:13px;color:var(--text-muted)">TTS 接口地址（留空 = 浏览器语音）</label>
+          <input type="url" id="ttsUrlInput" placeholder="例如 http://localhost:5200/tts" style="padding:10px 14px;font-size:14px;border:2px solid var(--border);border-radius:var(--r-md);outline:none;background:var(--surface);color:var(--text)">
+          <label style="font-size:13px;color:var(--text-muted)">音色参数（可选）</label>
+          <input type="text" id="ttsVoiceInput" placeholder="例如 af_bella" style="padding:10px 14px;font-size:14px;border:2px solid var(--border);border-radius:var(--r-md);outline:none;background:var(--surface);color:var(--text)">
+        </div>
+      </div>
+
       <div class="modal-actions">
         <button type="button" class="modal-btn modal-btn-ghost" onclick="closeSettings()">取消</button>
         <button type="button" class="modal-btn modal-btn-primary" onclick="saveSettings()">确定</button>
@@ -1190,6 +1205,12 @@ let filteredExamples = [];
 let exampleIdx = 0;
 let isGenerating = false;
 
+// Server config
+let llmModel = 'huihui_ai/hy-mt1.5-abliterated:latest';
+let ttsUrl = '';
+let ttsVoice = '';
+let availableModels = [];
+
 const $ = s => document.querySelector(s);
 const $$ = s => document.querySelectorAll(s);
 
@@ -1251,7 +1272,16 @@ function loadSettings() {
       const s = JSON.parse(raw);
       userLevel = s.level || 'beginner';
       userTenses = s.tenses || ['simple_present', 'simple_past', 'simple_future'];
+      llmModel = s.llmModel || llmModel;
+      ttsUrl = s.ttsUrl || '';
+      ttsVoice = s.ttsVoice || '';
     }
+    // sync to server
+    fetch(API_URL + '/config', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ model: llmModel, tts_url: ttsUrl, tts_voice: ttsVoice }),
+    }).catch(() => {});
   } catch { /* use defaults */ }
 }
 
@@ -1261,14 +1291,44 @@ function saveSettings() {
   if (!level || tenses.length === 0) return;
   userLevel = level.value;
   userTenses = tenses;
-  localStorage.setItem(SETTINGS_KEY, JSON.stringify({ level: userLevel, tenses: userTenses }));
+
+  const modelSel = document.getElementById('llmModelSelect');
+  llmModel = modelSel.value || llmModel;
+  ttsUrl = document.getElementById('ttsUrlInput').value.trim();
+  ttsVoice = document.getElementById('ttsVoiceInput').value.trim();
+
+  localStorage.setItem(SETTINGS_KEY, JSON.stringify({ level: userLevel, tenses: userTenses, llmModel, ttsUrl, ttsVoice }));
+
+  fetch(API_URL + '/config', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ model: llmModel, tts_url: ttsUrl, tts_voice: ttsVoice }),
+  }).catch(() => {});
+
   closeSettings();
   if (isFlipped) renderExamples();
 }
 
-function openSettings() {
+async function openSettings() {
   document.querySelector('#levelGroup input[value="' + userLevel + '"]').checked = true;
   document.querySelectorAll('#tenseGroup input').forEach(c => { c.checked = userTenses.includes(c.value); });
+  document.getElementById('ttsUrlInput').value = ttsUrl;
+  document.getElementById('ttsVoiceInput').value = ttsVoice;
+
+  const sel = document.getElementById('llmModelSelect');
+  sel.innerHTML = '<option value="' + llmModel + '">' + llmModel + '</option>';
+  sel.value = llmModel;
+  try {
+    const resp = await fetch(API_URL + '/models');
+    const data = await resp.json();
+    if (data.models && data.models.length > 0) {
+      availableModels = data.models;
+      sel.innerHTML = data.models.map(m =>
+        '<option value="' + m + '"' + (m === llmModel ? ' selected' : '') + '>' + m + '</option>'
+      ).join('');
+    }
+  } catch {}
+
   document.getElementById('settingsOverlay').classList.add('open');
 }
 
@@ -1558,8 +1618,25 @@ function playAudioFile(filename, fallbackText) {
   };
 }
 
-function speakText(text) {
+async function speakText(text) {
   if (!text) return;
+  if (ttsUrl) {
+    try {
+      const resp = await fetch(API_URL + '/tts', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ text, voice: ttsVoice }),
+      });
+      if (resp.ok) {
+        const blob = await resp.blob();
+        const url = URL.createObjectURL(blob);
+        const a = new Audio(url);
+        a.onended = () => URL.revokeObjectURL(url);
+        await a.play();
+        return;
+      }
+    } catch {}
+  }
   window.speechSynthesis.cancel();
   const u = new SpeechSynthesisUtterance(text);
   const sel = $('#voiceSelect').value;
