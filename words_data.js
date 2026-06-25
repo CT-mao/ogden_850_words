@@ -37,6 +37,20 @@ window.__WORDS_DATA =
         "cn": "如果明天下雨，我们可能就不会去公园了。",
         "tense": "simple_future",
         "level": "intermediate"
+      },
+      {
+        "id": "word_001_04",
+        "en": "She will come to the party tonight.",
+        "cn": "她今晚会来参加派对。",
+        "tense": "simple_future",
+        "level": "beginner"
+      },
+      {
+        "id": "word_001_05",
+        "en": "When the sun comes up, it will be bright outside.",
+        "cn": "当太阳升起时，外面会很明亮。",
+        "tense": "simple_future",
+        "level": "beginner"
       }
     ]
   },

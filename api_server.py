@@ -1,14 +1,20 @@
-"""Step 5: 本地 API 服务 — 前端按需调用 LLM 生成例句
+"""本地服务 — 托管前端 + AI 例句生成
+
+前端与 API 同端口，一条命令启动：
+  python3 api_server.py
 
 Usage:
   python3 api_server.py [--port 5201] [--model huihui_ai/hy-mt1.5-abliterated:latest]
+  LLM_MODEL=qwen3.5:9b python3 api_server.py
 """
 
 import argparse
 import json
+import mimetypes
 import os
 import time
 from http.server import HTTPServer, BaseHTTPRequestHandler
+from pathlib import Path
 from urllib.parse import urlparse
 
 import httpx
@@ -57,10 +63,33 @@ class Handler(BaseHTTPRequestHandler):
     model = "huihui_ai/hy-mt1.5-abliterated:latest"
 
     def do_GET(self):
-        if urlparse(self.path).path == "/health":
+        path = urlparse(self.path).path
+        if path == "/health":
             self._json(200, {"status": "ok"})
-        else:
+            return
+        if path in ("", "/"):
+            path = "/index.html"
+        self._serve_static(path)
+
+    def _serve_static(self, path):
+        filepath = Path(".") / path.lstrip("/")
+        filepath = filepath.resolve()
+        cwd = Path(".").resolve()
+        if not str(filepath).startswith(str(cwd)):
+            self._json(403, {"error": "forbidden"})
+            return
+        if not filepath.is_file():
             self._json(404, {"error": "not found"})
+            return
+        mime, _ = mimetypes.guess_type(str(filepath))
+        if mime is None:
+            mime = "application/octet-stream"
+        self.send_response(200)
+        self.send_header("Content-Type", mime)
+        self.send_header("Access-Control-Allow-Origin", "*")
+        self.end_headers()
+        with open(filepath, "rb") as f:
+            self.wfile.write(f.read())
 
     def do_POST(self):
         path = urlparse(self.path).path
