@@ -727,6 +727,209 @@ main {
 .cat-bar-click { cursor: pointer; }
 .cat-bar-click:hover .cat-bar-track { background: var(--primary-light); }
 
+/* ─── Settings Modal ─── */
+.modal-overlay {
+  position: fixed; inset: 0; z-index: 200;
+  background: rgba(15,23,42,0.45);
+  display: none; align-items: center; justify-content: center;
+  padding: 20px;
+}
+.modal-overlay.open { display: flex; }
+.modal-box {
+  background: var(--surface);
+  border-radius: var(--r-lg);
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow-xl);
+  padding: 28px 24px 20px;
+  width: 100%;
+  max-width: 480px;
+  max-height: 90vh;
+  overflow-y: auto;
+}
+.modal-box h2 {
+  font-size: 18px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  color: var(--text);
+}
+.modal-section { margin-bottom: 20px; }
+.modal-section h3 {
+  font-size: 13px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
+  color: var(--text-muted);
+  margin-bottom: 10px;
+}
+.radio-group, .check-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+.radio-group label, .check-group label {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 14px;
+  border: 1.5px solid var(--border);
+  border-radius: var(--r-full);
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.15s;
+  color: var(--text-secondary);
+  background: var(--surface);
+  user-select: none;
+}
+.radio-group label:hover, .check-group label:hover {
+  border-color: var(--primary);
+  color: var(--primary);
+}
+.radio-group input:checked + span,
+.check-group input:checked + span {
+  color: var(--primary);
+}
+.radio-group label:has(input:checked),
+.check-group label:has(input:checked) {
+  background: var(--primary-bg);
+  border-color: var(--primary);
+  color: var(--primary);
+}
+.radio-group input, .check-group input { display: none; }
+.level-desc {
+  font-size: 11px;
+  color: var(--text-muted);
+  font-weight: 400;
+  display: block;
+}
+.modal-actions {
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+  margin-top: 16px;
+  padding-top: 16px;
+  border-top: 1px solid var(--border);
+}
+.modal-btn {
+  padding: 10px 24px;
+  border: none;
+  border-radius: var(--r-md);
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+.modal-btn-primary {
+  background: var(--primary);
+  color: #fff;
+}
+.modal-btn-primary:hover { background: var(--primary-dark); }
+.modal-btn-ghost {
+  background: transparent;
+  color: var(--text-muted);
+}
+.modal-btn-ghost:hover { background: var(--bg); color: var(--text); }
+
+/* Settings trigger */
+.settings-trigger {
+  position: relative;
+}
+#settingsBtn {
+  width: 36px; height: 36px;
+  border: none;
+  background: transparent;
+  border-radius: var(--r-md);
+  cursor: pointer;
+  font-size: 18px;
+  color: var(--text-muted);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.15s;
+}
+#settingsBtn:hover { background: var(--primary-bg); color: var(--primary); }
+
+/* ─── Example navigation ─── */
+.example-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  margin-bottom: 6px;
+}
+.example-tags {
+  display: flex;
+  gap: 4px;
+  flex-wrap: wrap;
+}
+.example-tag {
+  padding: 2px 8px;
+  border-radius: var(--r-full);
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.2px;
+}
+.example-tag.level { background: var(--primary-light); color: var(--primary); }
+.example-tag.tense { background: var(--amber-bg); color: var(--amber); }
+.example-nav {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 13px;
+  color: var(--text-muted);
+}
+.example-nav button {
+  width: 28px; height: 28px;
+  border: 1px solid var(--border);
+  border-radius: 50%;
+  background: var(--surface);
+  cursor: pointer;
+  font-size: 13px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.15s;
+  color: var(--text-muted);
+}
+.example-nav button:hover { background: var(--primary-bg); color: var(--primary); border-color: var(--primary); }
+.example-nav button:disabled { opacity: 0.25; cursor: default; }
+
+.regenerate-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px 12px;
+  border: 1px solid var(--border);
+  border-radius: var(--r-full);
+  background: var(--surface);
+  font-size: 11px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.15s;
+  color: var(--text-muted);
+  margin-top: 10px;
+}
+.regenerate-btn:hover { border-color: var(--primary); color: var(--primary); background: var(--primary-bg); }
+.regenerate-btn:disabled { opacity: 0.4; cursor: wait; }
+.regenerate-btn .loader {
+  display: none;
+  width: 12px; height: 12px;
+  border: 2px solid var(--border);
+  border-top-color: var(--primary);
+  border-radius: 50%;
+  animation: spin 0.6s linear infinite;
+}
+.regenerate-btn.loading .loader { display: inline-block; }
+.regenerate-btn.loading .label { display: none; }
+@keyframes spin { to { transform: rotate(360deg); } }
+
+.no-examples {
+  font-size: 13px;
+  color: var(--text-muted);
+  text-align: center;
+  padding: 16px 0;
+}
+
 /* ─── Responsive ─── */
 @media (max-width: 640px) {
   nav { padding: 0 12px; }
@@ -785,6 +988,9 @@ main {
       <button type="button" class="nav-tab" data-view="browse">浏览</button>
       <button type="button" class="nav-tab" data-view="stats">进度</button>
     </div>
+    <div class="settings-trigger">
+      <button type="button" id="settingsBtn" onclick="openSettings()" title="学习设置">⚙</button>
+    </div>
     <div class="nav-stats" id="navStats"></div>
   </div>
 </nav>
@@ -812,9 +1018,24 @@ main {
             <div class="card-face card-back">
               <div class="meaning" id="backMeaning"></div>
               <div class="def-en" id="backDef"></div>
-              <div class="example-box">
+              <div class="example-box" id="exampleBox">
+                <div class="example-header" id="exampleHeader">
+                  <div class="example-tags" id="exampleTags"></div>
+                  <div class="example-nav" id="exampleNav">
+                    <button type="button" id="exPrev" onclick="prevExample()">‹</button>
+                    <span id="exCounter"></span>
+                    <button type="button" id="exNext" onclick="nextExample()">›</button>
+                  </div>
+                </div>
                 <div class="example-en" id="backExEn"></div>
                 <div class="example-cn" id="backExCn"></div>
+                <div class="no-examples" id="noExamples" style="display:none">当前设置下无例句，可尝试其他难度时态</div>
+                <div style="display:flex;gap:8px;align-items:center;justify-content:center;margin-top:8px">
+                  <button type="button" class="regenerate-btn" id="genBtn" onclick="generateExample()">
+                    <span class="loader"></span>
+                    <span class="label">用 AI 生成</span>
+                  </button>
+                </div>
               </div>
               <div class="synonyms" id="backSyn"></div>
             </div>
@@ -848,6 +1069,43 @@ main {
       <select id="voiceSelect" title="选择朗读音色"></select>
     </div>
   </section>
+
+  <!-- ════ Settings Modal ════ -->
+  <div class="modal-overlay" id="settingsOverlay">
+    <div class="modal-box">
+      <h2>学习设置</h2>
+
+      <div class="modal-section">
+        <h3>难度</h3>
+        <div class="radio-group" id="levelGroup">
+          <label><input type="radio" name="level" value="beginner"><span>初级 A1 <span class="level-desc">≤5词短句</span></span></label>
+          <label><input type="radio" name="level" value="elementary"><span>初中级 A2 <span class="level-desc">8-12词简单句</span></span></label>
+          <label><input type="radio" name="level" value="intermediate"><span>中级 B1 <span class="level-desc">复合句含从句</span></span></label>
+          <label><input type="radio" name="level" value="advanced"><span>中高级 B2-C1 <span class="level-desc">复杂句式</span></span></label>
+          <label><input type="radio" name="level" value="native"><span>母语级 C2 <span class="level-desc">地道表达习语</span></span></label>
+        </div>
+      </div>
+
+      <div class="modal-section">
+        <h3>时态 <span style="font-weight:400;text-transform:none;color:var(--text-muted)">（多选）</span></h3>
+        <div class="check-group" id="tenseGroup">
+          <label><input type="checkbox" value="simple_present"><span>一般现在时</span></label>
+          <label><input type="checkbox" value="present_continuous"><span>现在进行时</span></label>
+          <label><input type="checkbox" value="present_perfect"><span>现在完成时</span></label>
+          <label><input type="checkbox" value="simple_past"><span>一般过去时</span></label>
+          <label><input type="checkbox" value="past_continuous"><span>过去进行时</span></label>
+          <label><input type="checkbox" value="past_perfect"><span>过去完成时</span></label>
+          <label><input type="checkbox" value="simple_future"><span>一般将来时</span></label>
+          <label><input type="checkbox" value="future_continuous"><span>将来进行时</span></label>
+        </div>
+      </div>
+
+      <div class="modal-actions">
+        <button type="button" class="modal-btn modal-btn-ghost" onclick="closeSettings()">取消</button>
+        <button type="button" class="modal-btn modal-btn-primary" onclick="saveSettings()">确定</button>
+      </div>
+    </div>
+  </div>
 
   <!-- ════ Browse ════ -->
   <section id="browse-view" class="view">
@@ -891,6 +1149,8 @@ main {
 //  Config
 // ═══════════════════════════════════════════
 const STORAGE_KEY = 'words850_progress';
+const SETTINGS_KEY = 'words850_settings';
+const API_URL = 'http://localhost:5201';
 const BOX_INTERVALS = [0, 0, 1, 3, 7, 30];
 const SESSION_MIN = 8;
 const SESSION_MAX = 50;
@@ -898,6 +1158,16 @@ const SESSION_MAX = 50;
 const CATEGORY_NAMES = {
   OP: '操作词', GT: '一般事物词', PT: '事物词',
   QG: '性质和量词', OPP: '对立词'
+};
+
+const LEVEL_LABELS = {
+  beginner: '初级 A1', elementary: '初中级 A2', intermediate: '中级 B1',
+  advanced: '中高级 B2-C1', native: '母语级 C2'
+};
+const TENSE_LABELS = {
+  simple_present: '一般现在时', present_continuous: '现在进行时', present_perfect: '现在完成时',
+  simple_past: '一般过去时', past_continuous: '过去进行时', past_perfect: '过去完成时',
+  simple_future: '一般将来时', future_continuous: '将来进行时'
 };
 
 // ═══════════════════════════════════════════
@@ -913,6 +1183,13 @@ let voices = [];
 let voiceReady = false;
 let pendingBrowseFilter = null;
 
+// Example settings
+let userLevel = 'beginner';
+let userTenses = ['simple_present', 'simple_past', 'simple_future'];
+let filteredExamples = [];
+let exampleIdx = 0;
+let isGenerating = false;
+
 const $ = s => document.querySelector(s);
 const $$ = s => document.querySelectorAll(s);
 
@@ -927,6 +1204,7 @@ function loadData() {
   }
   allWords = window.__WORDS_DATA;
   loadProgress();
+  loadSettings();
   populateCatFilter();
   initVoices();
   buildSession();
@@ -961,6 +1239,163 @@ function wordStatus(wordId) {
   if (rec.box >= 2) return 'known';
   if (rec.box >= 1) return 'learning';
   return 'new';
+}
+
+// ═══════════════════════════════════════════
+//  Settings
+// ═══════════════════════════════════════════
+function loadSettings() {
+  try {
+    const raw = localStorage.getItem(SETTINGS_KEY);
+    if (raw) {
+      const s = JSON.parse(raw);
+      userLevel = s.level || 'beginner';
+      userTenses = s.tenses || ['simple_present', 'simple_past', 'simple_future'];
+    }
+  } catch { /* use defaults */ }
+}
+
+function saveSettings() {
+  const level = document.querySelector('#levelGroup input:checked');
+  const tenses = [...document.querySelectorAll('#tenseGroup input:checked')].map(c => c.value);
+  if (!level || tenses.length === 0) return;
+  userLevel = level.value;
+  userTenses = tenses;
+  localStorage.setItem(SETTINGS_KEY, JSON.stringify({ level: userLevel, tenses: userTenses }));
+  closeSettings();
+  if (isFlipped) renderExamples();
+}
+
+function openSettings() {
+  document.querySelector('#levelGroup input[value="' + userLevel + '"]').checked = true;
+  document.querySelectorAll('#tenseGroup input').forEach(c => { c.checked = userTenses.includes(c.value); });
+  document.getElementById('settingsOverlay').classList.add('open');
+}
+
+function closeSettings() {
+  document.getElementById('settingsOverlay').classList.remove('open');
+}
+
+// ═══════════════════════════════════════════
+//  Example display
+// ═══════════════════════════════════════════
+function getWordExamples(word) {
+  if (word.examples && word.examples.length > 0) return word.examples;
+  if (word.example && word.example.en) return [word.example];
+  return [];
+}
+
+function filterExamples(examples) {
+  return examples.filter(ex => {
+    const levelMatch = ex.level === userLevel;
+    const tenseMatch = userTenses.includes(ex.tense);
+    return levelMatch && tenseMatch;
+  });
+}
+
+function renderExamples() {
+  const w = allWords.find(x => x.id === currentWordId);
+  if (!w) return;
+  const all = getWordExamples(w);
+  filteredExamples = filterExamples(all);
+  exampleIdx = 0;
+
+  const box = document.getElementById('exampleBox');
+  const header = document.getElementById('exampleHeader');
+  const tags = document.getElementById('exampleTags');
+  const nav = document.getElementById('exampleNav');
+  const exEn = document.getElementById('backExEn');
+  const exCn = document.getElementById('backExCn');
+  const noEx = document.getElementById('noExamples');
+  const genBtn = document.getElementById('genBtn');
+
+  if (filteredExamples.length === 0) {
+    header.style.display = 'none';
+    exEn.textContent = '';
+    exCn.textContent = '';
+    noEx.style.display = 'block';
+    genBtn.style.display = 'inline-flex';
+    return;
+  }
+
+  noEx.style.display = 'none';
+  genBtn.style.display = 'none';
+  header.style.display = 'flex';
+
+  const ex = filteredExamples[0];
+  exEn.textContent = ex.en;
+  exCn.textContent = ex.cn || '';
+
+  let tagHtml = '';
+  if (ex.level) tagHtml += `<span class="example-tag level">${LEVEL_LABELS[ex.level] || ex.level}</span>`;
+  if (ex.tense) tagHtml += `<span class="example-tag tense">${TENSE_LABELS[ex.tense] || ex.tense}</span>`;
+  tags.innerHTML = tagHtml;
+
+  if (filteredExamples.length > 1) {
+    nav.style.display = 'flex';
+    document.getElementById('exCounter').textContent = `1/${filteredExamples.length}`;
+    document.getElementById('exPrev').disabled = true;
+    document.getElementById('exNext').disabled = false;
+  } else {
+    nav.style.display = 'none';
+  }
+}
+
+function showExampleAt(idx) {
+  if (idx < 0 || idx >= filteredExamples.length) return;
+  exampleIdx = idx;
+  const ex = filteredExamples[idx];
+  document.getElementById('backExEn').textContent = ex.en;
+  document.getElementById('backExCn').textContent = ex.cn || '';
+
+  const tags = document.getElementById('exampleTags');
+  tags.innerHTML = '';
+  if (ex.level) tags.innerHTML += `<span class="example-tag level">${LEVEL_LABELS[ex.level] || ex.level}</span>`;
+  if (ex.tense) tags.innerHTML += `<span class="example-tag tense">${TENSE_LABELS[ex.tense] || ex.tense}</span>`;
+
+  document.getElementById('exCounter').textContent = `${idx + 1}/${filteredExamples.length}`;
+  document.getElementById('exPrev').disabled = idx === 0;
+  document.getElementById('exNext').disabled = idx === filteredExamples.length - 1;
+
+  // enable eval buttons if card is flipped
+  if (isFlipped) $$('.eval-btn').forEach(b => b.disabled = false);
+}
+
+function prevExample() { if (exampleIdx > 0) showExampleAt(exampleIdx - 1); }
+function nextExample() { if (exampleIdx < filteredExamples.length - 1) showExampleAt(exampleIdx + 1); }
+
+async function generateExample() {
+  const btn = document.getElementById('genBtn');
+  if (isGenerating) return;
+  isGenerating = true;
+  btn.classList.add('loading');
+  btn.disabled = true;
+
+  const w = allWords.find(x => x.id === currentWordId);
+  if (!w) { isGenerating = false; btn.classList.remove('loading'); btn.disabled = false; return; }
+
+  const tense = userTenses[0] || 'simple_present';
+  const level = userLevel;
+
+  try {
+    const resp = await fetch(API_URL + '/generate', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ word_id: currentWordId, tense, level, count: 1 }),
+    });
+    const data = await resp.json();
+    if (data.examples && data.examples.length > 0) {
+      w.examples = w.examples || [];
+      w.examples.push(...data.examples);
+      renderExamples();
+    }
+  } catch (e) {
+    document.getElementById('noExamples').textContent = 'API 未启动，请运行 python3 api_server.py';
+    document.getElementById('noExamples').style.display = 'block';
+  }
+  isGenerating = false;
+  btn.classList.remove('loading');
+  btn.disabled = false;
 }
 
 // ═══════════════════════════════════════════
@@ -1025,9 +1460,8 @@ function renderFlashcard() {
   $('#frontCat').textContent = `${w.category} ${CATEGORY_NAMES[w.category] || ''}`;
   $('#backMeaning').textContent = w.meaning_cn;
   $('#backDef').textContent = w.definition_en || '';
-  $('#backExEn').textContent = w.example?.en || '';
-  $('#backExCn').textContent = w.example?.cn || '';
   $('#backSyn').textContent = w.synonyms?.length ? `同义词: ${w.synonyms.join(', ')}` : '';
+  renderExamples();
   $$('.eval-btn').forEach(b => b.disabled = true);
   const pos = sessionIdx + 1;
   $('#sessionPos').textContent = `第 ${pos} 张`;
@@ -1097,7 +1531,8 @@ function playWordAudio() {
   const w = allWords.find(x => x.id === currentWordId);
   if (!w) return;
   if (isFlipped) {
-    playAudioFile(`${currentWordId}_sentence.wav`, w.example?.en || w.word);
+    const exText = filteredExamples?.[0]?.en || w.example?.en || w.word;
+    playAudioFile(`${currentWordId}_sentence.wav`, exText);
   } else {
     playAudioFile(`${currentWordId}_word.wav`, w.word);
   }
@@ -1235,7 +1670,7 @@ function renderBrowse() {
       </span>
       <span class="meaning-col">
         <span class="meaning-main">${w.meaning_cn}</span>
-        ${w.example?.cn ? `<span class="meaning-ex">${w.example.cn}</span>` : ''}
+        ${(w.examples?.[0]?.en || w.example?.en) ? `<span class="meaning-ex">${w.examples?.[0]?.en || w.example?.en}</span>` : ''}
       </span>
       <span class="cat-col">
         <span class="cat-label">${w.category}</span>
