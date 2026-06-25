@@ -51,6 +51,41 @@ window.__WORDS_DATA =
         "cn": "当太阳升起时，外面会很明亮。",
         "tense": "simple_future",
         "level": "beginner"
+      },
+      {
+        "id": "word_001_06",
+        "en": "People come here from all over the world.",
+        "cn": "人们从世界各地来到这里。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_001_07",
+        "en": "She comes to school every day on time.",
+        "cn": "她每天都准时来到学校。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_001_08",
+        "en": "The flowers come in different colors in spring.",
+        "cn": "春天里，这些花会开出不同的颜色。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_001_09",
+        "en": "People come to the park on weekends.",
+        "cn": "人们周末会来公园。",
+        "tense": "simple_past",
+        "level": "elementary"
+      },
+      {
+        "id": "word_001_10",
+        "en": "She came here to help us with the project.",
+        "cn": "她来到这里来帮助我们完成这个项目。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -76,6 +111,90 @@ window.__WORDS_DATA =
         "en": "I'll get a new book tomorrow.",
         "cn": "我明天会买本新书。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_002_02",
+        "en": "You need to get ready before going out.",
+        "cn": "出门之前你需要做好准备。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_002_03",
+        "en": "She gets good at playing the piano quickly.",
+        "cn": "她很快就擅长弹钢琴了。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_002_04",
+        "en": "She got a new job last week.",
+        "cn": "她上周得到了一份新工作。",
+        "tense": "simple_past",
+        "level": "elementary"
+      },
+      {
+        "id": "word_002_05",
+        "en": "He got tired after playing outside all day.",
+        "cn": "在外面玩了一整天后，他感到很累。",
+        "tense": "simple_past",
+        "level": "elementary"
+      },
+      {
+        "id": "word_002_06",
+        "en": "They got their tickets early to avoid the crowd.",
+        "cn": "他们提前买了票以避免拥挤。",
+        "tense": "simple_past",
+        "level": "elementary"
+      },
+      {
+        "id": "word_002_07",
+        "en": "You need to get enough rest to stay healthy.",
+        "cn": "你需要获得足够的休息来保持健康。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_002_08",
+        "en": "She got a new job last week.",
+        "cn": "她上周得到了一份新工作。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_002_09",
+        "en": "Let's get started on our project soon.",
+        "cn": "让我们尽快开始我们的项目吧。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_002_10",
+        "en": "She got a new job last week.",
+        "cn": "她上周得到了一份新工作。",
+        "tense": "simple_past",
+        "level": "elementary"
+      },
+      {
+        "id": "word_002_11",
+        "en": "He got tired after walking for a long time.",
+        "cn": "走了一段时间后，他感到累了。",
+        "tense": "simple_past",
+        "level": "elementary"
+      },
+      {
+        "id": "word_002_12",
+        "en": "She gets good at playing the piano.",
+        "cn": "她变得擅长弹钢琴。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_002_13",
+        "en": "She got a new toy for her birthday.",
+        "cn": "她在生日时得到了一個新玩具.",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -103,6 +222,90 @@ window.__WORDS_DATA =
         "cn": "请把手伸给我。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_003_02",
+        "en": "You should always give help when someone needs it.",
+        "cn": "当有人需要帮助时，你应该总是伸出援手。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_003_03",
+        "en": "She gave me a book as a gift for my birthday.",
+        "cn": "她送给我一本书作为生日礼物。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_003_04",
+        "en": "She gave me a book for my birthday.",
+        "cn": "她送了我一本书作为生日礼物。",
+        "tense": "simple_past",
+        "level": "elementary"
+      },
+      {
+        "id": "word_003_05",
+        "en": "They gave their time to help the community.",
+        "cn": "他们抽出时间来帮助社区。",
+        "tense": "simple_past",
+        "level": "elementary"
+      },
+      {
+        "id": "word_003_06",
+        "en": "He gave his seat to the old man on the bus.",
+        "cn": "他在公交车上把座位让给了那位老人。",
+        "tense": "simple_past",
+        "level": "elementary"
+      },
+      {
+        "id": "word_003_07",
+        "en": "She always gives help when needed.",
+        "cn": "她总是在需要时提供帮助。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_003_08",
+        "en": "They gave me a gift for my birthday.",
+        "cn": "他们送了我一份生日礼物。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_003_09",
+        "en": "She gave me a book for my birthday.",
+        "cn": "她送了我一本书作为生日礼物。",
+        "tense": "simple_past",
+        "level": "elementary"
+      },
+      {
+        "id": "word_003_10",
+        "en": "He gave his seat to the elderly woman.",
+        "cn": "他把座位让给了那位年长的女士。",
+        "tense": "simple_past",
+        "level": "elementary"
+      },
+      {
+        "id": "word_003_11",
+        "en": "They gave their time to help the community.",
+        "cn": "他们投入时间来帮助社区。",
+        "tense": "simple_past",
+        "level": "elementary"
+      },
+      {
+        "id": "word_003_12",
+        "en": "She gives her friend a book as a gift.",
+        "cn": "她送给朋友一本书作为礼物.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_003_13",
+        "en": "She gave her friend a beautiful birthday present.",
+        "cn": "她送给朋友一份漂亮的生日礼物。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -128,6 +331,20 @@ window.__WORDS_DATA =
         "en": "We go to school every day.",
         "cn": "我们每天都去学校。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_004_02",
+        "en": "She goes to school every day.",
+        "cn": "她每天去上学。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_004_03",
+        "en": "She went to the park with her friends.",
+        "cn": "她和朋友们一起去了公园。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -155,6 +372,20 @@ window.__WORDS_DATA =
         "cn": "请让门开着。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_005_02",
+        "en": "Keep your room clean.",
+        "cn": "保持你的房间整洁。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_005_03",
+        "en": "She kept her toys in a clean box.",
+        "cn": "她把玩具放在一个干净的盒子里。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -181,6 +412,20 @@ window.__WORDS_DATA =
         "cn": "让我再试一次。",
         "tense": "simple_present",
         "level": "elementary"
+      },
+      {
+        "id": "word_006_02",
+        "en": "Let me help you with your homework.",
+        "cn": "让我来帮你做作业吧.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_006_03",
+        "en": "Let's play outside together.",
+        "cn": "让我们一起到外面去玩吧。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -205,6 +450,20 @@ window.__WORDS_DATA =
         "id": "word_007_01",
         "en": "She made a cake for us.",
         "cn": "她为我们做了个蛋糕。",
+        "tense": "simple_past",
+        "level": "elementary"
+      },
+      {
+        "id": "word_007_02",
+        "en": "She makes a cake for her birthday.",
+        "cn": "她为她的生日做了一个蛋糕.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_007_03",
+        "en": "The children made a paper airplane with their hands.",
+        "cn": "孩子们用手制作了一架纸飞机。",
         "tense": "simple_past",
         "level": "elementary"
       }
@@ -233,6 +492,20 @@ window.__WORDS_DATA =
         "cn": "把书放在桌上。",
         "tense": "simple_past",
         "level": "elementary"
+      },
+      {
+        "id": "word_008_02",
+        "en": "She put the book on the table.",
+        "cn": "她把书放在桌子上.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_008_03",
+        "en": "She put the book on the shelf.",
+        "cn": "她把书放在书架上。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -259,6 +532,20 @@ window.__WORDS_DATA =
         "cn": "你今天看起来很累。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_009_02",
+        "en": "She seems happy today.",
+        "cn": "她今天看起来很高兴。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_009_03",
+        "en": "The clouds seem to be moving fast today.",
+        "cn": "今天的云似乎移动得很快。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -285,6 +572,20 @@ window.__WORDS_DATA =
         "cn": "把这封信带给她。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_010_02",
+        "en": "She takes her book to school every day.",
+        "cn": "她每天都会把她的书带到学校。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_010_03",
+        "en": "She took her book to the library.",
+        "cn": "她把她的书带到了图书馆。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -310,6 +611,20 @@ window.__WORDS_DATA =
         "en": "To be or not to be.",
         "cn": "生存还是毁灭。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_011_02",
+        "en": "The cat is sleeping on the sofa.",
+        "cn": "那只猫正在沙发上睡觉。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_011_03",
+        "en": "The cat is happy.",
+        "cn": "这只猫很开心。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -337,6 +652,20 @@ window.__WORDS_DATA =
         "cn": "先做你的工作。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_012_02",
+        "en": "She does her homework every evening.",
+        "cn": "她每晚都做作业.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_012_03",
+        "en": "She does her homework every evening.",
+        "cn": "她每天晚上都会做作业。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -363,6 +692,20 @@ window.__WORDS_DATA =
         "cn": "我有两个姐妹。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_013_02",
+        "en": "She has a new book.",
+        "cn": "她有一本新书。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_013_03",
+        "en": "She has a new puppy.",
+        "cn": "她有一只新的小狗。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -387,6 +730,20 @@ window.__WORDS_DATA =
         "id": "word_014_01",
         "en": "What did you say to him?",
         "cn": "你对他说了什么?",
+        "tense": "simple_past",
+        "level": "elementary"
+      },
+      {
+        "id": "word_014_02",
+        "en": "She says hello to everyone she meets.",
+        "cn": "她遇到每个人都会打招呼。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_014_03",
+        "en": "The child said hello to his teacher.",
+        "cn": "那个孩子向他的老师说了你好.",
         "tense": "simple_past",
         "level": "elementary"
       }
@@ -415,6 +772,13 @@ window.__WORDS_DATA =
         "cn": "我明白你的意思了。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_015_02",
+        "en": "The child sees a cat in the garden.",
+        "cn": "孩子看见花园里有一只猫.",
+        "tense": "simple_present",
+        "level": "elementary"
       }
     ]
   },
@@ -441,6 +805,20 @@ window.__WORDS_DATA =
         "cn": "通过邮寄把包裹寄出去。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_016_02",
+        "en": "She sends a letter to her friend.",
+        "cn": "她给她的朋友寄了一封信.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_016_03",
+        "en": "She sent a letter to her friend.",
+        "cn": "她给她的朋友寄了一封信。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -467,6 +845,20 @@ window.__WORDS_DATA =
         "cn": "你现在可以走了。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_017_02",
+        "en": "She may eat some candy after dinner.",
+        "cn": "她晚饭后可能会吃些糖果。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_017_03",
+        "en": "She may go to the park tomorrow.",
+        "cn": "她明天可能去公园。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -493,6 +885,20 @@ window.__WORDS_DATA =
         "cn": "我会帮你的。",
         "tense": "simple_future",
         "level": "beginner"
+      },
+      {
+        "id": "word_018_02",
+        "en": "She will go to the park tomorrow.",
+        "cn": "她明天将会去公园。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_018_03",
+        "en": "She will help us with our project.",
+        "cn": "她会帮助我们完成这个项目。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -519,6 +925,20 @@ window.__WORDS_DATA =
         "cn": "跟我说说你的旅行。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_019_02",
+        "en": "She is about to leave for work.",
+        "cn": "她马上就要去上班了.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_019_03",
+        "en": "She told me about her trip to Europe.",
+        "cn": "她告诉我关于她去欧洲的旅行。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -545,6 +965,20 @@ window.__WORDS_DATA =
         "cn": "从桥上走过去。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_020_02",
+        "en": "The children crossed the bridge across the river.",
+        "cn": "孩子们穿过了河对面的桥。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_020_03",
+        "en": "The cat jumped across the fence.",
+        "cn": "猫跳过了栅栏。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -571,6 +1005,20 @@ window.__WORDS_DATA =
         "cn": "午饭后过来。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_021_02",
+        "en": "After lunch, they went for a walk.",
+        "cn": "下午饭后，他们去散步了.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_021_03",
+        "en": "After lunch, the children played outside in the park.",
+        "cn": "午饭后，孩子们在公园外面玩耍。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -596,6 +1044,20 @@ window.__WORDS_DATA =
         "en": "The ladder leans against the wall.",
         "cn": "梯子靠在墙上。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_022_02",
+        "en": "He stood against the wall, resting his back against it.",
+        "cn": "他靠在墙上站着。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_022_03",
+        "en": "The team played against their rivals.",
+        "cn": "这个队和他们的对手进行了比赛。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -623,6 +1085,20 @@ window.__WORDS_DATA =
         "cn": "她在朋友中很受欢迎。",
         "tense": "simple_present",
         "level": "elementary"
+      },
+      {
+        "id": "word_023_02",
+        "en": "Some of the children were playing among the trees.",
+        "cn": "有些孩子在树丛中玩耍。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_023_03",
+        "en": "Some of the students were chosen among the best in their class.",
+        "cn": "有些学生是从班上最优秀的学生中挑选出来的。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -649,6 +1125,20 @@ window.__WORDS_DATA =
         "cn": "在车站见我。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_024_02",
+        "en": "The cat is at the table.",
+        "cn": "猫在桌子旁。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_024_03",
+        "en": "The cat sat at the table.",
+        "cn": "猫坐在桌子旁。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -675,6 +1165,20 @@ window.__WORDS_DATA =
         "cn": "吃饭前先洗手。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_025_02",
+        "en": "She finished her homework before playing video games.",
+        "cn": "她在玩电子游戏之前完成了作业.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_025_03",
+        "en": "Before we started the game, we needed to gather all the necessary materials.",
+        "cn": "在开始游戏之前，我们需要准备好所有必要的材料。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -701,6 +1205,20 @@ window.__WORDS_DATA =
         "cn": "坐在我们中间。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_026_02",
+        "en": "The book is placed between the two shelves.",
+        "cn": "这本书被放在两个架子之间。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_026_03",
+        "en": "The numbers 3 and 7 are between 1 and 10.",
+        "cn": "数字3和7在1到10之间。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -725,6 +1243,20 @@ window.__WORDS_DATA =
         "id": "word_027_01",
         "en": "The book was written by her.",
         "cn": "这本书是她写的。",
+        "tense": "simple_past",
+        "level": "elementary"
+      },
+      {
+        "id": "word_027_02",
+        "en": "The child was playing by the tree.",
+        "cn": "那个孩子正在树旁玩耍。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_027_03",
+        "en": "The cat was sitting by the window, watching the birds outside.",
+        "cn": "那只猫坐在窗边，看着外面的鸟儿。",
         "tense": "simple_past",
         "level": "elementary"
       }
@@ -753,6 +1285,20 @@ window.__WORDS_DATA =
         "cn": "请坐下。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_028_02",
+        "en": "The ball fell down from the shelf.",
+        "cn": "球从架子上掉了下来.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_028_03",
+        "en": "The cat moved down the stairs slowly.",
+        "cn": "猫慢慢地走下了楼梯。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -779,6 +1325,20 @@ window.__WORDS_DATA =
         "cn": "我来自中国。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_029_02",
+        "en": "The book is from the library.",
+        "cn": "这本书是从图书馆借来的。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_029_03",
+        "en": "The book was given to me from my friend.",
+        "cn": "这本书是我朋友送给我的。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -805,6 +1365,20 @@ window.__WORDS_DATA =
         "cn": "她在房间里。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_030_02",
+        "en": "The cat is in the box.",
+        "cn": "猫在盒子里。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_030_03",
+        "en": "The cat is in the box.",
+        "cn": "猫在盒子里。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -831,6 +1405,20 @@ window.__WORDS_DATA =
         "cn": "把灯关掉。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_031_02",
+        "en": "She turned off the lights before leaving the room.",
+        "cn": "她离开房间前关掉了灯.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_031_03",
+        "en": "She turned off the light before leaving the room.",
+        "cn": "她离开房间之前关掉了灯.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -856,6 +1444,20 @@ window.__WORDS_DATA =
         "en": "The cat is on the chair.",
         "cn": "猫在椅子上。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_032_02",
+        "en": "The book is on the table.",
+        "cn": "那本书在桌子上。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_032_03",
+        "en": "The cat is sitting on the chair.",
+        "cn": "猫坐在椅子上。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -883,6 +1485,20 @@ window.__WORDS_DATA =
         "cn": "飞机飞过城市上空。",
         "tense": "simple_present",
         "level": "elementary"
+      },
+      {
+        "id": "word_033_02",
+        "en": "The cat is sitting over the table.",
+        "cn": "猫正坐在桌子上面。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_033_03",
+        "en": "The cat sat over the table.",
+        "cn": "猫坐在桌子上面。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -909,6 +1525,20 @@ window.__WORDS_DATA =
         "cn": "穿过那扇门。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_034_02",
+        "en": "The cat ran through the door.",
+        "cn": "猫穿过了门。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_034_03",
+        "en": "The cat walked through the door.",
+        "cn": "猫穿过了门。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -935,6 +1565,20 @@ window.__WORDS_DATA =
         "cn": "我要去睡觉了。",
         "tense": "simple_future",
         "level": "beginner"
+      },
+      {
+        "id": "word_035_02",
+        "en": "The cat is running to the dog.",
+        "cn": "猫正在往狗的方向跑。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_035_03",
+        "en": "The cat ran to the mouse.",
+        "cn": "猫跑向了老鼠。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -960,6 +1604,20 @@ window.__WORDS_DATA =
         "en": "The cat hides under the bed.",
         "cn": "猫藏在床下。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_036_02",
+        "en": "The cat is under the table.",
+        "cn": "猫在桌子下面。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_036_03",
+        "en": "The cat is under the table.",
+        "cn": "猫在桌子下面。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -987,6 +1645,20 @@ window.__WORDS_DATA =
         "cn": "抬头看天空。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_037_02",
+        "en": "The toy car moved upward when the button was pressed.",
+        "cn": "按下按钮后，玩具车向上移动了.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_037_03",
+        "en": "The cat climbed up the tree to chase the birds.",
+        "cn": "猫爬上了树去追鸟。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -1013,6 +1685,20 @@ window.__WORDS_DATA =
         "cn": "跟我来。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_038_02",
+        "en": "She is playing football with her friends.",
+        "cn": "她正在和朋友们一起踢足球。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_038_03",
+        "en": "She played with her friends at the park.",
+        "cn": "她在公园里和朋友们一起玩耍。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -1039,6 +1725,13 @@ window.__WORDS_DATA =
         "cn": "他当老师。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_039_02",
+        "en": "She was reading a book as it started to rain.",
+        "cn": "她正在读书，这时开始下雨了.",
+        "tense": "simple_present",
+        "level": "elementary"
       }
     ]
   },
@@ -1065,6 +1758,20 @@ window.__WORDS_DATA =
         "cn": "这礼物是给你的。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_040_02",
+        "en": "She works hard for her family.",
+        "cn": "她为了家人努力工作。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_040_03",
+        "en": "She worked hard for her exam.",
+        "cn": "她为了考试而努力学习。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -1091,6 +1798,20 @@ window.__WORDS_DATA =
         "cn": "我的一个朋友。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_041_02",
+        "en": "The cat is playing with a ball of yarn of red color.",
+        "cn": "那只猫正在玩一个红色的毛线球。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_041_03",
+        "en": "The cat is playing with a ball of yarn of red color.",
+        "cn": "那只猫正在玩一个红色的毛线球。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -1117,6 +1838,20 @@ window.__WORDS_DATA =
         "cn": "等到中午。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_042_02",
+        "en": "She will wait until midnight.",
+        "cn": "她会等到午夜。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_042_03",
+        "en": "The children played outside until it got dark.",
+        "cn": "孩子们在外面玩耍，直到天黑。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -1143,6 +1878,20 @@ window.__WORDS_DATA =
         "cn": "她比我高。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_043_02",
+        "en": "She runs faster than her brother.",
+        "cn": "她跑得比她哥哥快。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_043_03",
+        "en": "Tom can run faster than Mary.",
+        "cn": "汤姆跑得比玛丽快。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -1169,6 +1918,20 @@ window.__WORDS_DATA =
         "cn": "我看见一只狗。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_044_02",
+        "en": "A cat is sitting on the chair.",
+        "cn": "一只猫正坐在椅子上.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_044_03",
+        "en": "A boy found a single red apple on the tree.",
+        "cn": "一个男孩在树上发现了一个红色的苹果.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -1194,6 +1957,20 @@ window.__WORDS_DATA =
         "en": "The book is on the desk.",
         "cn": "那本书在桌上。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_045_02",
+        "en": "The dog is running in the park.",
+        "cn": "那只狗正在公园里跑步。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_045_03",
+        "en": "The cat is on the table.",
+        "cn": "那个猫在桌子上。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -1221,6 +1998,13 @@ window.__WORDS_DATA =
         "cn": "所有孩子都爱玩。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_046_02",
+        "en": "All the children are playing in the park.",
+        "cn": "所有的孩子们都在公园里玩耍。",
+        "tense": "simple_present",
+        "level": "elementary"
       }
     ]
   },
@@ -1247,6 +2031,20 @@ window.__WORDS_DATA =
         "cn": "你有钱吗?",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_047_02",
+        "en": "You can choose any book you like.",
+        "cn": "你可以选择任何你喜欢的书。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_047_03",
+        "en": "She could choose any book she wanted from the library.",
+        "cn": "她可以从图书馆里选择任何她想要的书。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -1273,6 +2071,20 @@ window.__WORDS_DATA =
         "cn": "每天都带来希望。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_048_02",
+        "en": "Every child loves playing games.",
+        "cn": "每个孩子都喜欢玩游戏。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_048_03",
+        "en": "Every child loves playing with toys.",
+        "cn": "每个孩子都喜欢玩玩具。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -1299,6 +2111,20 @@ window.__WORDS_DATA =
         "cn": "加一点点盐。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_049_02",
+        "en": "The little girl is playing with her toys.",
+        "cn": "那个小女孩正在玩她的玩具。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_049_03",
+        "en": "The little girl held a little rabbit in her arms.",
+        "cn": "那个小女孩怀里抱着一只小兔子.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -1365,6 +2191,20 @@ window.__WORDS_DATA =
         "cn": "没有水剩下了。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_051_02",
+        "en": "No, I don't have any apples.",
+        "cn": "不，我没有苹果。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_051_03",
+        "en": "No, I don't have a dog.",
+        "cn": "不，我没有狗。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -1391,6 +2231,20 @@ window.__WORDS_DATA =
         "cn": "试试另一扇门。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_052_02",
+        "en": "She has other books in her bag.",
+        "cn": "她的包里还有其他书。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_052_03",
+        "en": "She has other toys that she likes to play with.",
+        "cn": "她还有其他她喜欢玩的玩具。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -1417,6 +2271,20 @@ window.__WORDS_DATA =
         "cn": "喝点茶吧。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_053_02",
+        "en": "Some children are playing in the park.",
+        "cn": "一些孩子在公园里玩耍。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_053_03",
+        "en": "Some children played in the park yesterday.",
+        "cn": "有些孩子昨天在公园里玩耍。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -1443,6 +2311,20 @@ window.__WORDS_DATA =
         "cn": "多么善良的人啊!",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_054_02",
+        "en": "She has such a beautiful dress.",
+        "cn": "她有一件这么漂亮的裙子。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_054_03",
+        "en": "The teacher gave us such a beautiful gift.",
+        "cn": "老师给了我们这样一份精美的礼物。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -1469,6 +2351,20 @@ window.__WORDS_DATA =
         "cn": "那本书是我的。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_055_02",
+        "en": "She saw that cat on the street.",
+        "cn": "她看到街上有那只猫.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_055_03",
+        "en": "That is a beautiful cat.",
+        "cn": "那是一只非常漂亮的猫。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -1495,6 +2391,27 @@ window.__WORDS_DATA =
         "cn": "这是我家。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_056_02",
+        "en": "This book is very interesting.",
+        "cn": "这本书非常有趣。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_056_03",
+        "en": "She is reading this magazine now.",
+        "cn": "她现在正在读这本杂志。",
+        "tense": "present_continuous",
+        "level": "elementary"
+      },
+      {
+        "id": "word_056_04",
+        "en": "They have finished this project already.",
+        "cn": "他们已经完成了这个项目。",
+        "tense": "present_perfect",
+        "level": "elementary"
       }
     ]
   },
@@ -1521,6 +2438,20 @@ window.__WORDS_DATA =
         "cn": "我喜欢阅读。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_057_02",
+        "en": "I like playing soccer with my friends.",
+        "cn": "我喜欢和朋友们一起踢足球。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_057_03",
+        "en": "I went to the park with my friends today.",
+        "cn": "今天我和朋友们一起去了公园。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -1547,6 +2478,20 @@ window.__WORDS_DATA =
         "cn": "他是我兄弟。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_058_02",
+        "en": "He is playing football with his friends.",
+        "cn": "他在和他的朋友们一起踢足球。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_058_03",
+        "en": "He played football with his friends.",
+        "cn": "他和朋友们一起踢足球。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -1573,6 +2518,20 @@ window.__WORDS_DATA =
         "cn": "你真好。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_059_02",
+        "en": "You are reading a book.",
+        "cn": "你们正在读一本书。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_059_03",
+        "en": "You helped me finish my homework.",
+        "cn": "你帮助我完成了作业。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -1599,6 +2558,20 @@ window.__WORDS_DATA =
         "cn": "那个人是谁?",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_060_02",
+        "en": "Who is playing the piano?",
+        "cn": "谁在弹钢琴？",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_060_03",
+        "en": "Who is playing the piano?",
+        "cn": "谁在弹钢琴？",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -1625,6 +2598,20 @@ window.__WORDS_DATA =
         "cn": "汤姆和杰瑞。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_061_02",
+        "en": "She likes apples and oranges.",
+        "cn": "她喜欢苹果和橙子。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_061_03",
+        "en": "She bought apples and oranges at the market.",
+        "cn": "她在市场上买了苹果和橙子。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -1651,6 +2638,20 @@ window.__WORDS_DATA =
         "cn": "我迟到是因为堵车。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_062_02",
+        "en": "She likes to play outside because it's fun.",
+        "cn": "她喜欢在外面玩，因为这样很有趣。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_062_03",
+        "en": "She stayed up late because she wanted to finish her homework.",
+        "cn": "她熬夜是因为想完成作业。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -1677,6 +2678,20 @@ window.__WORDS_DATA =
         "cn": "小但强壮。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_063_02",
+        "en": "She wants to go to the park, but it’s raining.",
+        "cn": "她想去公园，但是正在下雨。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_063_03",
+        "en": "He wanted to go to the park, but it was raining.",
+        "cn": "他想去公园，但是下着雨。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -1703,6 +2718,20 @@ window.__WORDS_DATA =
         "cn": "茶还是咖啡?",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_064_02",
+        "en": "You can choose apples or oranges for dessert.",
+        "cn": "你可以选择苹果或者橙子作为甜点。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_064_03",
+        "en": "She chose chocolate ice cream or strawberry ice cream for dessert.",
+        "cn": "她选择了巧克力冰淇淋或者草莓冰淇淋作为甜点。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -1729,6 +2758,20 @@ window.__WORDS_DATA =
         "cn": "如果下雨就待在家。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_065_02",
+        "en": "If it rains tomorrow, we will stay at home.",
+        "cn": "如果明天下雨，我们就待在家里。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_065_03",
+        "en": "If it rains tomorrow, we will stay at home and play games.",
+        "cn": "如果明天下雨，我们就待在家里玩游戏。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -1755,6 +2798,20 @@ window.__WORDS_DATA =
         "cn": "尽管累,她还是笑了。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_066_02",
+        "en": "Though it was raining, we went out to play.",
+        "cn": "尽管下着雨，我们还是出去玩了。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_066_03",
+        "en": "Although it was raining, we still went out to play.",
+        "cn": "尽管在下雨，我们还是出去玩了。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -1781,6 +2838,20 @@ window.__WORDS_DATA =
         "cn": "边吃边读。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_067_02",
+        "en": "While it was raining outside, we played games indoors.",
+        "cn": "虽然外面在下雨，但我们还是在室内玩游戏。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_067_03",
+        "en": "While it was raining outside, the children played happily in the park.",
+        "cn": "当外面下雨的时候，孩子们在公园里开心地玩耍。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -1807,6 +2878,20 @@ window.__WORDS_DATA =
         "cn": "你是怎么做的?",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_068_02",
+        "en": "How do you read this book?",
+        "cn": "你怎么读这本书?",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_068_03",
+        "en": "How do you read this book?",
+        "cn": "你怎么读这本书？",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -1833,6 +2918,20 @@ window.__WORDS_DATA =
         "cn": "你什么时候到的?",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_069_02",
+        "en": "When I go to the park, I like to play with my friends.",
+        "cn": "当我去公园的时候，我喜欢和朋友们一起玩耍。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_069_03",
+        "en": "When I was five years old, I learned to ride a bicycle.",
+        "cn": "在我五岁的时候，我学会了骑自行车。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -1859,6 +2958,20 @@ window.__WORDS_DATA =
         "cn": "钥匙在哪儿?",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_070_02",
+        "en": "Where is the cat?",
+        "cn": "猫在哪里？",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_070_03",
+        "en": "The cat was where the dog was.",
+        "cn": "那只猫在狗在的地方。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -1885,6 +2998,20 @@ window.__WORDS_DATA =
         "cn": "你为什么难过?",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_071_02",
+        "en": "Why do we need to brush our teeth every day?",
+        "cn": "为什么我们需要每天刷牙呢?",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_071_03",
+        "en": "Why do birds fly?",
+        "cn": "为什么鸟会飞？",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -1911,6 +3038,20 @@ window.__WORDS_DATA =
         "cn": "待会儿再试。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_072_02",
+        "en": "She smiled again when she saw her friend.",
+        "cn": "她看到朋友时又笑了。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_072_03",
+        "en": "She played the piano again yesterday.",
+        "cn": "她昨天又弹了一次钢琴。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -1936,6 +3077,20 @@ window.__WORDS_DATA =
         "en": "Have you ever been to Paris?",
         "cn": "你去过巴黎吗?",
         "tense": "present_perfect",
+        "level": "elementary"
+      },
+      {
+        "id": "word_073_02",
+        "en": "She has never been to Paris.",
+        "cn": "她从来没有去过巴黎。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_073_03",
+        "en": "She has ever traveled to Paris.",
+        "cn": "她曾经去过巴黎。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -1963,6 +3118,20 @@ window.__WORDS_DATA =
         "cn": "车站有多远?",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_074_02",
+        "en": "The bird flew far across the sky.",
+        "cn": "那只鸟飞得很远，跨过了整个天空。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_074_03",
+        "en": "The rabbit ran far away from the dog.",
+        "cn": "兔子跑得远远地离开了狗。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -1989,6 +3158,20 @@ window.__WORDS_DATA =
         "cn": "请向前走一步。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_075_02",
+        "en": "The child moved forward slowly.",
+        "cn": "孩子慢慢地向前走了.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_075_03",
+        "en": "The turtle moved forward slowly on its shell.",
+        "cn": "乌龟用它的壳慢慢地向前移动。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -2015,6 +3198,20 @@ window.__WORDS_DATA =
         "cn": "请到这里来。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_076_02",
+        "en": "The cat is here.",
+        "cn": "猫在这里。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_076_03",
+        "en": "The children played happily in the park here.",
+        "cn": "孩子们在这里的公园里开心地玩耍。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -2041,6 +3238,20 @@ window.__WORDS_DATA =
         "cn": "他住在公园附近。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_077_02",
+        "en": "The cat is near the mouse.",
+        "cn": "猫在老鼠附近。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_077_03",
+        "en": "The cat was near the dog.",
+        "cn": "那只猫靠近了那只狗。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -2067,6 +3278,20 @@ window.__WORDS_DATA =
         "cn": "现在就做。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_078_02",
+        "en": "She is playing games now.",
+        "cn": "她现在正在玩游戏。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_078_03",
+        "en": "Now I am playing with my toys.",
+        "cn": "现在我在玩我的玩具。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -2093,6 +3318,20 @@ window.__WORDS_DATA =
         "cn": "出去玩吧。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_079_02",
+        "en": "The cat is out playing.",
+        "cn": "猫在外面玩耍。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_079_03",
+        "en": "The cat is out playing in the garden.",
+        "cn": "猫在外面花园里玩耍。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -2159,6 +3398,20 @@ window.__WORDS_DATA =
         "cn": "先吃饭,然后睡觉。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_081_02",
+        "en": "Then she went to the store.",
+        "cn": "然后她去了商店。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_081_03",
+        "en": "Then he went to the park to play.",
+        "cn": "然后他去了公园玩耍。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -2185,6 +3438,13 @@ window.__WORDS_DATA =
         "cn": "坐到那边去。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_082_02",
+        "en": "There was a big tree in the park.",
+        "cn": "公园里有一棵大树。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -2211,6 +3471,20 @@ window.__WORDS_DATA =
         "cn": "我们一起唱歌。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_083_02",
+        "en": "Let's play together tomorrow.",
+        "cn": "明天让我们一起玩吧。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_083_03",
+        "en": "They played together in the park.",
+        "cn": "他们在公园里一起玩耍。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -2237,6 +3511,20 @@ window.__WORDS_DATA =
         "cn": "她英语说得好。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_084_02",
+        "en": "She plays the piano well.",
+        "cn": "她钢琴弹得很好。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_084_03",
+        "en": "She played outside well and had a lot of fun.",
+        "cn": "她在外面玩得很好，玩得很开心。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -2263,6 +3551,20 @@ window.__WORDS_DATA =
         "cn": "快做完了。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_085_02",
+        "en": "She almost finished her homework.",
+        "cn": "她几乎完成了作业。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_085_03",
+        "en": "She almost finished her homework.",
+        "cn": "她几乎完成了她的作业。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -2289,6 +3591,20 @@ window.__WORDS_DATA =
         "cn": "食物够了。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_086_02",
+        "en": "We have enough apples to share with everyone.",
+        "cn": "我们有足够的苹果来和每个人分享。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_086_03",
+        "en": "She had enough toys to play with.",
+        "cn": "她有足够的玩具可以玩。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -2315,6 +3631,20 @@ window.__WORDS_DATA =
         "cn": "连小孩都知道。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_087_02",
+        "en": "Even the youngest children can understand the concept of 'even' and 'odd'.",
+        "cn": "甚至最小的孩子也能理解‘偶数’和‘奇数’的概念。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_087_03",
+        "en": "Even the smallest puppy needs some sleep.",
+        "cn": "即使是最小的一只小狗也需要睡觉。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -2341,6 +3671,20 @@ window.__WORDS_DATA =
         "cn": "我不同意。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_088_02",
+        "en": "He does not like chocolate.",
+        "cn": "他不喜欢巧克力。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_088_03",
+        "en": "He didn't eat breakfast.",
+        "cn": "他没有吃早餐。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -2367,6 +3711,20 @@ window.__WORDS_DATA =
         "cn": "只剩一个了。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_089_02",
+        "en": "Only a few apples are left in the basket.",
+        "cn": "篮子里只剩下几个苹果了.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_089_03",
+        "en": "Only one apple was left on the tree.",
+        "cn": "树上只剩下一个苹果。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -2393,6 +3751,20 @@ window.__WORDS_DATA =
         "cn": "今天相当冷。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_090_02",
+        "en": "She is quite happy with her new job.",
+        "cn": "她对她的新工作相当满意。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_090_03",
+        "en": "She was quite happy with the result.",
+        "cn": "她对结果相当满意.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -2419,6 +3791,20 @@ window.__WORDS_DATA =
         "cn": "我太累了。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_091_02",
+        "en": "She is so happy today.",
+        "cn": "她今天非常开心。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_091_03",
+        "en": "He was so happy that he danced all night.",
+        "cn": "他太开心了，以至于跳了一整晚的舞。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -2445,6 +3831,20 @@ window.__WORDS_DATA =
         "cn": "她非常善良。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_092_02",
+        "en": "She runs very fast.",
+        "cn": "她跑得非常快。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_092_03",
+        "en": "The cat was very hungry.",
+        "cn": "那只猫非常饿。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -2471,6 +3871,20 @@ window.__WORDS_DATA =
         "cn": "明天见。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_093_02",
+        "en": "Tomorrow we will go to the park.",
+        "cn": "明天我们将去公园。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_093_03",
+        "en": "Tomorrow we will go to the park.",
+        "cn": "明天我们会去公园。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -2497,6 +3911,13 @@ window.__WORDS_DATA =
         "cn": "昨天下雨了。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_094_02",
+        "en": "Yesterday, I played with my friends at the park.",
+        "cn": "昨天，我和朋友们在公园里玩耍。",
+        "tense": "simple_present",
+        "level": "elementary"
       }
     ]
   },
@@ -2523,6 +3944,20 @@ window.__WORDS_DATA =
         "cn": "向北走两英里。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_095_02",
+        "en": "The North wind blows cold in winter.",
+        "cn": "北风在冬天会吹得很冷。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_095_03",
+        "en": "The rabbit ran north to escape the fox.",
+        "cn": "兔子向北跑以躲避狐狸。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -2549,6 +3984,20 @@ window.__WORDS_DATA =
         "cn": "鸟儿冬天飞向南方。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_096_02",
+        "en": "The sun rises in the south every morning.",
+        "cn": "太阳每天早上从南方升起。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_096_03",
+        "en": "The cat moved south to find warmer weather.",
+        "cn": "那只猫往南走，想找到更温暖的天气。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -2574,6 +4023,20 @@ window.__WORDS_DATA =
         "en": "The sun rises in the east.",
         "cn": "太阳从东方升起。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_097_02",
+        "en": "The sun rises in the east every morning.",
+        "cn": "太阳每天早晨从东方升起.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_097_03",
+        "en": "The sun rises in the east every morning.",
+        "cn": "每天早上，太阳从东方升起。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -2601,6 +4064,20 @@ window.__WORDS_DATA =
         "cn": "向西开就到海岸了。",
         "tense": "simple_present",
         "level": "elementary"
+      },
+      {
+        "id": "word_098_02",
+        "en": "The sun rises in the east and sets in the west.",
+        "cn": "太阳从东方升起，在西方落下.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_098_03",
+        "en": "In the elementary school, they learned about directions like north, south, east, and west.",
+        "cn": "在小学里，他们学习了像北、南、东、西这样的方向。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -2627,6 +4104,20 @@ window.__WORDS_DATA =
         "cn": "请安静。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_099_02",
+        "en": "Please help me with my homework.",
+        "cn": "请帮帮我完成作业。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_099_03",
+        "en": "Please help me finish my homework.",
+        "cn": "请帮我完成作业。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -2653,6 +4144,20 @@ window.__WORDS_DATA =
         "cn": "是的,我同意。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_100_02",
+        "en": "Yes, I like apples.",
+        "cn": "是的，我喜欢苹果。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_100_03",
+        "en": "Yes, I can help you with that.",
+        "cn": "是的，我可以帮你做那个。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -2679,6 +4184,20 @@ window.__WORDS_DATA =
         "cn": "开一个银行账户。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_101_02",
+        "en": "She keeps her account information safe by writing it down in a notebook.",
+        "cn": "她把账户信息写在笔记本里保存，以确保安全。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_101_03",
+        "en": "She checked her account to see how much money she had left.",
+        "cn": "她查看了自己的账户，看看还剩下多少钱。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -2705,6 +4224,20 @@ window.__WORDS_DATA =
         "cn": "那是个善举。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_102_02",
+        "en": "The teacher acts calmly during the class.",
+        "cn": "老师在课堂上表现得非常冷静。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_102_03",
+        "en": "The children acted in a play at school.",
+        "cn": "孩子们在学校里表演了一场戏剧。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -2731,6 +4264,20 @@ window.__WORDS_DATA =
         "cn": "此外,她还唱歌。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_103_02",
+        "en": "Addition is used to find the total when two numbers are combined.",
+        "cn": "加法是用来计算两个数相加后的总和的。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_103_03",
+        "en": "If you add two apples and three oranges, you will have five fruits in total.",
+        "cn": "如果你把两个苹果和三个橙子加起来，总共就会有五个水果。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -2757,6 +4304,20 @@ window.__WORDS_DATA =
         "cn": "做一点小调整。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_104_02",
+        "en": "The teacher made some adjustments to the lesson plan to better suit the students' needs.",
+        "cn": "老师对教案做了一些调整，以便更好地满足学生们的需求。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_104_03",
+        "en": "The teacher asked the students to make some adjustments to their homework.",
+        "cn": "老师让学生们对他们的作业进行一些调整。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -2783,6 +4344,20 @@ window.__WORDS_DATA =
         "cn": "我在网上看到了那广告。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_105_02",
+        "en": "The company posted an advertisement on the newspaper to promote their new product.",
+        "cn": "该公司在报纸上刊登了一则广告来宣传他们的新产品。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_105_03",
+        "en": "The company put up an advertisement on the newspaper to promote their new product.",
+        "cn": "这家公司在报纸上刊登了一则广告来宣传他们的新产品。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -2809,6 +4384,20 @@ window.__WORDS_DATA =
         "cn": "我们达成了协议。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_106_02",
+        "en": "They reached an agreement after discussing the matter carefully.",
+        "cn": "他们在仔细讨论后达成了协议。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_106_03",
+        "en": "The two countries reached an agreement on trade relations.",
+        "cn": "两国就贸易关系达成了协议.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -2834,6 +4423,20 @@ window.__WORDS_DATA =
         "en": "Open the window for fresh air.",
         "cn": "开窗透透气。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_107_02",
+        "en": "The birds are flying in the air.",
+        "cn": "鸟儿在空气中飞翔。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_107_03",
+        "en": "The air in the room was fresh and clean.",
+        "cn": "房间里的空气清新干净。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -2861,6 +4464,13 @@ window.__WORDS_DATA =
         "cn": "大量的水。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_108_02",
+        "en": "The teacher asked the students to count the number of pencils in the box.",
+        "cn": "老师让学生们数一数盒子里有多少支铅笔。",
+        "tense": "simple_present",
+        "level": "elementary"
       }
     ]
   },
@@ -2887,6 +4497,20 @@ window.__WORDS_DATA =
         "cn": "令我开心的是他唱歌了。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_109_02",
+        "en": "The children had a lot of amusement at the playground.",
+        "cn": "孩子们在游乐场玩得很开心。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_109_03",
+        "en": "The children had a lot of fun at the amusement park.",
+        "cn": "孩子们在游乐园里玩得非常开心。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -2912,6 +4536,20 @@ window.__WORDS_DATA =
         "en": "The dog is a friendly animal.",
         "cn": "狗是友善的动物。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_110_02",
+        "en": "The cat is eating fish.",
+        "cn": "猫正在吃鱼。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_110_03",
+        "en": "The dog barked loudly when it saw the animal.",
+        "cn": "狗看到那只动物时大声地叫了起来。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -2939,6 +4577,20 @@ window.__WORDS_DATA =
         "cn": "给我你的回答。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_111_02",
+        "en": "The teacher asked the students to answer the question.",
+        "cn": "老师让学生们回答这个问题。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_111_03",
+        "en": "The teacher asked the students to give an answer to the question.",
+        "cn": "老师让学生们回答这个问题。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -2965,6 +4617,20 @@ window.__WORDS_DATA =
         "cn": "实验室有新设备。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_112_02",
+        "en": "The children used a simple apparatus to create art.",
+        "cn": "孩子们使用了一台简单的器械来创作艺术。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_112_03",
+        "en": "The children used an apparatus to learn how to draw pictures.",
+        "cn": "孩子们用一种器械来学习如何画画。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -2991,6 +4657,20 @@ window.__WORDS_DATA =
         "cn": "她点头表示赞同。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_113_02",
+        "en": "The teacher gave approval to the student's project.",
+        "cn": "老师批准了这个学生的项目。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_113_03",
+        "en": "The teacher gave the project approval.",
+        "cn": "老师批准了这个项目。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -3017,6 +4697,20 @@ window.__WORDS_DATA =
         "cn": "他们争论了很久。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_114_02",
+        "en": "During the argument, they discussed different viewpoints on the topic.",
+        "cn": "在争论中，他们就这个话题讨论了不同的观点。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_114_03",
+        "en": "During the meeting, the children had an argument about who should play the lead role in the play.",
+        "cn": "在会议上，孩子们就谁应该扮演剧中的主角发生了争论。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -3043,6 +4737,20 @@ window.__WORDS_DATA =
         "cn": "她学现代艺术。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_115_02",
+        "en": "Art is a beautiful way to express our creativity.",
+        "cn": "艺术是一种表达我们创造力的美好方式。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_115_03",
+        "en": "The children enjoyed creating art with colored pencils.",
+        "cn": "孩子们喜欢用彩色铅笔进行艺术创作。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -3069,6 +4777,20 @@ window.__WORDS_DATA =
         "cn": "攻击发生在黎明。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_116_02",
+        "en": "The children are learning about different types of attacks in elementary school.",
+        "cn": "孩子们在小学里学习不同类型的攻击。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_116_03",
+        "en": "The child was playing with his friends when suddenly an aggressive dog attacked them.",
+        "cn": "孩子正在和朋友们玩耍，突然有一只具有攻击性的狗朝他们扑了过来。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -3095,6 +4817,20 @@ window.__WORDS_DATA =
         "cn": "努力尝试成功。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_117_02",
+        "en": "The child attempted to draw a picture.",
+        "cn": "这个孩子尝试画一幅画。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_117_03",
+        "en": "The child attempted to draw a picture using crayons.",
+        "cn": "这个孩子尝试用蜡笔画一幅画。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -3121,6 +4857,20 @@ window.__WORDS_DATA =
         "cn": "注意听我说。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_118_02",
+        "en": "Children should pay attention in class.",
+        "cn": "孩子们在课堂上应该注意听讲。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_118_03",
+        "en": "The child needed to pay attention in class.",
+        "cn": "这个孩子需要在课堂上注意听讲。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -3146,6 +4896,20 @@ window.__WORDS_DATA =
         "en": "The park is a main attraction.",
         "cn": "公园是主要景点。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_119_02",
+        "en": "The colorful flowers have great attraction to bees.",
+        "cn": "这些五颜六色的花朵对蜜蜂有很大吸引力。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_119_03",
+        "en": "The colorful lights at the amusement park were very attractive to the children.",
+        "cn": "游乐园里五彩斑斓的灯光对孩子们非常有吸引力。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -3173,6 +4937,20 @@ window.__WORDS_DATA =
         "cn": "当局批准了。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_120_02",
+        "en": "The teacher spoke with authority when she told the students to clean their desks.",
+        "cn": "老师以权威的口吻告诉学生们要清理课桌。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_120_03",
+        "en": "The teacher spoke with authority and explained the rules clearly.",
+        "cn": "老师以权威的态度讲话，清楚地解释了规则。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -3199,6 +4977,20 @@ window.__WORDS_DATA =
         "cn": "我背疼。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_121_02",
+        "en": "She turned her back on the crowd and walked away.",
+        "cn": "她背对着人群走开了.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_121_03",
+        "en": "The boy sat on the bench and looked back at the park.",
+        "cn": "那个男孩坐在长椅上，回头望着公园。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -3225,6 +5017,20 @@ window.__WORDS_DATA =
         "cn": "保持平衡。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_122_02",
+        "en": "Keep your balance while walking on the tightrope.",
+        "cn": "在走钢丝时保持平衡。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_122_03",
+        "en": "The child held the balancing pole carefully to maintain balance.",
+        "cn": "孩子小心翼翼地握住平衡杆以保持平衡。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -3250,6 +5056,13 @@ window.__WORDS_DATA =
         "en": "The base of the lamp is heavy.",
         "cn": "灯的底座很重。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_123_02",
+        "en": "The children learned the basics of mathematics at the elementary level.",
+        "cn": "孩子们在小学阶段学习了数学的基础知识。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -3277,6 +5090,20 @@ window.__WORDS_DATA =
         "cn": "良好的行为会受奖励。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_124_02",
+        "en": "The children showed good behavior at the party.",
+        "cn": "孩子们在聚会上表现得很乖",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_124_03",
+        "en": "The child showed good behavior at the party.",
+        "cn": "这个孩子在聚会上表现得很乖。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -3303,6 +5130,20 @@ window.__WORDS_DATA =
         "cn": "我相信他是对的。",
         "tense": "simple_present",
         "level": "elementary"
+      },
+      {
+        "id": "word_125_02",
+        "en": "She has a strong belief in honesty.",
+        "cn": "她对诚实有着坚定的信念。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_125_03",
+        "en": "She believed in kindness and always helped others.",
+        "cn": "她相信善良的力量，总是帮助别人。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -3327,6 +5168,20 @@ window.__WORDS_DATA =
         "id": "word_126_01",
         "en": "The birth of the baby was peaceful.",
         "cn": "宝宝平静地出生了。",
+        "tense": "simple_past",
+        "level": "elementary"
+      },
+      {
+        "id": "word_126_02",
+        "en": "Every child has a special moment called birth.",
+        "cn": "每个孩子都有一个叫做出生的特别时刻。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_126_03",
+        "en": "John was born in a small town in the countryside.",
+        "cn": "约翰出生在一个乡村的小镇。",
         "tense": "simple_past",
         "level": "elementary"
       }
@@ -3355,6 +5210,20 @@ window.__WORDS_DATA =
         "cn": "给我一点面包。",
         "tense": "simple_present",
         "level": "elementary"
+      },
+      {
+        "id": "word_127_02",
+        "en": "She added a bit of sugar to her tea.",
+        "cn": "她在茶里加了一点糖。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_127_03",
+        "en": "She added a bit of sugar to her tea.",
+        "cn": "她在茶里加了一点糖。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -3380,6 +5249,20 @@ window.__WORDS_DATA =
         "en": "Take a bite of the apple.",
         "cn": "咬一口苹果。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_128_02",
+        "en": "The dog bit the child on the finger.",
+        "cn": "狗咬到了孩子的手指。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_128_03",
+        "en": "The puppy took a small bite of its bone.",
+        "cn": "小狗轻轻地咬了一口它的骨头。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -3407,6 +5290,20 @@ window.__WORDS_DATA =
         "cn": "血液流经血管。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_129_02",
+        "en": "The cat has red blood.",
+        "cn": "这只猫有红色的血液。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_129_03",
+        "en": "The little boy cut his finger while playing with his knife. Some blood came out of it.",
+        "cn": "小男孩在用刀玩耍时割伤了手指，有血流了出来。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -3433,6 +5330,20 @@ window.__WORDS_DATA =
         "cn": "那一击把他打倒了。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_130_02",
+        "en": "The children blow bubbles at the park.",
+        "cn": "孩子们在公园里吹泡泡。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_130_03",
+        "en": "The child blew on the bubbles to make them pop.",
+        "cn": "孩子吹泡泡，让它们爆掉。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -3459,6 +5370,20 @@ window.__WORDS_DATA =
         "cn": "运动让身体强壮。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_131_02",
+        "en": "The child uses his body to jump and play.",
+        "cn": "这个孩子用他的身体来跳跃和玩耍。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_131_03",
+        "en": "The child used his body to jump over the puddle.",
+        "cn": "孩子用他的身体跳过了水坑。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -3485,6 +5410,20 @@ window.__WORDS_DATA =
         "cn": "门把手是黄铜的。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_132_02",
+        "en": "The door handle is made of brass.",
+        "cn": "门把手是由黄铜制成的.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_132_03",
+        "en": "The bell was made of brass and rang beautifully.",
+        "cn": "这个铃是用黄铜制成的，敲起来非常美妙。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -3511,6 +5450,20 @@ window.__WORDS_DATA =
         "cn": "早餐吃面包和黄油。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_133_02",
+        "en": "She bought some bread at the supermarket.",
+        "cn": "她在超市买了一些面包.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_133_03",
+        "en": "She bought some bread at the grocery store.",
+        "cn": "她在杂货店买了一些面包.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -3537,6 +5490,20 @@ window.__WORDS_DATA =
         "cn": "深吸一口气。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_134_02",
+        "en": "She takes a deep breath before starting her exercise.",
+        "cn": "她在开始锻炼之前深吸一口气。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_134_03",
+        "en": "She took a deep breath before jumping into the pool.",
+        "cn": "她在跳进游泳池之前深吸了一口气.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -3562,6 +5529,20 @@ window.__WORDS_DATA =
         "en": "My brother is older than me.",
         "cn": "我哥哥比我大。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_135_02",
+        "en": "My brother helps me with my homework.",
+        "cn": "我的哥哥帮我做作业。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_135_03",
+        "en": "My brother helped me finish my homework.",
+        "cn": "我的哥哥帮助我完成了作业。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -3589,6 +5570,20 @@ window.__WORDS_DATA =
         "cn": "这座高楼有30层。",
         "tense": "simple_present",
         "level": "elementary"
+      },
+      {
+        "id": "word_136_02",
+        "en": "The children are playing inside the building.",
+        "cn": "孩子们正在建筑物里玩耍。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_136_03",
+        "en": "The children were excited to see the new building at their elementary school.",
+        "cn": "孩子们看到他们小学的新建筑物时非常兴奋。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -3614,6 +5609,20 @@ window.__WORDS_DATA =
         "en": "The burn on her hand healed.",
         "cn": "她手上的烧伤好了。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_137_02",
+        "en": "The candle burns slowly on the night table.",
+        "cn": "蜡烛在夜桌上慢慢燃烧。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_137_03",
+        "en": "The campfire burned brightly all night.",
+        "cn": "篝火整晚都燃烧得很旺。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -3641,6 +5650,20 @@ window.__WORDS_DATA =
         "cn": "屋里突然爆发出笑声。",
         "tense": "simple_present",
         "level": "elementary"
+      },
+      {
+        "id": "word_138_02",
+        "en": "The balloon burst suddenly when it hit the sharp edge.",
+        "cn": "气球撞到尖角时突然爆裂了.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_138_03",
+        "en": "The balloon burst suddenly when the child touched it.",
+        "cn": "孩子一碰气球，它就突然爆裂了.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -3667,6 +5690,20 @@ window.__WORDS_DATA =
         "cn": "今年生意很好。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_139_02",
+        "en": "She does some business in the local market.",
+        "cn": "她在当地市场做一些生意。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_139_03",
+        "en": "Mr. Smith does business with people from different countries.",
+        "cn": "史密斯先生与来自不同国家的人做生意。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -3693,6 +5730,20 @@ window.__WORDS_DATA =
         "cn": "在面包上抹黄油。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_140_02",
+        "en": "She spread some butter on her toast.",
+        "cn": "她在吐司上涂了些黄油。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_140_03",
+        "en": "She spread some butter on her toast.",
+        "cn": "她在吐司上涂了些黄油。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -3719,6 +5770,20 @@ window.__WORDS_DATA =
         "cn": "画家准备好画布。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_141_02",
+        "en": "The artist used canvas to create a beautiful painting.",
+        "cn": "艺术家用帆布创作了一幅美丽的画。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_141_03",
+        "en": "The children used canvas to create beautiful paintings.",
+        "cn": "孩子们用帆布制作出漂亮的画作。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -3745,6 +5810,20 @@ window.__WORDS_DATA =
         "cn": "照顾好自己。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_142_02",
+        "en": "She takes good care of her plants every day.",
+        "cn": "她每天都细心照料她的植物。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_142_03",
+        "en": "The teacher took great care of the students.",
+        "cn": "老师非常关心和照料学生们。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -3771,6 +5850,20 @@ window.__WORDS_DATA =
         "cn": "这是什么原因?",
         "tense": "simple_present",
         "level": "elementary"
+      },
+      {
+        "id": "word_143_02",
+        "en": "She stayed up late because she had to finish her homework.",
+        "cn": "她熬夜是因为她必须完成作业。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_143_03",
+        "en": "The teacher explained the cause of the problem to the students.",
+        "cn": "老师向学生们解释了问题的原因。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -3795,6 +5888,13 @@ window.__WORDS_DATA =
         "id": "word_144_01",
         "en": "Write on the board with chalk.",
         "cn": "用粉笔在黑板上写。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_144_02",
+        "en": "The teacher used chalk to write on the blackboard.",
+        "cn": "老师用粉笔在黑板上写字。",
         "tense": "simple_present",
         "level": "elementary"
       }
@@ -3823,6 +5923,20 @@ window.__WORDS_DATA =
         "cn": "给我一个机会。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_145_02",
+        "en": "She has a chance to win the competition.",
+        "cn": "她有机会赢得这次比赛。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_145_03",
+        "en": "She felt a chance to win the competition.",
+        "cn": "她觉得有赢得比赛的机会。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -3848,6 +5962,20 @@ window.__WORDS_DATA =
         "en": "A change of plan is needed.",
         "cn": "需要改变计划。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_146_02",
+        "en": "She changes her clothes every day.",
+        "cn": "她每天都会换衣服。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_146_03",
+        "en": "The boy decided to change his habit of eating too much candy.",
+        "cn": "这个男孩决定改变他吃太多糖果的习惯。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -3875,6 +6003,20 @@ window.__WORDS_DATA =
         "cn": "用这块布擦桌子。",
         "tense": "simple_present",
         "level": "elementary"
+      },
+      {
+        "id": "word_147_02",
+        "en": "She is sewing a dress using cloth.",
+        "cn": "她正在用布料缝制一条裙子。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_147_03",
+        "en": "She used cloth to make a dress.",
+        "cn": "她用布料做了一件连衣裙。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -3901,6 +6043,20 @@ window.__WORDS_DATA =
         "cn": "煤被烧来取暖。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_148_02",
+        "en": "The children played with a small model of a coal mine in the toy store.",
+        "cn": "孩子们在玩具店里玩了一个小小的煤矿模型。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_148_03",
+        "en": "The children learned about coal in their science class. They learned that coal is a mineral that comes from the ground and is used to make heat and power.",
+        "cn": "孩子们在科学课上了解了煤。他们知道煤是一种从地下开采出来的矿物，可以用来产生热能和动力。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -3927,6 +6083,13 @@ window.__WORDS_DATA =
         "cn": "你最喜欢什么颜色?",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_149_02",
+        "en": "The children are painting a colorful picture.",
+        "cn": "孩子们正在画一幅色彩斑斓的画。",
+        "tense": "simple_present",
+        "level": "elementary"
       }
     ]
   },
@@ -3953,6 +6116,20 @@ window.__WORDS_DATA =
         "cn": "这把椅子让我舒适。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_150_02",
+        "en": "She gave him a comfortable hug to comfort him after the sad news.",
+        "cn": "在听到这个悲伤的消息后，她给了他一个安慰的拥抱来安慰他.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_150_03",
+        "en": "She gave me a comforting hug when I was feeling sad.",
+        "cn": "当我感到难过的时候，她给了我一个安慰的拥抱。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -3979,6 +6156,20 @@ window.__WORDS_DATA =
         "cn": "委员会投了赞成票。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_151_02",
+        "en": "The committee decided to organize a field trip for the students.",
+        "cn": "委员会决定为学生们组织一次实地考察活动。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_151_03",
+        "en": "The committee decided to organize a field trip for the students.",
+        "cn": "委员会决定为学生们组织一次实地考察活动。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -4004,6 +6195,20 @@ window.__WORDS_DATA =
         "en": "She works for a tech company.",
         "cn": "她在一家科技公司工作。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_152_02",
+        "en": "The company provides excellent services to its customers.",
+        "cn": "这家公司为顾客提供优质的服务。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_152_03",
+        "en": "The company provides a friendly atmosphere where everyone can feel welcomed and included.",
+        "cn": "这家公司营造了一个友好的氛围，让每个人都感到被欢迎和融入其中。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -4031,6 +6236,20 @@ window.__WORDS_DATA =
         "cn": "相比之下,这个更便宜。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_153_02",
+        "en": "The apples in this basket are bigger than those in the other basket.",
+        "cn": "这个篮子里的苹果比另一个篮子里的苹果大。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_153_03",
+        "en": "The cat is faster than the dog.",
+        "cn": "这只猫比狗跑得快。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -4057,6 +6276,20 @@ window.__WORDS_DATA =
         "cn": "她赢得了比赛。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_154_02",
+        "en": "In elementary school, children often participate in various competitions to show their skills.",
+        "cn": "在小学阶段，孩子们经常会参加各种比赛来展示他们的技能。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_154_03",
+        "en": "In the elementary level competition, the students showed great enthusiasm and teamwork.",
+        "cn": "在小学阶段的比赛中，学生们表现出极大的热情和团队合作精神。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -4082,6 +6315,20 @@ window.__WORDS_DATA =
         "en": "The car is in good condition.",
         "cn": "车况良好。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_155_02",
+        "en": "If the weather is good, we will go for a picnic.",
+        "cn": "如果天气好的话，我们就去野餐。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_155_03",
+        "en": "If the weather is good, we will go for a picnic.",
+        "cn": "如果天气好的话，我们就去野餐。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -4109,6 +6356,20 @@ window.__WORDS_DATA =
         "cn": "他们之间有联系。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_156_02",
+        "en": "The connection between the two buttons is very clear.",
+        "cn": "这两个按钮之间的连接关系非常清晰。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_156_03",
+        "en": "The connection between the two roads is very strong.",
+        "cn": "这两条道路之间的连接非常紧密。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -4135,6 +6396,20 @@ window.__WORDS_DATA =
         "cn": "控制好车。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_157_02",
+        "en": "The teacher controls the classroom environment to ensure a safe and productive learning space.",
+        "cn": "老师控制教室环境，以确保有一个安全且高效的学习空间。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_157_03",
+        "en": "The teacher used control to manage the classroom during the lesson.",
+        "cn": "老师在课堂上运用控制来管理秩序。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -4161,6 +6436,20 @@ window.__WORDS_DATA =
         "cn": "厨师做了晚餐。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_158_02",
+        "en": "The cook is preparing dinner for the family.",
+        "cn": "厨师正在为家人准备晚餐。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_158_03",
+        "en": "The cook prepared a delicious meal for everyone.",
+        "cn": "厨师为大家准备了一顿美味的饭菜。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -4187,6 +6476,20 @@ window.__WORDS_DATA =
         "cn": "铜线导电。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_159_02",
+        "en": "The copper wire is very shiny.",
+        "cn": "这根铜线非常闪亮。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_159_03",
+        "en": "The child found a shiny piece of copper on the ground.",
+        "cn": "孩子在地上发现了一块闪闪发光的铜。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -4212,6 +6515,20 @@ window.__WORDS_DATA =
         "en": "Make a copy of this page.",
         "cn": "复印这一页。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_160_02",
+        "en": "She copied the document carefully.",
+        "cn": "她仔细地复制了这份文件。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_160_03",
+        "en": "She made a copy of the important document before handing it in.",
+        "cn": "她在上交重要文件之前先复制了一份。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -4239,6 +6556,20 @@ window.__WORDS_DATA =
         "cn": "把瓶塞拔出来。",
         "tense": "simple_present",
         "level": "elementary"
+      },
+      {
+        "id": "word_161_02",
+        "en": "The cork was removed from the bottle carefully.",
+        "cn": "软木塞被小心地从瓶子里取了出来.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_161_03",
+        "en": "The cork from the bottle prevented it from leaking.",
+        "cn": "瓶子里的软木塞防止了它泄漏。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -4265,6 +6596,20 @@ window.__WORDS_DATA =
         "cn": "这件衬衫是纯棉的。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_162_02",
+        "en": "The child is wearing a dress made of cotton.",
+        "cn": "这个孩子穿着一件棉质的裙子。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_162_03",
+        "en": "The child wore a dress made of cotton.",
+        "cn": "那个孩子穿了一条棉质连衣裙。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -4291,6 +6636,20 @@ window.__WORDS_DATA =
         "cn": "她咳嗽得厉害。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_163_02",
+        "en": "The child started to cough when he got cold.",
+        "cn": "孩子感冒后开始咳嗽。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_163_03",
+        "en": "The child started to cough after playing outside.",
+        "cn": "孩子在外面玩过后开始咳嗽。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -4317,6 +6676,20 @@ window.__WORDS_DATA =
         "cn": "中国是一个大国。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_164_02",
+        "en": "The country is known for its beautiful landscapes.",
+        "cn": "这个国家以其美丽的风景而闻名。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_164_03",
+        "en": "In the country, there are many farms where people grow crops.",
+        "cn": "在乡村里，有很多农场，人们在那里种植农作物。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -4342,6 +6715,20 @@ window.__WORDS_DATA =
         "en": "The cover of the book is blue.",
         "cn": "书的封面是蓝色的。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_165_02",
+        "en": "The book has a beautiful cover.",
+        "cn": "这本书有一个漂亮的封面。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_165_03",
+        "en": "The cat used a blanket as a cover to keep warm.",
+        "cn": "猫用毯子当覆盖物来保暖。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -4369,6 +6756,20 @@ window.__WORDS_DATA =
         "cn": "墙上有道裂缝。",
         "tense": "simple_present",
         "level": "elementary"
+      },
+      {
+        "id": "word_166_02",
+        "en": "A small crack appeared in the wall after the earthquake.",
+        "cn": "地震后，墙上出现了一道小裂缝。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_166_03",
+        "en": "The old wall had a big crack in it.",
+        "cn": "那面旧墙上有一道很大的裂缝。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -4395,6 +6796,20 @@ window.__WORDS_DATA =
         "cn": "赊账买。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_167_02",
+        "en": "The student received credit for her hard work.",
+        "cn": "这个学生因为她的努力工作而得到了赞扬。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_167_03",
+        "en": "The child received credit for his hard work and kindness.",
+        "cn": "这个孩子因为他的努力和善良而受到了赞扬。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -4421,6 +6836,20 @@ window.__WORDS_DATA =
         "cn": "偷窃是犯罪。",
         "tense": "present_continuous",
         "level": "beginner"
+      },
+      {
+        "id": "word_168_02",
+        "en": "The police are investigating a serious crime that happened in the neighborhood.",
+        "cn": "警方正在调查发生在该社区的一起严重罪行。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_168_03",
+        "en": "The police caught the man who committed the crime.",
+        "cn": "警察抓到了犯下罪行的那个人。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -4447,6 +6876,20 @@ window.__WORDS_DATA =
         "cn": "把蒜捣碎。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_169_02",
+        "en": "The kids crushed the ice cream with their hands.",
+        "cn": "孩子们用手把冰淇淋压碎了.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_169_03",
+        "en": "The child crushed the ice cream with his hands.",
+        "cn": "孩子用手把冰淇淋压碎了.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -4471,6 +6914,20 @@ window.__WORDS_DATA =
         "id": "word_170_01",
         "en": "The baby gave a loud cry.",
         "cn": "宝宝大哭一声。",
+        "tense": "simple_past",
+        "level": "elementary"
+      },
+      {
+        "id": "word_170_02",
+        "en": "The child cried when he dropped his toy.",
+        "cn": "孩子看到玩具掉在地上，哭了起来.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_170_03",
+        "en": "The child cried when he lost his favorite toy.",
+        "cn": "孩子丢了最喜欢的玩具，哭了起来。",
         "tense": "simple_past",
         "level": "elementary"
       }
@@ -4499,6 +6956,20 @@ window.__WORDS_DATA =
         "cn": "河水的水流很急。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_171_02",
+        "en": "The current of the river is quite fast today.",
+        "cn": "今天河水的流速相当快。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_171_03",
+        "en": "The current of the river is very fast today.",
+        "cn": "今天河流的水流速度非常快。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -4524,6 +6995,20 @@ window.__WORDS_DATA =
         "en": "The road has a sharp curve.",
         "cn": "路上有个急转弯。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_172_02",
+        "en": "The ball follows a smooth curve as it rolls down the hill.",
+        "cn": "球沿着一条平滑的曲线从山上滚下来。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_172_03",
+        "en": "The children drew a beautiful curve on the paper with a colored pencil.",
+        "cn": "孩子们用彩色铅笔在纸上画了一条漂亮的曲线。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -4551,6 +7036,20 @@ window.__WORDS_DATA =
         "cn": "暴风雨造成了破坏。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_173_02",
+        "en": "The cat damaged the furniture with its claws.",
+        "cn": "猫用它的爪子损坏了家具。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_173_03",
+        "en": "The cat caused damage to the furniture by scratching it.",
+        "cn": "那只猫抓坏了家具。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -4577,6 +7076,20 @@ window.__WORDS_DATA =
         "cn": "远离危险。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_174_02",
+        "en": "The child was in danger when he stepped into the dark alley.",
+        "cn": "那个孩子走进黑暗的小巷时，处于危险之中。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_174_03",
+        "en": "The child was in danger when he went near the edge of the cliff.",
+        "cn": "孩子靠近悬崖边缘时处于危险之中。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -4603,6 +7116,20 @@ window.__WORDS_DATA =
         "cn": "他们的女儿六岁。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_175_02",
+        "en": "My daughter is playing in the park.",
+        "cn": "我的女儿正在公园里玩耍。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_175_03",
+        "en": "The daughter played with her dolls in the living room.",
+        "cn": "女儿在客厅里玩她的洋娃娃。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -4629,6 +7156,20 @@ window.__WORDS_DATA =
         "cn": "祝你今天愉快。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_176_02",
+        "en": "On Monday, it is sunny during the day.",
+        "cn": "周一白天，天气晴朗。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_176_03",
+        "en": "On a sunny day, the children played outside.",
+        "cn": "在一个阳光明媚的日子里，孩子们在户外玩耍。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -4655,6 +7196,20 @@ window.__WORDS_DATA =
         "cn": "他的去世很突然。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_177_02",
+        "en": "The boy was very scared when he saw a dead bird.",
+        "cn": "这个男孩看到一只死鸟时非常害怕。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_177_03",
+        "en": "The little bird fell from the tree and died.",
+        "cn": "小鸟从树上掉下来，死了。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -4680,6 +7235,20 @@ window.__WORDS_DATA =
         "en": "He paid off all his debt.",
         "cn": "他还清了所有债务。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_178_02",
+        "en": "He has some debt.",
+        "cn": "他欠了一些债。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_178_03",
+        "en": "He owed some money to his friend.",
+        "cn": "他欠了他的朋友一些钱。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -4707,6 +7276,20 @@ window.__WORDS_DATA =
         "cn": "这是个艰难的决定。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_179_02",
+        "en": "She made a quick decision to help her friend.",
+        "cn": "她迅速做出了帮助朋友的决定.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_179_03",
+        "en": "The children had to make a decision about what to play with at recess.",
+        "cn": "孩子们必须决定在休息时间玩什么游戏。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -4733,6 +7316,20 @@ window.__WORDS_DATA =
         "cn": "今天三十度。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_180_02",
+        "en": "The temperature today reaches a degree of 30°C.",
+        "cn": "今天的温度达到了30度的程度。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_180_03",
+        "en": "The temperature reached a degree of 30 degrees Celsius today.",
+        "cn": "今天，温度达到了30摄氏度的程度。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -4758,6 +7355,20 @@ window.__WORDS_DATA =
         "en": "The dress has a nice design.",
         "cn": "这条裙子设计很好看。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_181_02",
+        "en": "The children used colored paper to design their own cards.",
+        "cn": "孩子们用彩纸设计了自己的卡片。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_181_03",
+        "en": "The children used colored pencils to design their own pictures.",
+        "cn": "孩子们用彩色铅笔设计自己的画。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -4785,6 +7396,20 @@ window.__WORDS_DATA =
         "cn": "她渴望去旅行。",
         "tense": "simple_present",
         "level": "elementary"
+      },
+      {
+        "id": "word_182_02",
+        "en": "She has a strong desire to learn new things.",
+        "cn": "她有强烈的渴望学习新事物。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_182_03",
+        "en": "The child looked at the colorful candy and felt a strong desire to have it.",
+        "cn": "那孩子看着那些五颜六色的糖果，内心充满了想要得到它们的强烈渴望。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -4811,6 +7436,20 @@ window.__WORDS_DATA =
         "cn": "全部被毁了。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_183_02",
+        "en": "The construction workers prevented the destruction of the old building.",
+        "cn": "建筑工人阻止了这座旧建筑的破坏。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_183_03",
+        "en": "The hurricane caused great destruction to the coastal town.",
+        "cn": "这场飓风给沿海小镇带来了巨大的破坏。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -4837,6 +7476,13 @@ window.__WORDS_DATA =
         "cn": "告诉我每个细节。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_184_02",
+        "en": "She carefully observed the detail of the painting.",
+        "cn": "她仔细观察了这幅画的细节。",
+        "tense": "simple_present",
+        "level": "elementary"
       }
     ]
   },
@@ -4862,6 +7508,20 @@ window.__WORDS_DATA =
         "en": "The development of AI is fast.",
         "cn": "AI 的发展很快。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_185_02",
+        "en": "The children are learning about development in elementary school.",
+        "cn": "孩子们在小学里学习关于发展的知识。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_185_03",
+        "en": "In elementary school, children learn about the importance of development. They study how growth and change happen in their bodies and in their surroundings.",
+        "cn": "在小学阶段，孩子们会了解到发展的重要性。他们会学习身体和周围环境是如何成长和变化的。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -4889,6 +7549,20 @@ window.__WORDS_DATA =
         "cn": "慢慢吃有助消化。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_186_02",
+        "en": "The digestion of food starts in the mouth.",
+        "cn": "食物的消化过程从口腔开始。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_186_03",
+        "en": "After eating some carrots, his digestion improved.",
+        "cn": "吃了些胡萝卜后，他的消化变好了.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -4915,6 +7589,20 @@ window.__WORDS_DATA =
         "cn": "哪个方向是北?",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_187_02",
+        "en": "The children are walking in the same direction.",
+        "cn": "孩子们正朝着同一个方向行走。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_187_03",
+        "en": "The boy walked in the direction of the park.",
+        "cn": "那个男孩朝着公园的方向走去。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -4941,6 +7629,20 @@ window.__WORDS_DATA =
         "cn": "那是个令人激动的发现。",
         "tense": "past_continuous",
         "level": "beginner"
+      },
+      {
+        "id": "word_188_02",
+        "en": "The children were excited about their discovery of a hidden treasure in the garden.",
+        "cn": "孩子们为在花园里发现了一处隐藏的宝藏而感到兴奋。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_188_03",
+        "en": "The children made a wonderful discovery in the garden. They found a hidden nest filled with eggs.",
+        "cn": "孩子们在花园里有了一个美妙的发现。他们找到了一个藏有鸟蛋的隐蔽鸟巢。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -4967,6 +7669,20 @@ window.__WORDS_DATA =
         "cn": "我们讨论了很久。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_189_02",
+        "en": "The children had a discussion about their favorite animals.",
+        "cn": "孩子们讨论了他们最喜欢的动物。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_189_03",
+        "en": "The children had a discussion about their favorite animals.",
+        "cn": "孩子们就他们最喜欢的动物进行了讨论。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -4993,6 +7709,20 @@ window.__WORDS_DATA =
         "cn": "这种病很罕见。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_190_02",
+        "en": "The doctor explained how diseases can be prevented.",
+        "cn": "医生解释了如何预防疾病。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_190_03",
+        "en": "The child was sick with a common disease and had to stay home from school.",
+        "cn": "这个孩子患上了常见的疾病，不得不在家休息不上学。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -5018,6 +7748,20 @@ window.__WORDS_DATA =
         "en": "He looked at it with disgust.",
         "cn": "他厌恶地看着它。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_191_02",
+        "en": "She felt disgust when she saw the dirty puddle.",
+        "cn": "她看到那个脏水坑时感到厌恶。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_191_03",
+        "en": "She felt disgust when she saw the dirty insects.",
+        "cn": "她看到那些肮脏的昆虫时感到厌恶。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -5045,6 +7789,20 @@ window.__WORDS_DATA =
         "cn": "离这儿多远?",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_192_02",
+        "en": "The distance between the two cities is quite long.",
+        "cn": "这两座城市之间的距离相当长。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_192_03",
+        "en": "The dog ran a certain distance to catch its ball.",
+        "cn": "狗跑了一段距离去抓它的球。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -5071,6 +7829,20 @@ window.__WORDS_DATA =
         "cn": "公平分配食物。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_193_02",
+        "en": "The distribution of resources should be fair and equal.",
+        "cn": "资源的分配应该公平公正。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_193_03",
+        "en": "The teacher asked the students to distribute the candies equally among themselves.",
+        "cn": "老师让学生们把糖果平均分配给他们自己。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -5096,6 +7868,20 @@ window.__WORDS_DATA =
         "en": "The division of labor is clear.",
         "cn": "分工明确。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_194_02",
+        "en": "In level elementary classrooms, division into departments can help organize teaching activities.",
+        "cn": "在小学阶段，将班级划分为不同的部门有助于组织教学活动。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_194_03",
+        "en": "In the elementary school, the division of classes was based on age and ability.",
+        "cn": "在小学阶段，班级的划分是根据年龄和能力来进行的。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -5123,6 +7909,20 @@ window.__WORDS_DATA =
         "cn": "我对此毫不怀疑。",
         "tense": "simple_present",
         "level": "elementary"
+      },
+      {
+        "id": "word_195_02",
+        "en": "She has no doubt that he will succeed.",
+        "cn": "她毫不怀疑他会成功。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_195_03",
+        "en": "She had some doubt about whether he was telling the truth.",
+        "cn": "她对他是否在说实话有些怀疑.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -5149,6 +7949,20 @@ window.__WORDS_DATA =
         "cn": "给我拿杯冷饮。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_196_02",
+        "en": "She drinks water every day.",
+        "cn": "她每天都会喝水。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_196_03",
+        "en": "She drank some juice after lunch.",
+        "cn": "她午饭后喝了一些果汁.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -5175,6 +7989,20 @@ window.__WORDS_DATA =
         "cn": "雪天开车很难。",
         "tense": "present_continuous",
         "level": "beginner"
+      },
+      {
+        "id": "word_197_02",
+        "en": "She is driving her car to work.",
+        "cn": "她正在开车去上班。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_197_03",
+        "en": "The child was driving his toy car on the floor.",
+        "cn": "孩子正在地板上驾驶他的玩具汽车。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -5200,6 +8028,20 @@ window.__WORDS_DATA =
         "en": "Wipe the dust off the shelf.",
         "cn": "把架子上的灰擦掉。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_198_02",
+        "en": "The table was covered with dust.",
+        "cn": "桌子上积满了灰尘。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_198_03",
+        "en": "The cat picked up some dust while playing on the floor.",
+        "cn": "猫在地板上玩耍时弄到了一些灰尘。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -5227,6 +8069,20 @@ window.__WORDS_DATA =
         "cn": "把种子种到土里。",
         "tense": "simple_present",
         "level": "elementary"
+      },
+      {
+        "id": "word_199_02",
+        "en": "The earth is full of plants and animals.",
+        "cn": "地球上充满了植物和动物。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_199_03",
+        "en": "The earth is full of soil where plants grow.",
+        "cn": "地球上布满了植物生长的土壤。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -5253,6 +8109,20 @@ window.__WORDS_DATA =
         "cn": "离边缘远点。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_200_02",
+        "en": "The child carefully moved along the edge of the table.",
+        "cn": "孩子小心地沿着桌子的边缘移动。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_200_03",
+        "en": "The child carefully touched the edge of the table.",
+        "cn": "孩子小心翼翼地触碰了桌子的边缘。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -5279,6 +8149,20 @@ window.__WORDS_DATA =
         "cn": "教育改变命运。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_201_02",
+        "en": "Children in elementary schools receive education that focuses on basic skills such as reading, writing, and mathematics.",
+        "cn": "小学阶段的孩子们接受的教育侧重于阅读、写作和数学等基本技能的培养。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_201_03",
+        "en": "In elementary school, children learn basic skills such as reading, writing, and math.",
+        "cn": "在小学阶段，孩子们学习阅读、写作和数学等基础技能。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -5305,6 +8189,20 @@ window.__WORDS_DATA =
         "cn": "药没什么效果。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_202_02",
+        "en": "The new policy had a positive effect on the economy.",
+        "cn": "新政策对经济产生了积极影响。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_202_03",
+        "en": "The new policy had a positive effect on the economy.",
+        "cn": "新政策对经济产生了积极影响。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -5330,6 +8228,20 @@ window.__WORDS_DATA =
         "en": "At the end of the road.",
         "cn": "在路的尽头。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_203_02",
+        "en": "The train finally reached its end after a long journey.",
+        "cn": "火车经过漫长的旅程，终于到达了终点。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_203_03",
+        "en": "The train reached its end at the station.",
+        "cn": "火车在车站到达了终点。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -5357,6 +8269,20 @@ window.__WORDS_DATA =
         "cn": "你算错了。",
         "tense": "simple_present",
         "level": "elementary"
+      },
+      {
+        "id": "word_204_02",
+        "en": "He made an error in his math homework.",
+        "cn": "他在数学作业中犯了一个错误。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_204_03",
+        "en": "He made an error in his math homework.",
+        "cn": "他在数学作业中犯了一个错误。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -5383,6 +8309,20 @@ window.__WORDS_DATA =
         "cn": "那是一件大事。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_205_02",
+        "en": "The children are excited about the upcoming event.",
+        "cn": "孩子们对即将到来的活动感到非常兴奋。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_205_03",
+        "en": "At school, the children participated in an event called 'Coloring Day'.",
+        "cn": "在学校里，孩子们参加了一个叫做‘涂色日’的活动。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -5409,6 +8349,20 @@ window.__WORDS_DATA =
         "cn": "给我举个例子。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_206_02",
+        "en": "She reads books every evening. Example: She reads a storybook before going to bed.",
+        "cn": "她每天晚上都会读书。例子：她会在睡觉前读一本故事书。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_206_03",
+        "en": "For example, when you go to the park, you might see a dog running around.",
+        "cn": "例如，当你去公园的时候，你可能会看到一只狗在四处奔跑。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -5435,6 +8389,20 @@ window.__WORDS_DATA =
         "cn": "礼物交换。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_207_02",
+        "en": "They exchanged gifts during the party.",
+        "cn": "他们在聚会上交换了礼物。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_207_03",
+        "en": "The children exchanged toys at the playground.",
+        "cn": "孩子们在操场上交换玩具。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -5460,6 +8428,20 @@ window.__WORDS_DATA =
         "en": "The existence of life on Mars?",
         "cn": "火星上有生命存在吗?",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_208_02",
+        "en": "Every living thing has existence.",
+        "cn": "每一个生物都具有存在。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_208_03",
+        "en": "Every living thing has existence in this world.",
+        "cn": "这个世界上每一个生物都存在着。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -5487,6 +8469,20 @@ window.__WORDS_DATA =
         "cn": "业务扩张很慢。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_209_02",
+        "en": "The company is expanding its business into new markets.",
+        "cn": "这家公司正在将业务扩展到新的市场。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_209_03",
+        "en": "The rabbit expanded its burrow to make more space for food and toys.",
+        "cn": "兔子扩建了它的洞穴，为食物和玩具腾出更多空间。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -5513,6 +8509,20 @@ window.__WORDS_DATA =
         "cn": "她有多年的经验。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_210_02",
+        "en": "She has a lot of experience in teaching elementary students.",
+        "cn": "她有丰富的教授小学生经验。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_210_03",
+        "en": "The child gained some basic experience in reading.",
+        "cn": "这个孩子获得了一些基本的阅读经验。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -5539,6 +8549,20 @@ window.__WORDS_DATA =
         "cn": "问专家。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_211_02",
+        "en": "The expert helped the children solve the math problem.",
+        "cn": "这位专家帮助孩子们解决了数学问题。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_211_03",
+        "en": "The expert helped the child solve the math problem.",
+        "cn": "这位专家帮助孩子解决了数学问题。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -5565,6 +8589,20 @@ window.__WORDS_DATA =
         "cn": "这是个众所周知的事实。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_212_02",
+        "en": "The fact is that dogs have very strong senses of smell.",
+        "cn": "事实是，狗的嗅觉非常灵敏。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_212_03",
+        "en": "The fact that the Earth rotates around the Sun makes it possible for us to have day and night.",
+        "cn": "地球围绕太阳旋转这一事实，使得我们能够经历白天和黑夜。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -5591,6 +8629,20 @@ window.__WORDS_DATA =
         "cn": "他摔得很重。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_213_02",
+        "en": "The leaves fall from the trees in autumn.",
+        "cn": "秋天的时候，树叶会从树上掉下来。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_213_03",
+        "en": "In autumn, the leaves fall from the trees.",
+        "cn": "在秋天，树叶从树上落下。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -5617,6 +8669,20 @@ window.__WORDS_DATA =
         "cn": "家人优先。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_214_02",
+        "en": "My family goes for a picnic every weekend.",
+        "cn": "我的家人每个周末都会去野餐。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_214_03",
+        "en": "The family went on a picnic together.",
+        "cn": "全家人一起去野餐了。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -5643,6 +8709,27 @@ window.__WORDS_DATA =
         "cn": "我父亲是老师。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_215_02",
+        "en": "My father is a teacher.",
+        "cn": "我的父亲是一名教师。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_215_03",
+        "en": "We often go fishing with my father on weekends.",
+        "cn": "我们经常在周末和父亲一起去钓鱼。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_215_04",
+        "en": "My father taught me how to ride a bike when I was five.",
+        "cn": "我五岁时，父亲教我如何骑自行车。",
+        "tense": "simple_present",
+        "level": "elementary"
       }
     ]
   },
@@ -5668,6 +8755,20 @@ window.__WORDS_DATA =
         "en": "He has a fear of heights.",
         "cn": "他怕高。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_216_02",
+        "en": "The child felt fear when he saw the loud thunder.",
+        "cn": "孩子看到响亮的雷声时感到害怕.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_216_03",
+        "en": "The little girl felt fear when she saw the dark shadow in the corner.",
+        "cn": "小女孩看到角落里的黑影时感到害怕。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -5695,6 +8796,20 @@ window.__WORDS_DATA =
         "cn": "我有种奇怪的感觉。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_217_02",
+        "en": "She is feeling happy today.",
+        "cn": "她今天感觉很开心。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_217_03",
+        "en": "She felt happy when she received the gift.",
+        "cn": "她收到礼物时感到很高兴。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -5721,6 +8836,20 @@ window.__WORDS_DATA =
         "cn": "她每天读小说。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_218_02",
+        "en": "She enjoys reading fiction about magical worlds.",
+        "cn": "她喜欢阅读关于魔法世界的小说。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_218_03",
+        "en": "In this fiction book, the hero travels to a magical world.",
+        "cn": "在这本虚构的小说中，主人公来到了一个魔幻的世界。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -5746,6 +8875,20 @@ window.__WORDS_DATA =
         "en": "The field is full of flowers.",
         "cn": "田里开满了花。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_219_02",
+        "en": "The children are playing in the field.",
+        "cn": "孩子们正在田地里玩耍。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_219_03",
+        "en": "The children played in the field during recess.",
+        "cn": "孩子们在课间休息时在田地里玩耍。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -5773,6 +8916,20 @@ window.__WORDS_DATA =
         "cn": "他们大吵了一架。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_220_02",
+        "en": "The children are fighting over a toy.",
+        "cn": "孩子们正在为了一個玩具打架。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_220_03",
+        "en": "The two boys started to fight over a toy.",
+        "cn": "两个男孩为了一个玩具开始打架。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -5798,6 +8955,20 @@ window.__WORDS_DATA =
         "en": "Light a fire to keep warm.",
         "cn": "生火取暖。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_221_02",
+        "en": "The fire is burning brightly in the fireplace.",
+        "cn": "火在壁炉里明亮地燃烧着.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_221_03",
+        "en": "The boy built a small fire in the campfire to keep warm.",
+        "cn": "男孩在篝火旁生了一小堆火来保暖。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -5825,6 +8996,20 @@ window.__WORDS_DATA =
         "cn": "蜡烛的火焰很小。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_222_02",
+        "en": "The flame of the candle burned brightly in the dark room.",
+        "cn": "蜡烛的火焰在黑暗的房间里明亮地燃烧着.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_222_03",
+        "en": "The flame of the candle burned brightly in the dark room.",
+        "cn": "蜡烛的火焰在黑暗的房间里明亮地燃烧着。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -5850,6 +9035,20 @@ window.__WORDS_DATA =
         "en": "The flight to Paris is long.",
         "cn": "飞往巴黎的航班很长。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_223_02",
+        "en": "The children are learning about flight in their science class.",
+        "cn": "孩子们在科学课上学习关于飞行的知识。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_223_03",
+        "en": "The children enjoyed their flight to the amusement park.",
+        "cn": "孩子们很喜欢他们去游乐园的航班。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -5877,6 +9076,20 @@ window.__WORDS_DATA =
         "cn": "玫瑰是我最爱的花。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_224_02",
+        "en": "The flower in the garden is beautiful.",
+        "cn": "花园里的花很漂亮。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_224_03",
+        "en": "The child picked a beautiful flower in the garden.",
+        "cn": "孩子在花园里摘了一朵美丽的花.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -5902,6 +9115,20 @@ window.__WORDS_DATA =
         "en": "There's a fold in the paper.",
         "cn": "纸上有道折痕。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_225_02",
+        "en": "She folded the paper carefully.",
+        "cn": "她仔细地把纸折叠起来。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_225_03",
+        "en": "She folded the paper carefully to make a perfect square.",
+        "cn": "她仔细地把纸张折叠成正方形。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -5929,6 +9156,20 @@ window.__WORDS_DATA =
         "cn": "食物在桌上。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_226_02",
+        "en": "She eats food every day.",
+        "cn": "她每天都会吃东西。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_226_03",
+        "en": "The children loved eating food during the picnic.",
+        "cn": "孩子们在野餐时非常喜欢吃食物。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -5955,6 +9196,20 @@ window.__WORDS_DATA =
         "cn": "用力把它打开。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_227_02",
+        "en": "The teacher used force to stop the noisy students.",
+        "cn": "老师用武力制止了吵闹的学生。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_227_03",
+        "en": "The child used force to open the door when it wouldn't budge.",
+        "cn": "那孩子用力去开那扇打不开的门。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -5980,6 +9235,20 @@ window.__WORDS_DATA =
         "en": "Water takes the form of its bottle.",
         "cn": "水会变成瓶子的形状。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_228_02",
+        "en": "The child shaped the clay into a small animal.",
+        "cn": "孩子把黏土捏成了一只小动物。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_228_03",
+        "en": "The child drew a circle with a pencil, creating a simple form.",
+        "cn": "孩子用铅笔画了一个圆，形成了一个简单的形状。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -6007,6 +9276,20 @@ window.__WORDS_DATA =
         "cn": "他是我最好的朋友。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_229_02",
+        "en": "My friend is playing video games with me.",
+        "cn": "我的朋友正在和我一起玩电子游戏。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_229_03",
+        "en": "My friend helped me with my homework.",
+        "cn": "我的朋友帮我完成了作业。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -6033,6 +9316,20 @@ window.__WORDS_DATA =
         "cn": "坐到前面。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_230_02",
+        "en": "The child is standing in front of the door.",
+        "cn": "这个孩子站在门前面。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_230_03",
+        "en": "The child stood in front of the door.",
+        "cn": "那个孩子站在门的前面。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -6059,6 +9356,20 @@ window.__WORDS_DATA =
         "cn": "苹果是我最爱的水果。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_231_02",
+        "en": "She eats some fruit every day.",
+        "cn": "她每天都会吃一些水果。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_231_03",
+        "en": "She picked some fresh fruit from the garden.",
+        "cn": "她从花园里摘了一些新鲜的水果。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -6085,6 +9396,20 @@ window.__WORDS_DATA =
         "cn": "把水倒进杯子。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_232_02",
+        "en": "She is holding a glass of water.",
+        "cn": "她拿着一杯水。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_232_03",
+        "en": "She held a glass of water in her hand.",
+        "cn": "她手里拿着一杯水。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -6111,6 +9436,20 @@ window.__WORDS_DATA =
         "cn": "戒指是纯金的。",
         "tense": "present_continuous",
         "level": "beginner"
+      },
+      {
+        "id": "word_233_02",
+        "en": "The child found a shiny gold coin in the sand.",
+        "cn": "孩子在一个沙子里发现了一枚闪闪发光的金币。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_233_03",
+        "en": "The child found a piece of gold in the sand.",
+        "cn": "孩子在一堆沙子里发现了一块金子。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -6137,6 +9476,20 @@ window.__WORDS_DATA =
         "cn": "政府通过了一项法律。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_234_02",
+        "en": "The government decided to build new schools in the area.",
+        "cn": "政府决定在该地区建造新学校。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_234_03",
+        "en": "The government decided to build a new park in the city.",
+        "cn": "政府决定在城里建一个新公园。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -6163,6 +9516,20 @@ window.__WORDS_DATA =
         "cn": "一粒米。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_235_02",
+        "en": "The farmer harvested a large amount of grain from his field.",
+        "cn": "农民从他的田里收获了大量谷粒。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_235_03",
+        "en": "The farmer harvested a basket full of grain.",
+        "cn": "农民收获了一篮子满谷粒。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -6189,6 +9556,20 @@ window.__WORDS_DATA =
         "cn": "草是绿的。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_236_02",
+        "en": "The grass is green in spring.",
+        "cn": "春天的草是绿色的.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_236_03",
+        "en": "The grass in the park is green and beautiful.",
+        "cn": "公园里的草是绿色的，很漂亮。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -6215,6 +9596,20 @@ window.__WORDS_DATA =
         "cn": "抓紧。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_237_02",
+        "en": "The child gripped the toy tightly.",
+        "cn": "孩子紧紧地抓住了玩具.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_237_03",
+        "en": "The child used his grip to hold the toy tightly.",
+        "cn": "孩子用他的抓握力紧紧握住玩具。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -6241,6 +9636,20 @@ window.__WORDS_DATA =
         "cn": "一群朋友来了。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_238_02",
+        "en": "The children formed a group to play games together.",
+        "cn": "孩子们组成了一个团体一起玩游戏。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_238_03",
+        "en": "The group of children played a game together.",
+        "cn": "这个团体的孩子们一起玩了一个游戏.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -6266,6 +9675,20 @@ window.__WORDS_DATA =
         "en": "The growth of plants is slow.",
         "cn": "植物生长很慢。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_239_02",
+        "en": "The level of elementary students' growth is impressive.",
+        "cn": "小学生们的成长水平令人印象深刻。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_239_03",
+        "en": "The plant grew quickly after receiving enough water and sunlight.",
+        "cn": "这株植物在得到足够的水和阳光后生长得很快。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -6293,6 +9716,20 @@ window.__WORDS_DATA =
         "cn": "向导给我们带路。",
         "tense": "simple_present",
         "level": "elementary"
+      },
+      {
+        "id": "word_240_02",
+        "en": "The teacher used a guide to help the students learn new vocabulary.",
+        "cn": "老师使用了一本指南来帮助学生学习新词汇。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_240_03",
+        "en": "The teacher used a guide to help the students learn new words.",
+        "cn": "老师使用了一本指南来帮助学生们学习新单词。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -6319,6 +9756,20 @@ window.__WORDS_DATA =
         "cn": "船停在港口里。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_241_02",
+        "en": "The ship arrived at the harbor early in the morning.",
+        "cn": "这艘船在清晨抵达了港口。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_241_03",
+        "en": "The ship arrived at the harbor early in the morning.",
+        "cn": "那艘船在清晨抵达了港口。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -6345,6 +9796,20 @@ window.__WORDS_DATA =
         "cn": "他们和谐相处。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_242_02",
+        "en": "The children played together in harmony.",
+        "cn": "孩子们和谐地一起玩耍。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_242_03",
+        "en": "The children played harmoniously together in the park.",
+        "cn": "孩子们在公园里和谐地一起玩耍。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -6370,6 +9835,20 @@ window.__WORDS_DATA =
         "en": "His hate for lies is well known.",
         "cn": "他对谎言的憎恨众所周知。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_243_02",
+        "en": "She hates spiders.",
+        "cn": "她讨厌蜘蛛。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_243_03",
+        "en": "The boy felt hate for his neighbor who always made noise.",
+        "cn": "那个男孩对总是吵闹的邻居充满了憎恨。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -6397,6 +9876,20 @@ window.__WORDS_DATA =
         "cn": "她听觉敏锐。",
         "tense": "present_continuous",
         "level": "beginner"
+      },
+      {
+        "id": "word_244_02",
+        "en": "He is attending the hearing about the new policy.",
+        "cn": "他正在参加关于新政策的听证会。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_244_03",
+        "en": "The child had difficulty hearing the teacher during the class.",
+        "cn": "这个孩子在课堂上听不清老师的话。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -6422,6 +9915,20 @@ window.__WORDS_DATA =
         "en": "The heat of summer is strong.",
         "cn": "夏天很热。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_245_02",
+        "en": "The sun is very hot today.",
+        "cn": "今天太阳非常热。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_245_03",
+        "en": "The sun was very hot that day, so we stayed inside.",
+        "cn": "那天太阳非常热，所以我们待在室内。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -6449,6 +9956,20 @@ window.__WORDS_DATA =
         "cn": "我需要你的帮助。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_246_02",
+        "en": "The child asked for help when he got stuck on the puzzle.",
+        "cn": "孩子在做拼图时卡住了，他请求了帮助。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_246_03",
+        "en": "She asked for help when she couldn't finish the homework by herself.",
+        "cn": "她自己无法完成作业时，请求了帮助。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -6475,6 +9996,13 @@ window.__WORDS_DATA =
         "cn": "她研究中国历史。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_247_02",
+        "en": "In history, people have used many different methods to record events. For example, they drew pictures on caves and wrote stories on tablets of stone. Today, we use books, newspapers, and the Internet to keep track of what has happened in the past.",
+        "cn": "在历史上，人们用过许多不同的方法来记录事件。比如，他们在洞穴上画画，在石板上写故事。如今，我们用书籍、报纸和互联网来记录过去发生的事情。",
+        "tense": "simple_present",
+        "level": "elementary"
       }
     ]
   },
@@ -6500,6 +10028,20 @@ window.__WORDS_DATA =
         "en": "There's a hole in my sock.",
         "cn": "我袜子有个洞。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_248_02",
+        "en": "The cat is hiding in the hole.",
+        "cn": "猫正在洞里藏着。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_248_03",
+        "en": "The child found a small hole in the tree trunk and decided to explore it.",
+        "cn": "孩子发现树干上有一个小洞，决定进去探索。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -6527,6 +10069,20 @@ window.__WORDS_DATA =
         "cn": "希望让生活变得可以忍受。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_249_02",
+        "en": "I hope it will rain tomorrow.",
+        "cn": "我希望明天会下雨。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_249_03",
+        "en": "I hope it will rain tomorrow so we can have a picnic.",
+        "cn": "我希望明天会下雨，这样我们就可以去野餐了。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -6553,6 +10109,20 @@ window.__WORDS_DATA =
         "cn": "等一个小时。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_250_02",
+        "en": "The clock shows 3 hours in the afternoon.",
+        "cn": "时钟显示现在是下午3点。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_250_03",
+        "en": "The clock showed 3 hours in the afternoon.",
+        "cn": "时钟显示下午3点了.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -6578,6 +10148,20 @@ window.__WORDS_DATA =
         "en": "He has a great sense of humor.",
         "cn": "他很有幽默感。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_251_02",
+        "en": "The clown made everyone laugh with his funny jokes.",
+        "cn": "小丑用他有趣的笑话让大家都笑了。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_251_03",
+        "en": "The dog tried to chase its own tail, but it kept missing and laughing instead.",
+        "cn": "那只狗试图追自己的尾巴，但总是抓不到，反而笑了起来。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -6605,6 +10189,20 @@ window.__WORDS_DATA =
         "cn": "我饮料里加点冰。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_252_02",
+        "en": "The ice on the lake is very thick this winter.",
+        "cn": "这个冬天湖上的冰非常厚。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_252_03",
+        "en": "The children played with ice in the snow. They made shapes and sculptures.",
+        "cn": "孩子们在雪地里玩冰。他们做出了各种形状和雕塑。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -6631,6 +10229,20 @@ window.__WORDS_DATA =
         "cn": "这主意不错。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_253_02",
+        "en": "She had a great idea for the project.",
+        "cn": "她为这个项目想出了一个很好的主意。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_253_03",
+        "en": "The child came up with an idea to help his friend with homework.",
+        "cn": "这个孩子想出了一个主意来帮助他的朋友完成作业。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -6657,6 +10269,20 @@ window.__WORDS_DATA =
         "cn": "她一时冲动买了它。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_254_02",
+        "en": "He bought the toy on impulse without thinking about the price.",
+        "cn": "他一时冲动买了那个玩具，没有考虑价格。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_254_03",
+        "en": "He bought the toy impulsively without thinking about the cost.",
+        "cn": "他一时冲动买了那个玩具，没有考虑价钱。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -6683,6 +10309,20 @@ window.__WORDS_DATA =
         "cn": "销量有所增加。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_255_02",
+        "en": "The number of students increases every year.",
+        "cn": "学生人数每年都在增加。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_255_03",
+        "en": "The number of students who increased their grades increased by 5 this quarter.",
+        "cn": "这个季度，成绩提高的学生人数增加了5人。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -6709,6 +10349,13 @@ window.__WORDS_DATA =
         "cn": "汽车工业规模很大。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_256_02",
+        "en": "In the elementary level, students learn about various industries. For example, they may study about the automobile industry and understand how cars are made.",
+        "cn": "在小学阶段，学生们会学习各种行业。例如，他们可能会研究汽车工业，了解汽车是如何制造的。",
+        "tense": "simple_present",
+        "level": "elementary"
       }
     ]
   },
@@ -6735,6 +10382,20 @@ window.__WORDS_DATA =
         "cn": "笔里是黑墨水。",
         "tense": "present_perfect",
         "level": "beginner"
+      },
+      {
+        "id": "word_257_02",
+        "en": "The child used ink to draw a beautiful picture.",
+        "cn": "这个孩子用墨水画了一幅漂亮的画。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_257_03",
+        "en": "The child used ink to color the picture.",
+        "cn": "孩子用墨水给图画上了色。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -6761,6 +10422,20 @@ window.__WORDS_DATA =
         "cn": "蜜蜂是昆虫。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_258_02",
+        "en": "The children were fascinated by the colorful insects in the garden.",
+        "cn": "孩子们被花园里五颜六色的昆虫迷住了.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_258_03",
+        "en": "The child saw an insect flying around the garden.",
+        "cn": "孩子看到一只昆虫在花园里飞来飞去。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -6787,6 +10462,20 @@ window.__WORDS_DATA =
         "cn": "钢琴是她的乐器。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_259_02",
+        "en": "The child used a simple instrument to play a melodious tune.",
+        "cn": "孩子用一种简单的乐器演奏了一首悦耳的曲子。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_259_03",
+        "en": "The child used a simple instrument to play a beautiful melody.",
+        "cn": "孩子用一种简单的乐器演奏出了一曲美妙的乐章。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -6813,6 +10502,20 @@ window.__WORDS_DATA =
         "cn": "汽车保险是必需的。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_260_02",
+        "en": "The dog needs insurance to protect it in case of accidents.",
+        "cn": "狗需要购买保险，以便在发生意外时得到保障。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_260_03",
+        "en": "The dog got injured while playing, so its owner bought insurance to cover the costs.",
+        "cn": "狗在玩耍时受伤了，所以它的主人买了保险来支付相关费用。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -6839,6 +10542,20 @@ window.__WORDS_DATA =
         "cn": "她对艺术有兴趣。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_261_02",
+        "en": "She has a great interest in reading books.",
+        "cn": "她对阅读书籍有着浓厚的兴趣.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_261_03",
+        "en": "He is very interested in learning how to play the piano.",
+        "cn": "他非常有兴趣学习弹钢琴。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -6863,6 +10580,20 @@ window.__WORDS_DATA =
         "id": "word_262_01",
         "en": "The phone was a great invention.",
         "cn": "电话是伟大的发明。",
+        "tense": "simple_past",
+        "level": "elementary"
+      },
+      {
+        "id": "word_262_02",
+        "en": "Thomas Edison made many inventions that changed the world.",
+        "cn": "托马斯·爱迪生发明了许多改变世界的发明。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_262_03",
+        "en": "Thomas Edison invented the light bulb.",
+        "cn": "托马斯·爱迪生发明了电灯泡。",
         "tense": "simple_past",
         "level": "elementary"
       }
@@ -6891,6 +10622,20 @@ window.__WORDS_DATA =
         "cn": "大门是铁做的。",
         "tense": "simple_past",
         "level": "elementary"
+      },
+      {
+        "id": "word_263_02",
+        "en": "She used an iron to straighten her clothes.",
+        "cn": "她用熨斗把衣服弄平整。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_263_03",
+        "en": "He used an iron to smooth out the wrinkles in his shirt.",
+        "cn": "他用熨斗把衬衫上的皱褶烫平。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -6917,6 +10662,20 @@ window.__WORDS_DATA =
         "cn": "在土司上抹果酱。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_264_02",
+        "en": "The children enjoyed eating jelly for dessert.",
+        "cn": "孩子们很喜欢把果冻作为甜点吃。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_264_03",
+        "en": "She made some delicious jelly for dessert.",
+        "cn": "她做了一些美味的果冻当甜点。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -6943,6 +10702,13 @@ window.__WORDS_DATA =
         "cn": "接缝平滑。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_265_02",
+        "en": "The two pieces of wood were joined together using glue.",
+        "cn": "这两块木头用胶水接合在了一起.",
+        "tense": "simple_present",
+        "level": "elementary"
       }
     ]
   },
@@ -6969,6 +10735,20 @@ window.__WORDS_DATA =
         "cn": "这是一段漫长的旅程。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_266_02",
+        "en": "The children went on a journey to the zoo.",
+        "cn": "孩子们去动物园进行了一次旅程。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_266_03",
+        "en": "On their journey to the park, the children stopped at a bakery to buy some cookies.",
+        "cn": "在去公园的路上，孩子们在一家面包店停下来买了一些饼干。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -6995,6 +10775,20 @@ window.__WORDS_DATA =
         "cn": "法官做出了裁决。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_267_02",
+        "en": "The judge will announce the verdict tomorrow.",
+        "cn": "法官明天将宣布判决结果。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_267_03",
+        "en": "The judge ruled that the case should be heard again.",
+        "cn": "法官裁定此案应重新审理。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -7021,6 +10815,20 @@ window.__WORDS_DATA =
         "cn": "那一跳跳得高。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_268_02",
+        "en": "The child jumps happily on the trampoline.",
+        "cn": "孩子开心地在蹦床上跳跃。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_268_03",
+        "en": "The child jumped onto the bed with excitement.",
+        "cn": "那孩子兴奋地跳上了床。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -7047,6 +10855,20 @@ window.__WORDS_DATA =
         "cn": "踢一下球。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_269_02",
+        "en": "The child kicks the ball happily in the park.",
+        "cn": "孩子开心地在公园里踢球。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_269_03",
+        "en": "The child kicked the ball across the field.",
+        "cn": "那个孩子把球踢到了场地对面。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -7073,6 +10895,20 @@ window.__WORDS_DATA =
         "cn": "她吻了他。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_270_02",
+        "en": "The child gave his mother a gentle kiss on the cheek.",
+        "cn": "孩子轻轻地吻了母亲的脸颊。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_270_03",
+        "en": "The child gave his mother a little kiss on the cheek.",
+        "cn": "孩子轻吻了母亲的脸颊。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -7099,6 +10935,20 @@ window.__WORDS_DATA =
         "cn": "知识就是力量。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_271_02",
+        "en": "The child showed great knowledge about animals.",
+        "cn": "这个孩子对动物有着丰富的知识。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_271_03",
+        "en": "The child showed great knowledge about animals.",
+        "cn": "这个孩子展示出了关于动物的丰富知识。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -7124,6 +10974,20 @@ window.__WORDS_DATA =
         "en": "They own a lot of land.",
         "cn": "他们有很多土地。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_272_02",
+        "en": "The children are playing on the land near the school.",
+        "cn": "孩子们正在学校附近的土地上玩耍。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_272_03",
+        "en": "The children learned about land and its importance during their level elementary class.",
+        "cn": "在小学阶段，孩子们学习了关于土地及其重要性的知识。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -7151,6 +11015,20 @@ window.__WORDS_DATA =
         "cn": "英语是世界语言。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_273_02",
+        "en": "The language we use to communicate is very important.",
+        "cn": "我们用来交流的语言非常重要。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_273_03",
+        "en": "The language we use to communicate is called English.",
+        "cn": "我们用来交流的语言叫做英语。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -7177,6 +11055,20 @@ window.__WORDS_DATA =
         "cn": "她爽朗地笑了。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_274_02",
+        "en": "The children laughed when they saw the clown.",
+        "cn": "孩子们看到小丑时笑了。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_274_03",
+        "en": "The children laughed when they saw the funny clown.",
+        "cn": "孩子们看到滑稽的小丑时都笑了。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -7203,6 +11095,13 @@ window.__WORDS_DATA =
         "cn": "这违法。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_275_02",
+        "en": "The law says that everyone must follow it.",
+        "cn": "法律规定每个人都必须遵守它.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -7229,6 +11128,20 @@ window.__WORDS_DATA =
         "cn": "铅笔里有铅芯。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_276_02",
+        "en": "The teacher used a lead to demonstrate how it conducts electricity.",
+        "cn": "老师用铅来演示它是如何导电的。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_276_03",
+        "en": "The children were excited to learn about lead in their science class. They learned that lead is a heavy metal that can be harmful if it gets into people's bodies.",
+        "cn": "孩子们在科学课上对铅很感兴趣。他们了解到铅是一种重金属，如果进入人体会有害处。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -7255,6 +11168,20 @@ window.__WORDS_DATA =
         "cn": "学无止境。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_277_02",
+        "en": "Children in elementary school are learning basic math concepts.",
+        "cn": "小学生正在学习基本的数学概念。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_277_03",
+        "en": "In elementary school, children start learning basic concepts such as addition and subtraction.",
+        "cn": "在小学阶段，孩子们开始学习加法和减法等基本概念。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -7281,6 +11208,20 @@ window.__WORDS_DATA =
         "cn": "这包是皮的。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_278_02",
+        "en": "The jacket is made of leather.",
+        "cn": "这件夹克是用皮革制成的.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_278_03",
+        "en": "The boy wore a jacket made of leather.",
+        "cn": "那个男孩穿了一件皮革制成的夹克。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -7307,6 +11248,20 @@ window.__WORDS_DATA =
         "cn": "给我写封信。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_279_02",
+        "en": "The child wrote a letter to his friend.",
+        "cn": "孩子给他的朋友写了一封信。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_279_03",
+        "en": "The child wrote a letter to his teacher.",
+        "cn": "孩子给老师写了一封信。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -7332,6 +11287,20 @@ window.__WORDS_DATA =
         "en": "His skill is at a high level.",
         "cn": "他技术水平很高。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_280_02",
+        "en": "The level of elementary education has significantly improved in recent years.",
+        "cn": "近年来，基础教育的水平有了显著提高。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_280_03",
+        "en": "The level of elementary education focuses on providing basic knowledge and skills to children.",
+        "cn": "小学教育的水平侧重于为儿童提供基本的知识和技能。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -7359,6 +11328,20 @@ window.__WORDS_DATA =
         "cn": "坐电梯上顶楼。",
         "tense": "simple_present",
         "level": "elementary"
+      },
+      {
+        "id": "word_281_02",
+        "en": "The children lift the heavy box together.",
+        "cn": "孩子们一起抬起了那个沉重的箱子.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_281_03",
+        "en": "The children lifted the heavy box into the lift.",
+        "cn": "孩子们把那个重箱子抬进了电梯。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -7385,6 +11368,20 @@ window.__WORDS_DATA =
         "cn": "开灯。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_282_02",
+        "en": "The little girl turned on the light before going to bed.",
+        "cn": "小女孩在睡觉前打开了灯.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_282_03",
+        "en": "The children played with a small light in the dark room.",
+        "cn": "孩子们在黑暗的房间里玩着一个小灯。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -7411,6 +11408,20 @@ window.__WORDS_DATA =
         "cn": "这里有速度限制。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_283_02",
+        "en": "The teacher set a limit on the amount of homework each student could do.",
+        "cn": "老师为每个学生布置的作业量设定了一个限度。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_283_03",
+        "en": "The children were told not to exceed the limit of five candies each.",
+        "cn": "老师告诉孩子们，每个人吃的糖果不能超过五个。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -7437,6 +11448,20 @@ window.__WORDS_DATA =
         "cn": "亚麻床单很凉爽。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_284_02",
+        "en": "She uses linen to make her tablecloth.",
+        "cn": "她用亚麻布制作桌布。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_284_03",
+        "en": "She used linen to make a beautiful tablecloth.",
+        "cn": "她用亚麻布做了一块漂亮的桌布。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -7463,6 +11488,20 @@ window.__WORDS_DATA =
         "cn": "水是液体。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_285_02",
+        "en": "The liquid flowed smoothly down the pipe.",
+        "cn": "这种液体顺顺利利地流下了管道。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_285_03",
+        "en": "The children poured some liquid into the glass.",
+        "cn": "孩子们把一些液体倒进了玻璃杯里。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -7489,6 +11528,20 @@ window.__WORDS_DATA =
         "cn": "列个购物清单。",
         "tense": "present_continuous",
         "level": "beginner"
+      },
+      {
+        "id": "word_286_02",
+        "en": "She made a list of things she needed to buy.",
+        "cn": "她列了一份需要购买的物品清单。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_286_03",
+        "en": "She made a list of things she needed to buy.",
+        "cn": "她列了一个需要购买的东西清单。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -7515,6 +11568,13 @@ window.__WORDS_DATA =
         "cn": "看看这个。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_287_02",
+        "en": "She looks happy today.",
+        "cn": "她今天看起来很开心。",
+        "tense": "simple_present",
+        "level": "elementary"
       }
     ]
   },
@@ -7539,6 +11599,20 @@ window.__WORDS_DATA =
         "id": "word_288_01",
         "en": "His death was a great loss.",
         "cn": "他的去世是巨大的损失。",
+        "tense": "simple_past",
+        "level": "elementary"
+      },
+      {
+        "id": "word_288_02",
+        "en": "The boy felt sadness after losing his favorite toy.",
+        "cn": "男孩在丢失了他最喜欢的玩具后感到难过。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_288_03",
+        "en": "The dog lost its bone.",
+        "cn": "狗弄丢了它的骨头。",
         "tense": "simple_past",
         "level": "elementary"
       }
@@ -7567,6 +11641,20 @@ window.__WORDS_DATA =
         "cn": "爱是一切。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_289_02",
+        "en": "She loves her family very much.",
+        "cn": "她非常爱她的家人。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_289_03",
+        "en": "The child felt love from his parents.",
+        "cn": "这个孩子感受到了父母的爱。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -7593,6 +11681,20 @@ window.__WORDS_DATA =
         "cn": "洗衣机声音很大。",
         "tense": "past_continuous",
         "level": "beginner"
+      },
+      {
+        "id": "word_290_02",
+        "en": "The machine makes noise when it's working.",
+        "cn": "这台机器在工作的时候会发出噪音。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_290_03",
+        "en": "The machine makes toys for children.",
+        "cn": "这台机器为孩子们制造玩具。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -7619,6 +11721,20 @@ window.__WORDS_DATA =
         "cn": "他是个好人。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_291_02",
+        "en": "A man is working in the field.",
+        "cn": "一个男人正在田里干活。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_291_03",
+        "en": "A man was walking down the street.",
+        "cn": "一个男人正在街上行走。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -7645,6 +11761,20 @@ window.__WORDS_DATA =
         "cn": "问经理。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_292_02",
+        "en": "The manager assigned tasks to the team members.",
+        "cn": "经理给团队成员分配了任务。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_292_03",
+        "en": "The manager called the team for a meeting.",
+        "cn": "经理召集了团队开会。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -7671,6 +11801,20 @@ window.__WORDS_DATA =
         "cn": "在这做个记号。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_293_02",
+        "en": "Mark is reading a book in the library.",
+        "cn": "马克正在图书馆里读一本书。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_293_03",
+        "en": "Mark drew a picture of a cat using a red pen.",
+        "cn": "马克用红笔画了一幅猫的图画。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -7696,6 +11840,20 @@ window.__WORDS_DATA =
         "en": "I go to the market weekly.",
         "cn": "我每周去市场。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_294_02",
+        "en": "The children went to the market to buy some fruits.",
+        "cn": "孩子们去了市场买一些水果。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_294_03",
+        "en": "The children went to the market with their parents to buy some fruits and vegetables.",
+        "cn": "孩子们和父母一起去市场买了一些水果和蔬菜。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -7723,6 +11881,20 @@ window.__WORDS_DATA =
         "cn": "一大群人聚集。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_295_02",
+        "en": "The children are playing with mass of toys.",
+        "cn": "孩子们正在玩大量的玩具。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_295_03",
+        "en": "The children collected mass amounts of leaves in autumn.",
+        "cn": "孩子们在秋天收集了大量树叶。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -7749,6 +11921,27 @@ window.__WORDS_DATA =
         "cn": "晚餐是主餐。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_296_02",
+        "en": "We eat a meal every night before going to bed.",
+        "cn": "我们每晚睡觉前都会吃一顿饭。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_296_03",
+        "en": "She is preparing a meal for her family this afternoon.",
+        "cn": "今天下午她正在为家人准备一顿饭。",
+        "tense": "present_continuous",
+        "level": "elementary"
+      },
+      {
+        "id": "word_296_04",
+        "en": "They have already finished their meal and are cleaning the table.",
+        "cn": "他们已经吃完饭，正在收拾桌子。",
+        "tense": "present_perfect",
+        "level": "elementary"
       }
     ]
   },
@@ -7775,6 +11968,20 @@ window.__WORDS_DATA =
         "cn": "采取措施去解决。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_297_02",
+        "en": "The teacher used various measures to improve the students' understanding of the topic.",
+        "cn": "老师采取了各种措施来提高学生对这个主题的理解。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_297_03",
+        "en": "The teacher used a measuring tape to measure the length of the classroom.",
+        "cn": "老师用卷尺测量了教室的长度。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -7801,6 +12008,20 @@ window.__WORDS_DATA =
         "cn": "我不吃肉。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_298_02",
+        "en": "I like eating meat with my dinner.",
+        "cn": "我喜欢在晚餐时吃肉。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_298_03",
+        "en": "I love eating meat with my family on weekends.",
+        "cn": "我喜欢在周末和家人一起吃肉。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -7827,6 +12048,20 @@ window.__WORDS_DATA =
         "cn": "会议十点开始。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_299_02",
+        "en": "The children are having a meeting in the classroom.",
+        "cn": "孩子们正在教室里开会。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_299_03",
+        "en": "The children had a meeting about their new project.",
+        "cn": "孩子们召开了一次关于他们新项目的会议。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -7853,6 +12088,20 @@ window.__WORDS_DATA =
         "cn": "她记性好。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_300_02",
+        "en": "She remembers playing with her toys every afternoon.",
+        "cn": "她记得每天下午都和玩具一起玩耍。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_300_03",
+        "en": "The dog has a good memory for its owners.",
+        "cn": "这只狗对它的主人有很好的记忆力。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -7879,6 +12128,20 @@ window.__WORDS_DATA =
         "cn": "钢是坚固的金属。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_301_02",
+        "en": "The boy found a shiny metal piece on the ground.",
+        "cn": "男孩在地上发现了一块闪闪发光的金属片。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_301_03",
+        "en": "The boy found a shiny metal piece in the garden.",
+        "cn": "那个男孩在花园里发现了一块闪亮的金属碎片。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -7905,6 +12168,20 @@ window.__WORDS_DATA =
         "cn": "站到中间。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_302_02",
+        "en": "The boy sat in the middle of the room.",
+        "cn": "那个男孩坐在房间的中间。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_302_03",
+        "en": "In the middle of the room, there was a big table.",
+        "cn": "在房间的中间，有一张大桌子。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -7931,6 +12208,20 @@ window.__WORDS_DATA =
         "cn": "把牛奶喝了。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_303_02",
+        "en": "She drinks milk every morning.",
+        "cn": "她每天早上喝牛奶。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_303_03",
+        "en": "The child drank some milk before going to bed.",
+        "cn": "孩子在上床睡觉前喝了一些牛奶.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -7957,6 +12248,20 @@ window.__WORDS_DATA =
         "cn": "保持开放的心态。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_304_02",
+        "en": "The child uses his mind to solve the puzzle.",
+        "cn": "这个孩子用他的大脑来解决这个谜题。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_304_03",
+        "en": "The boy used his mind to solve the puzzle.",
+        "cn": "这个男孩用他的头脑解决了这个谜题。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -7982,6 +12287,20 @@ window.__WORDS_DATA =
         "en": "They work in a gold mine.",
         "cn": "他们在金矿工作。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_305_02",
+        "en": "I found some mine in the park today.",
+        "cn": "我今天在公园里发现了一些矿。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_305_03",
+        "en": "I found some minerals in the mine yesterday.",
+        "cn": "昨天我在矿里发现了一些矿物质。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -8009,6 +12328,20 @@ window.__WORDS_DATA =
         "cn": "等一分钟。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_306_02",
+        "en": "She waited for only one minute before the bus arrived.",
+        "cn": "她只等了一分钟，公交车就到了。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_306_03",
+        "en": "She waited for five minutes before the bus arrived.",
+        "cn": "她等了五分钟，公交车才到。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -8035,6 +12368,20 @@ window.__WORDS_DATA =
         "cn": "晨雾笼罩田野。",
         "tense": "present_continuous",
         "level": "beginner"
+      },
+      {
+        "id": "word_307_02",
+        "en": "The trees looked mysterious in the mist.",
+        "cn": "在薄雾中，这些树木看起来很神秘。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_307_03",
+        "en": "In the early morning, a thin mist covered the forest, making it look like a mysterious jungle.",
+        "cn": "清晨，薄雾笼罩了森林，让它看起来像一个神秘的丛林。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -8061,6 +12408,20 @@ window.__WORDS_DATA =
         "cn": "金钱买不到时间。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_308_02",
+        "en": "The child saved all his money to buy a new toy.",
+        "cn": "这个孩子把所有的钱都存起来用来买一个新的玩具。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_308_03",
+        "en": "Tom saved some money from his allowance.",
+        "cn": "汤姆从零用钱中存下了一些钱。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -8087,6 +12448,27 @@ window.__WORDS_DATA =
         "cn": "这个月很忙。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_309_02",
+        "en": "We study English three days a week for two months.",
+        "cn": "我们每周学习三天英语，持续两个月。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_309_03",
+        "en": "The project will be completed in three months.",
+        "cn": "这个项目将在三个月内完成。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_309_04",
+        "en": "She has been working at this company for two months now.",
+        "cn": "她已经在这家公司工作了两个月了。",
+        "tense": "simple_present",
+        "level": "elementary"
       }
     ]
   },
@@ -8113,6 +12495,20 @@ window.__WORDS_DATA =
         "cn": "早上好!",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_310_02",
+        "en": "I usually start my day with a cup of coffee in the morning.",
+        "cn": "我通常会在早晨喝一杯咖啡来开始新的一天。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_310_03",
+        "en": "The morning sun shines brightly through the window, waking me up gently.",
+        "cn": "早晨的阳光透过窗户明媚地照进来，温柔地把我唤醒。",
+        "tense": "simple_present",
+        "level": "elementary"
       }
     ]
   },
@@ -8139,6 +12535,13 @@ window.__WORDS_DATA =
         "cn": "我妈妈做饭很好吃。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_311_02",
+        "en": "My mother makes the best cookies in the world.",
+        "cn": "我妈妈做的饼干是全世界最好吃的。",
+        "tense": "simple_present",
+        "level": "elementary"
       }
     ]
   },
@@ -8165,6 +12568,20 @@ window.__WORDS_DATA =
         "cn": "动作很流畅。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_312_02",
+        "en": "The children are doing some simple exercises to improve their motion skills.",
+        "cn": "孩子们正在做一些简单的练习来提高他们的运动技能。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_312_03",
+        "en": "The child played with his toy car, moving it back and forth on the table.",
+        "cn": "这个孩子玩他的玩具车，在桌子上来回移动它。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -8191,6 +12608,20 @@ window.__WORDS_DATA =
         "cn": "山上有雪。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_313_02",
+        "en": "The children are climbing the mountain.",
+        "cn": "孩子们正在爬山。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_313_03",
+        "en": "The children went on a trip to the mountain to explore its natural wonders.",
+        "cn": "孩子们去山上旅行，探索它的自然奇观。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -8217,6 +12648,20 @@ window.__WORDS_DATA =
         "cn": "这一步走得聪明。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_314_02",
+        "en": "The children move quickly to their desks when the teacher rings the bell.",
+        "cn": "孩子们在老师敲钟时迅速回到自己的座位。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_314_03",
+        "en": "The children moved quickly to find their seats.",
+        "cn": "孩子们迅速移动到他们的座位上。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -8243,6 +12688,20 @@ window.__WORDS_DATA =
         "cn": "我爱爵士乐。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_315_02",
+        "en": "The children enjoyed listening to music while doing their homework.",
+        "cn": "孩子们在做作业的时候喜欢听音乐。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_315_03",
+        "en": "The children loved listening to music while doing their homework.",
+        "cn": "孩子们喜欢在做作业的时候听音乐。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -8269,6 +12728,20 @@ window.__WORDS_DATA =
         "cn": "你叫什么名字?",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_316_02",
+        "en": "John is a kind boy.",
+        "cn": "约翰是个善良的男孩。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_316_03",
+        "en": "John is a student in the elementary level.",
+        "cn": "约翰是小学阶段的学生。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -8295,6 +12768,20 @@ window.__WORDS_DATA =
         "cn": "全国都在庆祝。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_317_02",
+        "en": "The nation celebrated its independence day with a grand parade.",
+        "cn": "这个国家举行了一场盛大的游行来庆祝独立日。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_317_03",
+        "en": "In the elementary level, students learn about different countries and their cultures.",
+        "cn": "在小学阶段，学生们会学习不同的国家及其文化。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -8321,6 +12808,20 @@ window.__WORDS_DATA =
         "cn": "他的需求很简单。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_318_02",
+        "en": "Children need food to grow healthy.",
+        "cn": "孩子们需要食物来健康成长。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_318_03",
+        "en": "The children need some toys to play with.",
+        "cn": "孩子们需要一些玩具来玩。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -8347,6 +12848,20 @@ window.__WORDS_DATA =
         "cn": "你听说那消息了吗?",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_319_02",
+        "en": "The news about the new park is exciting everyone.",
+        "cn": "关于新公园的新闻让大家都很兴奋。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_319_03",
+        "en": "The children were excited to hear the news about the new playground.",
+        "cn": "孩子们听到关于新操场的好消息时非常兴奋。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -8373,6 +12888,20 @@ window.__WORDS_DATA =
         "cn": "星星在夜里闪亮。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_320_02",
+        "en": "The children are playing outside at night.",
+        "cn": "孩子们在夜晚在外面玩耍。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_320_03",
+        "en": "Last night, the stars shone brightly in the night sky.",
+        "cn": "昨晚，星星在夜空中闪闪发光。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -8399,6 +12928,20 @@ window.__WORDS_DATA =
         "cn": "那是什么声音?",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_321_02",
+        "en": "The noise from the construction site kept us awake all night.",
+        "cn": "建筑工地的噪音让我们整晚都无法入睡。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_321_03",
+        "en": "She tried to ignore the noise around her but found it difficult to concentrate.",
+        "cn": "她试图忽略周围的噪音，但发现很难集中注意力。",
+        "tense": "simple_present",
+        "level": "elementary"
       }
     ]
   },
@@ -8425,6 +12968,20 @@ window.__WORDS_DATA =
         "cn": "给我留张条。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_322_02",
+        "en": "I wrote a quick note to remind myself to buy milk tomorrow.",
+        "cn": "我写了一张便条，提醒自己明天要买牛奶。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_322_03",
+        "en": "She wrote a note to remind herself to buy milk.",
+        "cn": "她写了一张便条提醒自己买牛奶。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -8451,6 +13008,20 @@ window.__WORDS_DATA =
         "cn": "我的号码是555。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_323_02",
+        "en": "The student got a number on the board.",
+        "cn": "这个学生在黑板上得到一个数字。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_323_03",
+        "en": "The teacher wrote a number on the blackboard: 5.",
+        "cn": "老师在黑板上写了一个数字：5。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -8477,6 +13048,20 @@ window.__WORDS_DATA =
         "cn": "做个观察。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_324_02",
+        "en": "The teacher asked the students to make careful observations of the plants in the garden.",
+        "cn": "老师让学生们仔细观察花园里的植物。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_324_03",
+        "en": "The children observed the birds flying in the sky.",
+        "cn": "孩子们观察天空中飞行的鸟儿。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -8503,6 +13088,20 @@ window.__WORDS_DATA =
         "cn": "他给了我一个提议。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_325_02",
+        "en": "The teacher offered help to the student who was struggling with the assignment.",
+        "cn": "老师向那个在作业上遇到困难的学生提供了帮助。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_325_03",
+        "en": "The teacher offered to help the students with their homework.",
+        "cn": "老师提出要帮助学生们完成作业。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -8529,6 +13128,20 @@ window.__WORDS_DATA =
         "cn": "往锅里加油。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_326_02",
+        "en": "The oil in this lamp is burning brightly.",
+        "cn": "这个灯里的油燃烧得很亮。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_326_03",
+        "en": "The oil helped light the lamp.",
+        "cn": "油帮助点亮了灯。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -8555,6 +13168,20 @@ window.__WORDS_DATA =
         "cn": "手术很成功。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_327_02",
+        "en": "The doctor performed an operation on the child.",
+        "cn": "医生给这个孩子做了一台手术。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_327_03",
+        "en": "The doctor performed an operation on the child.",
+        "cn": "医生为这个孩子做了手术。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -8581,6 +13208,20 @@ window.__WORDS_DATA =
         "cn": "依我看,这挺好。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_328_02",
+        "en": "She expressed her opinion about the new policy.",
+        "cn": "她表达了对新政策的看法。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_328_03",
+        "en": "She expressed her opinion about the new policy.",
+        "cn": "她表达了自己对于新政策的意见。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -8607,6 +13248,20 @@ window.__WORDS_DATA =
         "cn": "把东西整理好。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_329_02",
+        "en": "The teacher gave clear orders to the students.",
+        "cn": "老师给了学生们明确的命令。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_329_03",
+        "en": "The teacher gave an order to the students to sit up straight.",
+        "cn": "老师命令学生们坐直。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -8633,6 +13288,20 @@ window.__WORDS_DATA =
         "cn": "她加入了一个新组织。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_330_02",
+        "en": "The organization organized a field trip for the elementary students.",
+        "cn": "这个组织为小学生组织了一次实地考察活动。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_330_03",
+        "en": "The children in the elementary school organized a charity event to help the local animals.",
+        "cn": "小学里的孩子们组织了一场慈善活动来帮助当地的动物。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -8659,6 +13328,20 @@ window.__WORDS_DATA =
         "cn": "房间里有很多装饰品。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_331_02",
+        "en": "The room was decorated with colorful ornaments.",
+        "cn": "房间里装饰着各种五颜六色的装饰品。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_331_03",
+        "en": "She added some beautiful ornaments to the tree for Christmas.",
+        "cn": "她为圣诞节在树上添加了一些漂亮的装饰品。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -8684,6 +13367,20 @@ window.__WORDS_DATA =
         "en": "Who is the owner of this car?",
         "cn": "这车谁的?",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_332_02",
+        "en": "The owner of the dog takes it for a walk every afternoon.",
+        "cn": "狗的主人每天下午都会带它去散步。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_332_03",
+        "en": "The owner of the puppy took it for a walk.",
+        "cn": "小狗的主人带它去散步了.",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -8711,6 +13408,20 @@ window.__WORDS_DATA =
         "cn": "翻到第5页。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_333_02",
+        "en": "The student opened the page of the textbook to start learning.",
+        "cn": "学生翻开了课本的页面开始学习。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_333_03",
+        "en": "The teacher showed us the page with the picture of a butterfly.",
+        "cn": "老师给我们看了一张有蝴蝶图案的页面。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -8736,6 +13447,20 @@ window.__WORDS_DATA =
         "en": "I feel pain in my back.",
         "cn": "我背疼。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_334_02",
+        "en": "The child felt some pain when he bumped his knee.",
+        "cn": "孩子撞到膝盖时感到有些疼痛。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_334_03",
+        "en": "The little boy felt pain when he stubbed his toe.",
+        "cn": "那个小男孩踢到脚趾时感到疼痛。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -8763,6 +13488,20 @@ window.__WORDS_DATA =
         "cn": "买红漆刷墙。",
         "tense": "simple_present",
         "level": "elementary"
+      },
+      {
+        "id": "word_335_02",
+        "en": "The child is painting a picture with red paint.",
+        "cn": "孩子正在用红色颜料画一幅画。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_335_03",
+        "en": "The child used paint to color the picture.",
+        "cn": "孩子用油漆给图画上色。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -8789,6 +13528,20 @@ window.__WORDS_DATA =
         "cn": "在纸上写。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_336_02",
+        "en": "The child is holding a piece of paper.",
+        "cn": "孩子手里拿着一张纸。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_336_03",
+        "en": "The child used paper to make a paper airplane.",
+        "cn": "孩子用纸做了一架纸飞机。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -8814,6 +13567,20 @@ window.__WORDS_DATA =
         "en": "This is part of the puzzle.",
         "cn": "这是拼图的一部分。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_337_02",
+        "en": "She is reading a book about parts of the body.",
+        "cn": "她正在读一本关于身体部位的书。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_337_03",
+        "en": "She broke a part of the toy while playing.",
+        "cn": "她在玩耍时弄坏了一个玩具零件。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -8841,6 +13608,20 @@ window.__WORDS_DATA =
         "cn": "用浆糊把这粘上。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_338_02",
+        "en": "She used some paste to stick the pictures together.",
+        "cn": "她用了一些浆糊把图片粘在一起。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_338_03",
+        "en": "She used some paste to stick the pictures together.",
+        "cn": "她用了一些浆糊把图片粘在一起。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -8867,6 +13648,20 @@ window.__WORDS_DATA =
         "cn": "周一付款。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_339_02",
+        "en": "The school asks parents to make payment by the end of this week.",
+        "cn": "学校要求家长们在本周末之前完成付款。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_339_03",
+        "en": "The child paid for his ice cream with some money.",
+        "cn": "孩子用一些钱付了他的冰淇淋钱。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -8893,6 +13688,20 @@ window.__WORDS_DATA =
         "cn": "他们渴望和平。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_340_02",
+        "en": "The children enjoyed playing in the park, enjoying peace and tranquility.",
+        "cn": "孩子们在公园里玩耍，享受着和平与宁静。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_340_03",
+        "en": "The children played happily in the park, enjoying the peace and calmness around them.",
+        "cn": "孩子们在公园里开心地玩耍，享受着周围的和平与宁静。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -8919,6 +13728,20 @@ window.__WORDS_DATA =
         "cn": "她是个善良的人。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_341_02",
+        "en": "A person is reading a book.",
+        "cn": "有一个人在读书。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_341_03",
+        "en": "A kind person always helps others.",
+        "cn": "一个善良的人总是帮助别人。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -8945,6 +13768,20 @@ window.__WORDS_DATA =
         "cn": "这地方真美。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_342_02",
+        "en": "The children are playing in the park.",
+        "cn": "孩子们在公园里玩耍。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_342_03",
+        "en": "In elementary school, I learned about the different places around the world.",
+        "cn": "在小学的时候，我了解了世界各地的不同地方。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -8971,6 +13808,20 @@ window.__WORDS_DATA =
         "cn": "每天给植物浇水。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_343_02",
+        "en": "The plants in the garden are growing well.",
+        "cn": "花园里的植物长得很好。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_343_03",
+        "en": "The children planted some flowers in their garden.",
+        "cn": "孩子们在他们的花园里种了一些花。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -8997,6 +13848,20 @@ window.__WORDS_DATA =
         "cn": "我们看了一出好戏。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_344_02",
+        "en": "The children play games in the park after school.",
+        "cn": "孩子们放学后在公园里玩游戏。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_344_03",
+        "en": "The children enjoyed playing drama in elementary school.",
+        "cn": "孩子们在小学时很喜欢玩戏剧。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -9023,6 +13888,20 @@ window.__WORDS_DATA =
         "cn": "我的荣幸。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_345_02",
+        "en": "I feel great pleasure helping others.",
+        "cn": "帮助别人让我感到非常快乐。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_345_03",
+        "en": "She felt great pleasure when she helped her friend.",
+        "cn": "她帮助朋友时感到非常快乐。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -9049,6 +13928,20 @@ window.__WORDS_DATA =
         "cn": "说重点。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_346_02",
+        "en": "Remember to include the key point when writing your report.",
+        "cn": "写作报告时记得要包含要点。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_346_03",
+        "en": "The key point to remember when learning to draw is to use simple lines and dots to create shape.",
+        "cn": "学习画画时需要记住的关键点是，用简单的线条和点来构成形状。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -9075,6 +13968,20 @@ window.__WORDS_DATA =
         "cn": "这植物有毒。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_347_02",
+        "en": "The rabbit died because it ate some poison.",
+        "cn": "兔子死了，因为它吃了一些毒药。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_347_03",
+        "en": "The king gave a cup of poison to his enemy.",
+        "cn": "国王给他的敌人喝了一杯毒药。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -9101,6 +14008,20 @@ window.__WORDS_DATA =
         "cn": "用鞋油擦亮鞋子。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_348_02",
+        "en": "She used a polish to make her shoes shine.",
+        "cn": "她用擦光剂把鞋子擦得闪闪发光。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_348_03",
+        "en": "He used a polish to clean his shoes.",
+        "cn": "他用擦光剂擦亮了他的鞋子。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -9127,6 +14048,20 @@ window.__WORDS_DATA =
         "cn": "搬运工拿走了我们的包。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_349_02",
+        "en": "The porter helped us carry our heavy bags up the stairs.",
+        "cn": "搬运工帮我们把沉重的包搬上楼梯。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_349_03",
+        "en": "The porter helped carry the heavy boxes upstairs.",
+        "cn": "搬运工帮忙把沉重的箱子搬上了楼。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -9153,6 +14088,20 @@ window.__WORDS_DATA =
         "cn": "你在这是什么职位?",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_350_02",
+        "en": "The teacher holds a level elementary position at the school.",
+        "cn": "这位教师在学校担任初级职位。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_350_03",
+        "en": "The child was assigned the position of team leader at the elementary level.",
+        "cn": "这个孩子在小学阶段被任命为团队领袖。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -9179,6 +14128,20 @@ window.__WORDS_DATA =
         "cn": "用婴儿爽身粉。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_351_02",
+        "en": "The child mixed some powder with water to make a slurry.",
+        "cn": "孩子把一些粉末和水混合成浆状。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_351_03",
+        "en": "The child sprinkled some powder on the cake before cutting it.",
+        "cn": "孩子在做蛋糕之前，在上面撒了一些粉末。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -9205,6 +14168,20 @@ window.__WORDS_DATA =
         "cn": "知识就是力量。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_352_02",
+        "en": "The teacher used her power to help the struggling student.",
+        "cn": "老师运用自己的力量帮助那位学习有困难的学生。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_352_03",
+        "en": "The boy used his power to lift the heavy box.",
+        "cn": "男孩用他的力量举起了那个沉重的箱子。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -9231,6 +14208,27 @@ window.__WORDS_DATA =
         "cn": "价格是多少?",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_353_02",
+        "en": "The price of this book is quite high.",
+        "cn": "这本书的价格相当高。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_353_03",
+        "en": "She is comparing the prices of different phones before making a decision.",
+        "cn": "她在做出决定之前正在比较不同手机的价格。",
+        "tense": "present_continuous",
+        "level": "elementary"
+      },
+      {
+        "id": "word_353_04",
+        "en": "They discussed the price of the house and finally agreed on a deal.",
+        "cn": "他们讨论了房子的价格，最终达成了交易。",
+        "tense": "present_perfect",
+        "level": "elementary"
       }
     ]
   },
@@ -9256,6 +14254,20 @@ window.__WORDS_DATA =
         "en": "His thumb print is on it.",
         "cn": "上面有他的指纹。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_354_02",
+        "en": "The children used crayons to print colorful patterns on paper.",
+        "cn": "孩子们用蜡笔在纸上印出五彩斑斓的图案。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_354_03",
+        "en": "The children learned how to print their names using a simple stamp.",
+        "cn": "孩子们学习了如何用简单的印章打印他们的名字。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -9283,6 +14295,20 @@ window.__WORDS_DATA =
         "cn": "学习是个慢过程。",
         "tense": "present_continuous",
         "level": "beginner"
+      },
+      {
+        "id": "word_355_02",
+        "en": "The teacher explained the process of solving math problems step by step.",
+        "cn": "老师一步步地解释了解决数学问题的过程。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_355_03",
+        "en": "The process of baking a cake involves mixing ingredients together and then baking them in the oven.",
+        "cn": "制作蛋糕的过程包括将各种食材混合在一起，然后放入烤箱烘烤。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -9309,6 +14335,20 @@ window.__WORDS_DATA =
         "cn": "新鲜农产品最好。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_356_02",
+        "en": "Farmers produce various types of agricultural products.",
+        "cn": "农民们生产各种各样的农产品。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_356_03",
+        "en": "The farmer produces apples in his field.",
+        "cn": "这位农民在田里种植苹果。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -9335,6 +14375,20 @@ window.__WORDS_DATA =
         "cn": "他们获利丰厚。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_357_02",
+        "en": "The company makes a lot of profit every year.",
+        "cn": "这家公司每年都获得很多利润。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_357_03",
+        "en": "The company made a lot of profit last year.",
+        "cn": "这家公司去年获得了很多利润。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -9361,6 +14415,20 @@ window.__WORDS_DATA =
         "cn": "这是私人财产。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_358_02",
+        "en": "The boy has a new toy car.",
+        "cn": "这个男孩有一辆新玩具汽车。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_358_03",
+        "en": "The boy saved all his property in a safe place.",
+        "cn": "这个男孩把他的所有财产都放在了一个安全的地方。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -9387,6 +14455,20 @@ window.__WORDS_DATA =
         "cn": "他写的散文清晰。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_359_02",
+        "en": "Prose is like a beautiful garden filled with colorful flowers and fragrant plants.",
+        "cn": "散文就像一个美丽的花园，里面种满了五颜六色的花朵和芬芳的植物。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_359_03",
+        "en": "Once upon a time, there was a little girl who loved to read books.",
+        "cn": "从前，有一个喜欢读书的小女孩。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -9413,6 +14495,20 @@ window.__WORDS_DATA =
         "cn": "他们举行了抗议。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_360_02",
+        "en": "The children held a protest against the unfair rules.",
+        "cn": "孩子们举行了抗议活动，反对这些不公平的规定。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_360_03",
+        "en": "The children held a protest in the school yard against the new rules.",
+        "cn": "孩子们在校园里举行抗议活动，反对新的规定。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -9439,6 +14535,20 @@ window.__WORDS_DATA =
         "cn": "拉一下绳子。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_361_02",
+        "en": "The child pulls the toy car across the floor.",
+        "cn": "孩子把玩具车拉过地板。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_361_03",
+        "en": "The child pulled the rope to open the door.",
+        "cn": "孩子拉了拉绳子来开门。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -9465,6 +14575,20 @@ window.__WORDS_DATA =
         "cn": "惩罚很轻。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_362_02",
+        "en": "The teacher gave him a punishment for breaking the rules.",
+        "cn": "老师因为他违反规则而惩罚了他.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_362_03",
+        "en": "The child received punishment for breaking the rules.",
+        "cn": "这个孩子因为违反规则而受到了惩罚。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -9491,6 +14615,13 @@ window.__WORDS_DATA =
         "cn": "这有什么用?",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_363_02",
+        "en": "The purpose of going to school is to learn new things.",
+        "cn": "上学的目的是为了学习新知识.",
+        "tense": "simple_present",
+        "level": "elementary"
       }
     ]
   },
@@ -9517,6 +14648,20 @@ window.__WORDS_DATA =
         "cn": "推一下门。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_364_02",
+        "en": "The child pushes the toy car down the road.",
+        "cn": "孩子把玩具车推到路上。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_364_03",
+        "en": "The child pushed the toy car down the ramp.",
+        "cn": "孩子把玩具车推下了斜坡。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -9543,6 +14688,20 @@ window.__WORDS_DATA =
         "cn": "这质量很高。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_365_02",
+        "en": "The quality of the products has improved significantly this year.",
+        "cn": "今年，这些产品的质量有了显著提升。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_365_03",
+        "en": "The teacher emphasized the importance of quality in our work.",
+        "cn": "老师强调了我们工作中质量的重要性。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -9569,6 +14728,20 @@ window.__WORDS_DATA =
         "cn": "我能问个问题吗?",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_366_02",
+        "en": "What is your name?",
+        "cn": "你叫什么名字？",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_366_03",
+        "en": "What is the name of your favorite animal?",
+        "cn": "你最喜欢的动物叫什么名字？",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -9595,6 +14768,20 @@ window.__WORDS_DATA =
         "cn": "雨下得很大。",
         "tense": "present_continuous",
         "level": "beginner"
+      },
+      {
+        "id": "word_367_02",
+        "en": "It is raining outside.",
+        "cn": "外面正在下雨。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_367_03",
+        "en": "It rained heavily all day, so we stayed inside and played games.",
+        "cn": "一整天雨下得很大，所以我们待在屋里玩游戏。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -9621,6 +14808,20 @@ window.__WORDS_DATA =
         "cn": "价格范围很广。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_368_02",
+        "en": "The range of temperatures in this region during summer is quite wide.",
+        "cn": "这个地区夏季的温度范围相当宽。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_368_03",
+        "en": "The children learned about the range of colors in the rainbow.",
+        "cn": "孩子们了解了彩虹中颜色的范围。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -9647,6 +14848,20 @@ window.__WORDS_DATA =
         "cn": "照这速度,我们要迟到了。",
         "tense": "simple_present",
         "level": "elementary"
+      },
+      {
+        "id": "word_369_02",
+        "en": "The speed of the car is 60 miles per hour.",
+        "cn": "这辆汽车的速度是每小时60英里。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_369_03",
+        "en": "The speed of the car was 60 miles per hour.",
+        "cn": "这辆汽车的速度是每小时60英里。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -9671,6 +14886,20 @@ window.__WORDS_DATA =
         "id": "word_370_01",
         "en": "A ray of sunshine came in.",
         "cn": "一束阳光照进来。",
+        "tense": "simple_past",
+        "level": "elementary"
+      },
+      {
+        "id": "word_370_02",
+        "en": "The ray of light shone through the window and illuminated the room.",
+        "cn": "一缕光线透过窗户照进了房间，照亮了整个空间。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_370_03",
+        "en": "The ray of light shone through the window and filled the room with brightness.",
+        "cn": "一束光线透过窗户照进来，让房间充满了明亮。",
         "tense": "simple_past",
         "level": "elementary"
       }
@@ -9699,6 +14928,20 @@ window.__WORDS_DATA =
         "cn": "他反应很快。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_371_02",
+        "en": "The child showed a quick reaction when he saw the toy.",
+        "cn": "孩子看到玩具时反应很快。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_371_03",
+        "en": "When the boy saw the puppy, he had a big smile on his face and started to react by playing with it.",
+        "cn": "当男孩看到小狗时，他脸上露出了灿烂的笑容，然后开始和小狗一起玩耍。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -9725,6 +14968,20 @@ window.__WORDS_DATA =
         "cn": "阅读是我的爱好。",
         "tense": "present_continuous",
         "level": "beginner"
+      },
+      {
+        "id": "word_372_02",
+        "en": "The child is reading a book.",
+        "cn": "这个孩子正在读书。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_372_03",
+        "en": "In elementary school, reading was one of my favorite activities. I would spend hours reading books about animals and fantasy worlds.",
+        "cn": "在小学阶段，阅读是我最喜欢的活动之一。我会花几个小时阅读关于动物和奇幻世界的书籍。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -9751,6 +15008,20 @@ window.__WORDS_DATA =
         "cn": "告诉我原因。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_373_02",
+        "en": "He acted with reason when he decided to wait for the bus instead of running across the street.",
+        "cn": "他选择等待公交车而不是横穿马路，这是很理智的行为。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_373_03",
+        "en": "She decided to study hard because she wanted to pass the exam with reason and理智.",
+        "cn": "她决定努力学习，因为她是想理智地通过考试。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -9776,6 +15047,20 @@ window.__WORDS_DATA =
         "en": "Keep a record of your work.",
         "cn": "记录你的工作。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_374_02",
+        "en": "She records her daily routine in a journal.",
+        "cn": "她把每天的日常安排记录在日记本里。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_374_03",
+        "en": "The teacher asked the students to record what they had learned today.",
+        "cn": "老师让学生们记录下他们今天学到的内容。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -9803,6 +15088,20 @@ window.__WORDS_DATA =
         "cn": "我不后悔。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_375_02",
+        "en": "I regret not studying harder in school.",
+        "cn": "我后悔在学校没有更加努力学习。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_375_03",
+        "en": "She felt regret after breaking her favorite toy.",
+        "cn": "她打碎了自己最喜爱的玩具后，感到非常遗憾。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -9829,6 +15128,20 @@ window.__WORDS_DATA =
         "cn": "关系很清楚。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_376_02",
+        "en": "They have a strong relationship.",
+        "cn": "他们之间的关系很牢固。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_376_03",
+        "en": "The child has a close relation with his neighbor.",
+        "cn": "这个孩子和他的邻居关系密切。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -9855,6 +15168,20 @@ window.__WORDS_DATA =
         "cn": "你信什么教?",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_377_02",
+        "en": "Many people in different countries have different religions.",
+        "cn": "不同国家的许多人们信仰不同的宗教。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_377_03",
+        "en": "In some ancient cultures, religion played a very important role in people's lives. They believed that their gods could help them and guide them through everyday life.",
+        "cn": "在一些古代文化中，宗教在人们生活中扮演着非常重要的角色。人们相信他们的神灵能够帮助他们并引导他们度过日常生活。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -9881,6 +15208,20 @@ window.__WORDS_DATA =
         "cn": "她是我们的代表。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_378_02",
+        "en": "The teacher chose a representative student to answer the question.",
+        "cn": "老师选了一名代表学生来回答问题。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_378_03",
+        "en": "The teacher chose a representative student to answer the question.",
+        "cn": "老师选了一名代表学生来回答问题。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -9907,6 +15248,20 @@ window.__WORDS_DATA =
         "cn": "我有个请求。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_379_02",
+        "en": "The student asked the teacher for help with his homework.",
+        "cn": "这个学生向老师请求帮助完成他的作业。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_379_03",
+        "en": "The child asked his mother for help with his homework.",
+        "cn": "孩子向妈妈请求帮助完成作业。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -9933,6 +15288,20 @@ window.__WORDS_DATA =
         "cn": "尊重长辈。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_380_02",
+        "en": "We should respect our elders.",
+        "cn": "我们应该尊重长辈。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_380_03",
+        "en": "He always shows respect for his elders.",
+        "cn": "他总是尊重长辈。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -9959,6 +15328,20 @@ window.__WORDS_DATA =
         "cn": "休息一下。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_381_02",
+        "en": "After playing outside all day, the children need to rest.",
+        "cn": "在户外玩了一整天之后，孩子们需要休息。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_381_03",
+        "en": "After playing outside for a while, the children decided it was time to rest.",
+        "cn": "在外面玩了一会儿之后，孩子们决定是时候休息了。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -9985,6 +15368,20 @@ window.__WORDS_DATA =
         "cn": "努力有回报。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_382_02",
+        "en": "The child received a reward for helping his friend.",
+        "cn": "这个孩子因为帮助他的朋友而获得了一项奖赏。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_382_03",
+        "en": "The child received a reward for helping his parents with the chores.",
+        "cn": "这个孩子因为帮助父母做家务而得到了奖励。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -10010,6 +15407,20 @@ window.__WORDS_DATA =
         "en": "Feel the rhythm of the song.",
         "cn": "感受歌曲的节奏。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_383_02",
+        "en": "The children clap their hands to the rhythm of the music.",
+        "cn": "孩子们随着音乐的节奏拍手。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_383_03",
+        "en": "The children danced to the rhythm of the music.",
+        "cn": "孩子们随着音乐的节奏跳舞。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -10037,6 +15448,20 @@ window.__WORDS_DATA =
         "cn": "米饭是我们的主食。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_384_02",
+        "en": "She grows rice in her farm.",
+        "cn": "她在农场里种稻子。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_384_03",
+        "en": "The child ate some rice for breakfast.",
+        "cn": "孩子早餐吃了一些米饭.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -10063,6 +15488,20 @@ window.__WORDS_DATA =
         "cn": "河水向东流。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_385_02",
+        "en": "The river flows gently through the valley.",
+        "cn": "这条河流缓缓地流过山谷。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_385_03",
+        "en": "The children played by the river and caught fishes.",
+        "cn": "孩子们在河边玩耍，还抓到了鱼。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -10089,6 +15528,20 @@ window.__WORDS_DATA =
         "cn": "路很长。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_386_02",
+        "en": "The children are playing on the road near their school.",
+        "cn": "孩子们在学校附近的路上玩耍。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_386_03",
+        "en": "The children played safely on the road near their school.",
+        "cn": "孩子们在学校附近的路上安全地玩耍。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -10115,6 +15568,20 @@ window.__WORDS_DATA =
         "cn": "把球滚一下。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_387_02",
+        "en": "The ball rolls down the hill.",
+        "cn": "球从山上滚下来.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_387_03",
+        "en": "The children rolled the ball down the hill.",
+        "cn": "孩子们把球滚下了山坡。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -10141,6 +15608,20 @@ window.__WORDS_DATA =
         "cn": "这没地方了。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_388_02",
+        "en": "The children are playing in the room.",
+        "cn": "孩子们正在房间里玩耍。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_388_03",
+        "en": "The children played in the room.",
+        "cn": "孩子们在房间里玩耍。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -10167,6 +15648,20 @@ window.__WORDS_DATA =
         "cn": "使劲擦一下。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_389_02",
+        "en": "The child rubbed his knee after falling off the bike.",
+        "cn": "孩子从自行车上摔下来后，揉了揉膝盖。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_389_03",
+        "en": "The child rubbed his knee after falling down.",
+        "cn": "孩子摔倒后揉了揉膝盖。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -10193,6 +15688,20 @@ window.__WORDS_DATA =
         "cn": "遵守规则。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_390_02",
+        "en": "The teacher explained the rule to the class.",
+        "cn": "老师向全班解释了这条规则.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_390_03",
+        "en": "The children followed the teacher's rule and sat neatly in their chairs.",
+        "cn": "孩子们遵守了老师的规则，整齐地坐在椅子上。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -10219,6 +15728,20 @@ window.__WORDS_DATA =
         "cn": "去跑步吧。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_391_02",
+        "en": "The dog runs in the park every afternoon.",
+        "cn": "这只狗每天下午都会在公园里跑步。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_391_03",
+        "en": "The children ran around the playground after school.",
+        "cn": "放学后，孩子们在操场上跑来跑去。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -10245,6 +15768,20 @@ window.__WORDS_DATA =
         "cn": "汤里加点盐。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_392_02",
+        "en": "She added some salt to the soup to make it taste better.",
+        "cn": "她在汤里加了一些盐，让味道更好。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_392_03",
+        "en": "She added some salt to the soup to make it taste better.",
+        "cn": "她在汤里加了一些盐，让味道更好。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -10271,6 +15808,20 @@ window.__WORDS_DATA =
         "cn": "沙子很暖。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_393_02",
+        "en": "The children played with sand at the beach.",
+        "cn": "孩子们在海滩上玩沙子。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_393_03",
+        "en": "The children played with sand at the beach.",
+        "cn": "孩子们在海滩上玩沙子。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -10297,6 +15848,20 @@ window.__WORDS_DATA =
         "cn": "小比例模型。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_394_02",
+        "en": "The thermometer has a scale that ranges from 0 to 100 degrees Fahrenheit.",
+        "cn": "这个温度计的刻度范围是从0到100华氏度。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_394_03",
+        "en": "The children learned to read a scale on a music instrument at the elementary level.",
+        "cn": "在小学阶段，孩子们学会了如何读取乐器上的刻度。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -10323,6 +15888,20 @@ window.__WORDS_DATA =
         "cn": "她学科学。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_395_02",
+        "en": "Scientists use science to study the world around us.",
+        "cn": "科学家们运用科学来研究我们周围的世界。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_395_03",
+        "en": "Scientists use science to study the world around us.",
+        "cn": "科学家们利用科学来研究我们周围的世界。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -10349,6 +15928,20 @@ window.__WORDS_DATA =
         "cn": "今天海面平静。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_396_02",
+        "en": "The children love to play by the sea.",
+        "cn": "孩子们喜欢在海边玩耍。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_396_03",
+        "en": "The children played by the sea and collected shells.",
+        "cn": "孩子们在海边玩耍，捡贝壳。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -10375,6 +15968,20 @@ window.__WORDS_DATA =
         "cn": "请坐。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_397_02",
+        "en": "The level elementary classroom is equipped with comfortable seats for all students.",
+        "cn": "这个小学年级的教室为所有学生配备了舒适的座位。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_397_03",
+        "en": "In level elementary classes, students are usually assigned seats at fixed desks.",
+        "cn": "在小学阶段，学生们通常会被安排在固定的座位上坐在课桌前。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -10401,6 +16008,20 @@ window.__WORDS_DATA =
         "cn": "我秘书会给你打电话。",
         "tense": "simple_future",
         "level": "beginner"
+      },
+      {
+        "id": "word_398_02",
+        "en": "The secretary writes important documents every day.",
+        "cn": "这位秘书每天都会撰写重要的文件。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_398_03",
+        "en": "The secretary typed the letter carefully.",
+        "cn": "这位秘书认真地打出了这封信。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -10427,6 +16048,20 @@ window.__WORDS_DATA =
         "cn": "做出好的选择。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_399_02",
+        "en": "She made a careful selection of clothes for the party.",
+        "cn": "她仔细挑选了适合派对的衣服。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_399_03",
+        "en": "She chose the red dress for the party.",
+        "cn": "她选择了红色连衣裙参加派对。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -10453,6 +16088,20 @@ window.__WORDS_DATA =
         "cn": "忠于自我。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_400_02",
+        "en": "She always helps herself with the toys.",
+        "cn": "她总是自己拿玩具玩。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_400_03",
+        "en": "She helped herself to some cookies.",
+        "cn": "她自己拿了一些饼干吃。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -10479,6 +16128,20 @@ window.__WORDS_DATA =
         "cn": "这说得通。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_401_02",
+        "en": "Children learn to understand the meaning of words through their senses.",
+        "cn": "孩子们通过感官来学习理解词语的意义。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_401_03",
+        "en": "The word 'sense' means to understand the meaning or purpose of something.",
+        "cn": "‘感觉’这个词意味着理解某事物的意义或目的。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -10505,6 +16168,20 @@ window.__WORDS_DATA =
         "cn": "仆人端来了茶。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_402_02",
+        "en": "The servant helped the old lady carry her groceries.",
+        "cn": "这个仆人帮助老妇人搬运她的杂货。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_402_03",
+        "en": "The servant helped his master with the daily chores.",
+        "cn": "仆人帮助他的主人完成了日常家务。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -10530,6 +16207,20 @@ window.__WORDS_DATA =
         "en": "What's the sex of the baby?",
         "cn": "宝宝是男是女?",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_403_02",
+        "en": "The child is learning about sex in elementary school.",
+        "cn": "这个孩子正在小学学习关于性别的知识。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_403_03",
+        "en": "The boy and the girl played together and eventually started to learn about sex.",
+        "cn": "男孩和女孩一起玩耍，最终开始了解性。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -10557,6 +16248,20 @@ window.__WORDS_DATA =
         "cn": "坐到阴凉处。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_404_02",
+        "en": "The tree cast a cool shade under its branches.",
+        "cn": "树在它的枝叶下投下了凉爽的阴影。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_404_03",
+        "en": "The cat hid under the shade of the tree.",
+        "cn": "猫躲在了树的阴影下。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -10583,6 +16288,20 @@ window.__WORDS_DATA =
         "cn": "摇一下瓶子。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_405_02",
+        "en": "She shakes the bottle before opening it.",
+        "cn": "她在打开瓶子之前先摇了摇它.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_405_03",
+        "en": "She shook the bottle gently to mix the ingredients.",
+        "cn": "她轻轻地摇晃瓶子来混合配料。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -10609,6 +16328,20 @@ window.__WORDS_DATA =
         "cn": "他感到羞愧。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_406_02",
+        "en": "If you do something wrong, you should feel shame.",
+        "cn": "如果你做了错事，你应该感到羞耻。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_406_03",
+        "en": "She felt a lot of shame when she realized she had made a mistake.",
+        "cn": "当她意识到自己犯了一个错误时，她感到非常羞耻。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -10635,6 +16368,20 @@ window.__WORDS_DATA =
         "cn": "这消息令人震惊。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_407_02",
+        "en": "She was shocked when she saw the unexpected result.",
+        "cn": "她看到出乎意料的结果时非常震惊。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_407_03",
+        "en": "The child was shocked when he saw the spider.",
+        "cn": "孩子看到蜘蛛时非常震惊。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -10661,6 +16408,20 @@ window.__WORDS_DATA =
         "cn": "站到这边来。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_408_02",
+        "en": "The child placed the book on the side of the table.",
+        "cn": "孩子把书放在桌子的边上。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_408_03",
+        "en": "The child drew a picture of a house with two sides and a roof.",
+        "cn": "孩子画了一幅有两面和一座屋顶的房子的图画。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -10687,6 +16448,20 @@ window.__WORDS_DATA =
         "cn": "这是个好兆头。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_409_02",
+        "en": "The teacher used a sign to indicate the correct answer.",
+        "cn": "老师用一个标志来指示正确答案。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_409_03",
+        "en": "The teacher used a sign to show the students the correct answer.",
+        "cn": "老师用了一个标志来向学生们展示正确答案。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -10713,6 +16488,20 @@ window.__WORDS_DATA =
         "cn": "她戴着丝巾。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_410_02",
+        "en": "She wears a beautiful dress made of silk.",
+        "cn": "她穿着一件漂亮的丝绸连衣裙。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_410_03",
+        "en": "The girl wore a beautiful dress made of silk.",
+        "cn": "那个女孩穿了一件用丝绸做的漂亮裙子。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -10739,6 +16528,20 @@ window.__WORDS_DATA =
         "cn": "戒指是银的。",
         "tense": "present_continuous",
         "level": "beginner"
+      },
+      {
+        "id": "word_411_02",
+        "en": "The little girl wore a beautiful silver necklace.",
+        "cn": "那个小女孩戴了一条漂亮的银项链。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_411_03",
+        "en": "The boy found a shiny piece of silver in the field.",
+        "cn": "男孩在田野里发现了一块闪亮的银子。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -10765,6 +16568,20 @@ window.__WORDS_DATA =
         "cn": "我妹妹比我小。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_412_02",
+        "en": "My sister is playing with her doll.",
+        "cn": "我的妹妹正在玩她的洋娃娃。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_412_03",
+        "en": "My sister and I played together in the park.",
+        "cn": "我和我的妹妹在公园里一起玩耍。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -10791,6 +16608,20 @@ window.__WORDS_DATA =
         "cn": "你穿多大码?",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_413_02",
+        "en": "The size of the box is exactly 20 inches by 15 inches.",
+        "cn": "这个盒子的尺寸正好是20英寸乘15英寸。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_413_03",
+        "en": "The size of the box is 20 inches by 15 inches by 10 inches.",
+        "cn": "这个盒子的大小是20英寸×15英寸×10英寸。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -10817,6 +16648,20 @@ window.__WORDS_DATA =
         "cn": "天是蓝的。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_414_02",
+        "en": "The sky is blue today.",
+        "cn": "今天天空是蓝色的。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_414_03",
+        "en": "The sky was blue and clear on a sunny day.",
+        "cn": "在一个阳光明媚的日子里，天空是湛蓝而清澈的。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -10843,6 +16688,20 @@ window.__WORDS_DATA =
         "cn": "好好睡一觉。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_415_02",
+        "en": "The child goes to sleep at 8 p.m.",
+        "cn": "这个孩子晚上8点睡觉",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_415_03",
+        "en": "The child went to sleep early because he was tired after playing all day.",
+        "cn": "这个孩子玩了一整天后很累，所以很早就睡了。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -10869,6 +16728,20 @@ window.__WORDS_DATA =
         "cn": "小心,别滑倒。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_416_02",
+        "en": "The child slipped on the wet slip and fell.",
+        "cn": "孩子在一块湿滑的小条上滑倒了，摔倒了。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_416_03",
+        "en": "The child slipped on the wet pavement and fell.",
+        "cn": "那个孩子在湿漉漉的人行道上滑倒了，摔倒了。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -10895,6 +16768,20 @@ window.__WORDS_DATA =
         "cn": "坡很陡。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_417_02",
+        "en": "The children played on the gentle slope.",
+        "cn": "孩子们在平缓的斜坡上玩耍。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_417_03",
+        "en": "The children built a small bridge across the slope.",
+        "cn": "孩子们在斜坡上建了一座小桥。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -10921,6 +16808,20 @@ window.__WORDS_DATA =
         "cn": "杯子碎得很响。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_418_02",
+        "en": "She smashed the vase with her hand.",
+        "cn": "她用手打碎了花瓶.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_418_03",
+        "en": "The child smashed the vase with his toy gun.",
+        "cn": "孩子用他的玩具枪把花瓶打碎了.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -10946,6 +16847,20 @@ window.__WORDS_DATA =
         "en": "This flower has a sweet smell.",
         "cn": "这花闻起来很香。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_419_02",
+        "en": "The flowers smell so sweet in the garden.",
+        "cn": "花园里的花朵散发着甜美的香气。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_419_03",
+        "en": "The dog sniffed around the garden, trying to find the smell of its toy.",
+        "cn": "狗在花园里四处嗅了嗅，试图找到它的玩具的气味。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -10973,6 +16888,13 @@ window.__WORDS_DATA =
         "cn": "给我笑一个。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_420_02",
+        "en": "She smiled at the little child.",
+        "cn": "她对那个小孩子笑了笑.",
+        "tense": "simple_present",
+        "level": "elementary"
       }
     ]
   },
@@ -10999,6 +16921,20 @@ window.__WORDS_DATA =
         "cn": "烟弥漫了屋子。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_421_02",
+        "en": "The child is smoking a cigarette.",
+        "cn": "这个孩子正在抽烟。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_421_03",
+        "en": "The boy lit a smoke and started to smoke it.",
+        "cn": "那个男孩点了一支烟，开始抽起来。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -11025,6 +16961,20 @@ window.__WORDS_DATA =
         "cn": "打喷嚏时捂住。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_422_02",
+        "en": "When the child touched the cold flower, he sneezed loudly.",
+        "cn": "当孩子碰到那朵冷花时，他大声打了个喷嚏。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_422_03",
+        "en": "The child sneezed loudly and wiped his nose with a tissue.",
+        "cn": "孩子大声地打了个喷嚏，然后用纸巾擦了擦鼻子。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -11051,6 +17001,20 @@ window.__WORDS_DATA =
         "cn": "雪覆盖了路面。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_423_02",
+        "en": "The children are playing in the snow.",
+        "cn": "孩子们在雪地里玩耍。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_423_03",
+        "en": "It snowed heavily outside, so the children wore coats and hats to go out and play in the snow.",
+        "cn": "外面下起了很大的雪，所以孩子们都穿上了外套和帽子出去玩雪。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -11077,6 +17041,20 @@ window.__WORDS_DATA =
         "cn": "用肥皂和水洗。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_424_02",
+        "en": "She washed her hands with soap.",
+        "cn": "她用肥皂洗手。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_424_03",
+        "en": "The little girl washed her hands with soap.",
+        "cn": "小女孩用肥皂洗了手.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -11103,6 +17081,20 @@ window.__WORDS_DATA =
         "cn": "社会需要规则。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_425_02",
+        "en": "In society, people often work together to achieve common goals.",
+        "cn": "在社会中，人们常常共同努力来实现共同的目标。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_425_03",
+        "en": "In elementary school, we learned about society and how it affects our daily lives. We learned that society is made up of people living together and working together to create a better world.",
+        "cn": "在小学时，我们学习了关于社会以及它如何影响我们的日常生活。我们了解到，社会是由共同生活、共同努力的人们组成的，大家共同努力才能创造一个更美好的世界。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -11129,6 +17121,20 @@ window.__WORDS_DATA =
         "cn": "他们的儿子六岁。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_426_02",
+        "en": "My son is playing in the park.",
+        "cn": "我儿子正在公园里玩耍。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_426_03",
+        "en": "His son helped him carry the heavy boxes.",
+        "cn": "他的儿子帮助他搬那些沉重的箱子。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -11155,6 +17161,20 @@ window.__WORDS_DATA =
         "cn": "给我唱首歌。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_427_02",
+        "en": "The children love to sing songs together.",
+        "cn": "孩子们喜欢一起唱歌。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_427_03",
+        "en": "The children sang a song about animals at school.",
+        "cn": "孩子们在学校里唱了一首关于动物的歌。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -11181,6 +17201,20 @@ window.__WORDS_DATA =
         "cn": "什么样的书?",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_428_02",
+        "en": "The teacher asked the students to sort the pictures into different categories.",
+        "cn": "老师让学生们把图片按照不同的种类进行分类。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_428_03",
+        "en": "The teacher sorted the books by their kinds.",
+        "cn": "老师按照种类把书分好了。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -11207,6 +17241,20 @@ window.__WORDS_DATA =
         "cn": "我听到了奇怪的声音。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_429_02",
+        "en": "The sound of birds singing filled the air in the morning.",
+        "cn": "清晨的空气中充满了鸟儿的歌声。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_429_03",
+        "en": "The sound of birds singing filled the air in the early morning.",
+        "cn": "清晨的空气中充满了鸟儿的歌声。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -11233,6 +17281,20 @@ window.__WORDS_DATA =
         "cn": "喝点热汤。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_430_02",
+        "en": "She is making soup for dinner.",
+        "cn": "她正在做汤当晚餐。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_430_03",
+        "en": "She made a delicious soup for dinner.",
+        "cn": "她做了一道美味的汤作为晚餐。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -11259,6 +17321,20 @@ window.__WORDS_DATA =
         "cn": "空间不够。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_431_02",
+        "en": "The space shuttle is traveling through space.",
+        "cn": "航天飞机正在太空中飞行。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_431_03",
+        "en": "The children played with space toys in the room.",
+        "cn": "孩子们在房间里玩太空玩具。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -11285,6 +17361,20 @@ window.__WORDS_DATA =
         "cn": "她走上舞台。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_432_02",
+        "en": "At the elementary level, students begin to learn the basics of stage performance.",
+        "cn": "在小学阶段，学生们开始学习舞台表演的基础知识。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_432_03",
+        "en": "In the elementary level stage, children learn basic skills such as reading, writing, and arithmetic.",
+        "cn": "在小学阶段，孩子们学习阅读、写作和算术等基本技能。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -11311,6 +17401,20 @@ window.__WORDS_DATA =
         "cn": "开了个好头。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_433_02",
+        "en": "The children start their day by saying good morning.",
+        "cn": "孩子们每天早上都会先说早上好。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_433_03",
+        "en": "Start is an important word in our daily life. For example, when we go to school, we start our day by saying 'good morning' or 'hello'.",
+        "cn": "开始是我们日常生活中一个很重要的词。比如，当我们去学校的时候，我们会通过说‘早上好’或‘你好’来开始我们的一天。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -11337,6 +17441,20 @@ window.__WORDS_DATA =
         "cn": "发表声明。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_434_02",
+        "en": "She made a clear statement about her intentions.",
+        "cn": "她明确声明了自己的意图。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_434_03",
+        "en": "She made a statement about the new policy.",
+        "cn": "她就新政策发表了一份声明。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -11363,6 +17481,20 @@ window.__WORDS_DATA =
         "cn": "杯子上升起蒸汽。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_435_02",
+        "en": "The steam from the kettle rises into the air.",
+        "cn": "水壶里冒出的蒸汽升到了空中。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_435_03",
+        "en": "The children enjoyed playing with steam in the garden.",
+        "cn": "孩子们喜欢在花园里玩蒸汽玩具。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -11389,6 +17521,20 @@ window.__WORDS_DATA =
         "cn": "刀刃是钢的。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_436_02",
+        "en": "The toy car is made of steel.",
+        "cn": "这个玩具车是用钢制成的.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_436_03",
+        "en": "The man used steel to build a strong bridge.",
+        "cn": "那个男人用钢铁建造了一座坚固的桥。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -11415,6 +17561,20 @@ window.__WORDS_DATA =
         "cn": "迈一小步。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_437_02",
+        "en": "She took one step on the level elementary step and felt steady.",
+        "cn": "她踏上了这个简单的基本台阶，感觉很稳固。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_437_03",
+        "en": "The child took step by step up the staircase.",
+        "cn": "孩子一步一步地走上楼梯。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -11440,6 +17600,20 @@ window.__WORDS_DATA =
         "en": "A stitch in time saves nine.",
         "cn": "小洞不补,大洞吃苦。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_438_02",
+        "en": "She is stitching a beautiful dress for her daughter.",
+        "cn": "她正在为女儿缝制一件漂亮的连衣裙。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_438_03",
+        "en": "She used a needle and thread to stitch a button onto the shirt.",
+        "cn": "她用针和线把纽扣缝在衬衫上。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -11467,6 +17641,20 @@ window.__WORDS_DATA =
         "cn": "他扔了块石头。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_439_02",
+        "en": "The children used stones to build a small fence.",
+        "cn": "孩子们用石头搭了一小道围栏。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_439_03",
+        "en": "The children collected stones on the beach.",
+        "cn": "孩子们在海滩上捡石头。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -11493,6 +17681,20 @@ window.__WORDS_DATA =
         "cn": "赶紧停一下。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_440_02",
+        "en": "The teacher told the students to stop talking during the test.",
+        "cn": "老师告诉学生们考试期间不要说话。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_440_03",
+        "en": "The child stopped running when he saw the dog.",
+        "cn": "孩子看到狗后停止了奔跑。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -11519,6 +17721,20 @@ window.__WORDS_DATA =
         "cn": "给我讲个故事。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_441_02",
+        "en": "The children enjoyed telling stories to each other at night.",
+        "cn": "孩子们喜欢在晚上互相讲故事。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_441_03",
+        "en": "Once upon a time, there was a little girl named Lily who loved to tell stories.",
+        "cn": "从前，有一个叫莉莉的小女孩，她非常喜欢讲故事。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -11545,6 +17761,20 @@ window.__WORDS_DATA =
         "cn": "伸展一下背。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_442_02",
+        "en": "The cat stretches its limbs when it wakes up.",
+        "cn": "猫醒来后会伸展它的四肢。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_442_03",
+        "en": "The cat stretched its legs after playing outside.",
+        "cn": "猫在户外玩耍后伸了伸腿。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -11571,6 +17801,20 @@ window.__WORDS_DATA =
         "cn": "结构稳固。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_443_02",
+        "en": "The structure of this building is very simple and clear.",
+        "cn": "这座建筑的结构非常简单明了。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_443_03",
+        "en": "The house has a beautiful structure.",
+        "cn": "这座房子的结构很漂亮。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -11597,6 +17841,20 @@ window.__WORDS_DATA =
         "cn": "这是什么东西?",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_444_02",
+        "en": "The substance in this bottle is water.",
+        "cn": "这个瓶子里的物质是水。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_444_03",
+        "en": "The substance in the box is very heavy.",
+        "cn": "盒子里的这种物质非常重。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -11623,6 +17881,20 @@ window.__WORDS_DATA =
         "cn": "茶里加糖。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_445_02",
+        "en": "She added some sugar to her tea.",
+        "cn": "她在茶里加了一些糖。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_445_03",
+        "en": "She added some sugar to her tea.",
+        "cn": "她在茶里加了一些糖。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -11649,6 +17921,20 @@ window.__WORDS_DATA =
         "cn": "这建议不错。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_446_02",
+        "en": "She gave me some good suggestions for my project.",
+        "cn": "她给我的项目提出了一些建议。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_446_03",
+        "en": "She gave me a suggestion about how to improve my work.",
+        "cn": "她给了我一个关于如何改进我工作的建议。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -11675,6 +17961,20 @@ window.__WORDS_DATA =
         "cn": "夏天到了。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_447_02",
+        "en": "In summer, children love to play in the park.",
+        "cn": "在夏天，孩子们喜欢在公园里玩耍。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_447_03",
+        "en": "In summer, children like to play in the park.",
+        "cn": "在夏天，孩子们喜欢在公园里玩耍。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -11701,6 +18001,20 @@ window.__WORDS_DATA =
         "cn": "谢谢你的支持。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_448_02",
+        "en": "She always supports her friends when they are in trouble.",
+        "cn": "她总是在朋友遇到困难时给予支持。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_448_03",
+        "en": "The teacher gave the students lots of support when they were working on their projects.",
+        "cn": "老师在学生们做项目时给予了他们很多支持。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -11727,6 +18041,20 @@ window.__WORDS_DATA =
         "cn": "真是个惊喜!",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_449_02",
+        "en": "She gave me a surprise gift on my birthday.",
+        "cn": "她在我的生日那天送了我一份意想不到的礼物。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_449_03",
+        "en": "To my surprise, the gift was a puppy!",
+        "cn": "令我惊讶的是，礼物竟然是一只小狗！",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -11753,6 +18081,20 @@ window.__WORDS_DATA =
         "cn": "去游泳吧。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_450_02",
+        "en": "The children are swimming in the pool.",
+        "cn": "孩子们在游泳池里游泳。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_450_03",
+        "en": "The children enjoyed swimming in the pool at the park.",
+        "cn": "孩子们在公园的游泳池里游泳，玩得很开心。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -11779,6 +18121,20 @@ window.__WORDS_DATA =
         "cn": "系统运转良好。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_451_02",
+        "en": "The school uses a new system to manage student records.",
+        "cn": "学校使用了一个新的系统来管理学生记录。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_451_03",
+        "en": "The system helps me complete my homework quickly.",
+        "cn": "这个系统帮助我快速完成作业。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -11805,6 +18161,20 @@ window.__WORDS_DATA =
         "cn": "我们谈谈吧。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_452_02",
+        "en": "The children are talking about their favorite toys.",
+        "cn": "孩子们正在谈论他们最喜欢的玩具。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_452_03",
+        "en": "The children talked about their favorite animals.",
+        "cn": "孩子们谈论了他们最喜欢的动物。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -11830,6 +18200,20 @@ window.__WORDS_DATA =
         "en": "This soup has a strong taste.",
         "cn": "这汤味道很重。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_453_02",
+        "en": "The apple has a sweet taste.",
+        "cn": "苹果有甜美的味道。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_453_03",
+        "en": "The cake tasted delicious.",
+        "cn": "这个蛋糕味道很好。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -11857,6 +18241,20 @@ window.__WORDS_DATA =
         "cn": "按时纳税。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_454_02",
+        "en": "Every time you buy something, you have to pay tax on it.",
+        "cn": "每次你买东西的时候，都需要缴纳税。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_454_03",
+        "en": "The teacher explained that taxes are used to pay for things like roads and schools.",
+        "cn": "老师解释说，税收是用来支付道路和学校等公共设施的费用的。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -11883,6 +18281,20 @@ window.__WORDS_DATA =
         "cn": "教学是她的热情所在。",
         "tense": "present_continuous",
         "level": "beginner"
+      },
+      {
+        "id": "word_455_02",
+        "en": "In elementary school, teaching focuses on helping children learn basic skills such as reading, writing, and arithmetic.",
+        "cn": "在小学阶段，教学的重点是帮助孩子们掌握阅读、写作和算术等基础知识。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_455_03",
+        "en": "In the elementary school, teaching mathematics involves using various games and activities to help children understand basic concepts.",
+        "cn": "在小学里，教授数学会运用各种游戏和活动来帮助孩子们理解基本概念。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -11908,6 +18320,20 @@ window.__WORDS_DATA =
         "en": "He has a tendency to be late.",
         "cn": "他有迟到的倾向。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_456_02",
+        "en": "Children tend to play outside in warm weather.",
+        "cn": "孩子们在温暖的天气里倾向于到外面玩耍.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_456_03",
+        "en": "Children usually have a tendency to imitate their parents.",
+        "cn": "孩子们通常会有模仿父母的倾向。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -11935,6 +18361,20 @@ window.__WORDS_DATA =
         "cn": "我通过了考试。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_457_02",
+        "en": "The children are testing their new toys.",
+        "cn": "孩子们正在测试他们的新玩具。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_457_03",
+        "en": "The teacher asked the students to do a simple test.",
+        "cn": "老师让学生们做了一个简单的测试。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -11961,6 +18401,20 @@ window.__WORDS_DATA =
         "cn": "理论上行得通。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_458_02",
+        "en": "Scientists use theory to explain how the universe works.",
+        "cn": "科学家们利用理论来解释宇宙是如何运作的。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_458_03",
+        "en": "Scientists use theory to explain how things work in the world.",
+        "cn": "科学家们运用理论来解释世界上事物的运行规律。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -11987,6 +18441,20 @@ window.__WORDS_DATA =
         "cn": "那是什么东西?",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_459_02",
+        "en": "She is holding a book in her hand.",
+        "cn": "她手里拿着一本书。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_459_03",
+        "en": "She put the thing on the table.",
+        "cn": "她把那个东西放在了桌子上.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -12013,6 +18481,20 @@ window.__WORDS_DATA =
         "cn": "你在想什么?",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_460_02",
+        "en": "She had a good thought before making the decision.",
+        "cn": "她在做出决定之前想了很多好主意。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_460_03",
+        "en": "She thought about what to eat for lunch.",
+        "cn": "她想了想午饭该吃什么。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -12039,6 +18521,20 @@ window.__WORDS_DATA =
         "cn": "雷声震得房子发抖。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_461_02",
+        "en": "The thunder rolled loudly during the storm.",
+        "cn": "暴风雨中，雷声轰鸣。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_461_03",
+        "en": "Once upon a time, in a village far away, it rained heavily and the thunder roared loudly.",
+        "cn": "从前，在一个遥远的村庄里，下起了倾盆大雨，雷声也震耳欲聋。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -12065,6 +18561,20 @@ window.__WORDS_DATA =
         "cn": "光阴似箭。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_462_02",
+        "en": "Time flies when you're having fun.",
+        "cn": "玩得开心时，时间过得飞快。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_462_03",
+        "en": "In the past, people measured time using clocks and watches.",
+        "cn": "在过去，人们用时钟和手表来测量时间。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -12091,6 +18601,20 @@ window.__WORDS_DATA =
         "cn": "一罐豆子。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_463_02",
+        "en": "The boy collected tin cans from the trash to make a toy.",
+        "cn": "男孩从垃圾里收集锡罐来制作玩具。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_463_03",
+        "en": "The children played with a colorful tin can during recess.",
+        "cn": "孩子们在课间休息时玩了一个彩色的锡罐。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -12116,6 +18640,20 @@ window.__WORDS_DATA =
         "en": "Reach the top of the hill.",
         "cn": "爬到山顶。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_464_02",
+        "en": "The top of the tree is covered with leaves.",
+        "cn": "树顶上长满了叶子。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_464_03",
+        "en": "The top of the tree was covered with snow.",
+        "cn": "树的顶部被雪覆盖了.",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -12143,6 +18681,20 @@ window.__WORDS_DATA =
         "cn": "轻轻一碰。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_465_02",
+        "en": "The child touched the puppy gently.",
+        "cn": "孩子轻轻地摸了摸小狗。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_465_03",
+        "en": "The child touched the soft fabric of the blanket.",
+        "cn": "孩子摸了摸毯子柔软的布料。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -12169,6 +18721,20 @@ window.__WORDS_DATA =
         "cn": "国际贸易在增长。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_466_02",
+        "en": "Children learn about trade in elementary school.",
+        "cn": "孩子们在小学里学习有关贸易的知识。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_466_03",
+        "en": "The children learned about trade in their elementary school class. They learned that trade helps people exchange goods and services they need.",
+        "cn": "孩子们在小学课堂上学习了贸易的知识。他们了解到，贸易能帮助人们交换所需的商品和服务。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -12195,6 +18761,20 @@ window.__WORDS_DATA =
         "cn": "公共交通很快。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_467_02",
+        "en": "The children use transport to go to school every day.",
+        "cn": "孩子们每天使用交通工具去上学。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_467_03",
+        "en": "The children used transport to go to the park.",
+        "cn": "孩子们乘坐交通工具去公园。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -12220,6 +18800,20 @@ window.__WORDS_DATA =
         "en": "He played a trick on me.",
         "cn": "他耍了我一下。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_468_02",
+        "en": "The magician used a clever trick to make the coins disappear.",
+        "cn": "魔术师用了一个聪明的把戏让硬币消失了.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_468_03",
+        "en": "The boy used a trick to get the candy from the older child.",
+        "cn": "那个男孩用了一个诡计从那个大一点的孩子那里得到了糖果.",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -12247,6 +18841,20 @@ window.__WORDS_DATA =
         "cn": "他有麻烦了。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_469_02",
+        "en": "The dog caused trouble in the park.",
+        "cn": "这只狗在公园里惹麻烦了.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_469_03",
+        "en": "The child got into trouble at school because he broke a toy.",
+        "cn": "这个孩子在学校惹上了麻烦，因为他弄坏了一个玩具。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -12273,6 +18881,20 @@ window.__WORDS_DATA =
         "cn": "轮到你了。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_470_02",
+        "en": "The children took turns turning the wheel to move the toy car.",
+        "cn": "孩子们轮流转动轮子来推动玩具车。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_470_03",
+        "en": "The children took turns turning the pages of the book.",
+        "cn": "孩子们轮流翻书页。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -12299,6 +18921,20 @@ window.__WORDS_DATA =
         "cn": "扭一下。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_471_02",
+        "en": "The dancer gave a twist to her dance movement.",
+        "cn": "那个舞者在她舞蹈动作中加了一个扭转。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_471_03",
+        "en": "The boy tried to twist the rope, but it was too tight.",
+        "cn": "那个男孩试图扭转绳子，但它太紧了。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -12325,6 +18961,20 @@ window.__WORDS_DATA =
         "cn": "卖了一个。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_472_02",
+        "en": "The unit in the elementary level is called a class.",
+        "cn": "在小学阶段，这个单位被称为班级。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_472_03",
+        "en": "In the elementary school, the teacher asked the students to measure the length of different objects in units of 'centimeters'.",
+        "cn": "在小学里，老师让学生们用‘厘米’这个单位来测量不同物体的长度。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -12351,6 +19001,20 @@ window.__WORDS_DATA =
         "cn": "这有什么用?",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_473_02",
+        "en": "She uses her pen to write.",
+        "cn": "她用她的笔写字。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_473_03",
+        "en": "She used her pen to write a sentence.",
+        "cn": "她用她的钢笔写了一句话。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -12377,6 +19041,20 @@ window.__WORDS_DATA =
         "cn": "这很有价值。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_474_02",
+        "en": "The value of education is important for children.",
+        "cn": "教育的价值对孩子们来说很重要.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_474_03",
+        "en": "The apple has great value because it is rich in nutrients.",
+        "cn": "苹果很有价值，因为它富含营养。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -12403,6 +19081,20 @@ window.__WORDS_DATA =
         "cn": "她写了一段诗。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_475_02",
+        "en": "The child read a verse about a rainbow.",
+        "cn": "孩子读了一首关于彩虹的诗句。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_475_03",
+        "en": "The child recited a simple verse about the sun.",
+        "cn": "孩子背诵了一首关于太阳的简单诗句。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -12429,6 +19121,20 @@ window.__WORDS_DATA =
         "cn": "船黎明启航。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_476_02",
+        "en": "The sailors loaded the goods into the large vessel.",
+        "cn": "水手们将货物装进了那艘大船。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_476_03",
+        "en": "The sailors packed their belongings carefully into the large vessel before setting sail.",
+        "cn": "水手们将他们的物品仔细地装进大船里，然后启航了.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -12455,6 +19161,20 @@ window.__WORDS_DATA =
         "cn": "景色真美。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_477_02",
+        "en": "The child has a wide view of the garden from his window.",
+        "cn": "这个孩子从他的窗户可以清楚地看到花园的全景。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_477_03",
+        "en": "The child looked at the painting with great interest and tried to understand its view.",
+        "cn": "孩子非常感兴趣地看着那幅画，试图理解其中的意境。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -12481,6 +19201,20 @@ window.__WORDS_DATA =
         "cn": "她声音柔和。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_478_02",
+        "en": "The teacher used a loud voice to ensure everyone could hear her.",
+        "cn": "老师用响亮的声音讲话，以确保每个人都能听到。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_478_03",
+        "en": "The girl spoke in a soft voice.",
+        "cn": "那个女孩用柔和的声音说话。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -12507,6 +19241,20 @@ window.__WORDS_DATA =
         "cn": "去散步吧。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_479_02",
+        "en": "The children walk in the park every afternoon.",
+        "cn": "孩子们每天下午在公园里散步。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_479_03",
+        "en": "The children walked in the park after school.",
+        "cn": "孩子们放学后在公园里散步。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -12533,6 +19281,20 @@ window.__WORDS_DATA =
         "cn": "战争很可怕。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_480_02",
+        "en": "In ancient times, people often fought wars to protect their countries.",
+        "cn": "在古代，人们常常发动战争来保护自己的国家。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_480_03",
+        "en": "In ancient times, people often fought wars to protect their countries and lands.",
+        "cn": "在古代，人们常常为了保护自己的国家和土地而发动战争。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -12559,6 +19321,20 @@ window.__WORDS_DATA =
         "cn": "给车洗个澡。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_481_02",
+        "en": "She washes her clothes every weekend.",
+        "cn": "她每个周末都会洗衣服。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_481_03",
+        "en": "She washed the dishes after dinner.",
+        "cn": "她晚饭后洗了盘子。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -12585,6 +19361,20 @@ window.__WORDS_DATA =
         "cn": "这是浪费时间。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_482_02",
+        "en": "Don't waste food.",
+        "cn": "不要浪费食物。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_482_03",
+        "en": "He wasted all his money on unnecessary things.",
+        "cn": "他把所有的钱都浪费在了一些不必要的事情上了.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -12611,6 +19401,20 @@ window.__WORDS_DATA =
         "cn": "多喝水。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_483_02",
+        "en": "The child is drinking water.",
+        "cn": "孩子正在喝水。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_483_03",
+        "en": "The children played with water in the park.",
+        "cn": "孩子们在公园里玩水。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -12637,6 +19441,20 @@ window.__WORDS_DATA =
         "cn": "浪很高。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_484_02",
+        "en": "The children were playing near the beach and waved at the waves.",
+        "cn": "孩子们在海滩附近玩耍，向波浪挥手。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_484_03",
+        "en": "The children waved at their teacher as she left the classroom.",
+        "cn": "孩子们在老师离开教室时向她挥手。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -12661,6 +19479,20 @@ window.__WORDS_DATA =
         "id": "word_485_01",
         "en": "The candle is made of wax.",
         "cn": "蜡烛是蜡做的。",
+        "tense": "simple_past",
+        "level": "elementary"
+      },
+      {
+        "id": "word_485_02",
+        "en": "The candle's wax began to melt as the flame burned higher.",
+        "cn": "蜡烛的蜡在火焰燃烧得更旺时开始融化。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_485_03",
+        "en": "The candle had some wax on it.",
+        "cn": "蜡烛上有一些蜡。",
         "tense": "simple_past",
         "level": "elementary"
       }
@@ -12689,6 +19521,20 @@ window.__WORDS_DATA =
         "cn": "哪种方法最好?",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_486_02",
+        "en": "The teacher explained the concept in a simple and clear way.",
+        "cn": "老师用简单明了的方法解释了这个概念。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_486_03",
+        "en": "Children use different methods to solve problems.",
+        "cn": "孩子们使用不同的方法来解决问题。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -12715,6 +19561,20 @@ window.__WORDS_DATA =
         "cn": "天气真好。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_487_02",
+        "en": "The weather is sunny today.",
+        "cn": "今天天气晴朗。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_487_03",
+        "en": "The weather was beautiful today, with sunny skies and warm temperatures.",
+        "cn": "今天天气很好，阳光明媚，气温温暖。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -12741,6 +19601,20 @@ window.__WORDS_DATA =
         "cn": "下周见。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_488_02",
+        "en": "Every week, we go to the park to play.",
+        "cn": "每周我们都去公园玩耍。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_488_03",
+        "en": "Last week, we went to the park with our family.",
+        "cn": "上周，我们和家人一起去了公园。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -12767,6 +19641,20 @@ window.__WORDS_DATA =
         "cn": "多重?",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_489_02",
+        "en": "The box has a weight of 5 pounds.",
+        "cn": "这个盒子的重量是5磅。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_489_03",
+        "en": "The box has a weight of 5 pounds.",
+        "cn": "这个盒子的重量是5磅。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -12793,6 +19681,20 @@ window.__WORDS_DATA =
         "cn": "风很大。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_490_02",
+        "en": "The wind is blowing gently.",
+        "cn": "风正在轻轻吹着。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_490_03",
+        "en": "The wind blew gently through the trees.",
+        "cn": "风轻轻吹过树林。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -12819,6 +19721,20 @@ window.__WORDS_DATA =
         "cn": "红酒不错。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_491_02",
+        "en": "He enjoys drinking wine with his friends on weekends.",
+        "cn": "他喜欢在周末和朋友一起喝葡萄酒。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_491_03",
+        "en": "John drank some wine with his friends at the party.",
+        "cn": "约翰在聚会上和朋友们一起喝了一些葡萄酒。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -12845,6 +19761,20 @@ window.__WORDS_DATA =
         "cn": "这儿冬天很冷。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_492_02",
+        "en": "In winter, the snow covers the ground and everything looks white.",
+        "cn": "在冬天，雪覆盖了地面，一切看起来都是白色的。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_492_03",
+        "en": "In winter, children often wear thick coats to keep warm.",
+        "cn": "在冬天，孩子们常常穿厚外套来保暖。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -12871,6 +19801,20 @@ window.__WORDS_DATA =
         "cn": "她是个善良的女人。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_493_02",
+        "en": "A woman is reading a book in the park.",
+        "cn": "一个女人在公园里看书。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_493_03",
+        "en": "A kind woman helped me find my way home.",
+        "cn": "一位善良的女人为我指明了回家的路。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -12897,6 +19841,20 @@ window.__WORDS_DATA =
         "cn": "椅子是木头的。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_494_02",
+        "en": "The child built a small house out of wood.",
+        "cn": "这个孩子用木头搭了一个小房子。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_494_03",
+        "en": "The little boy used wood to build a toy house.",
+        "cn": "小男孩用木头造了一座玩具房子。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -12923,6 +19881,20 @@ window.__WORDS_DATA =
         "cn": "这毛衣是羊毛的。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_495_02",
+        "en": "The cat is wearing a soft wool sweater.",
+        "cn": "这只猫穿着一件柔软的羊毛毛衣。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_495_03",
+        "en": "The child wore a hat made of wool.",
+        "cn": "这个孩子戴了一顶羊毛帽子。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -12949,6 +19921,20 @@ window.__WORDS_DATA =
         "cn": "说一句话。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_496_02",
+        "en": "She always talks about her favorite word.",
+        "cn": "她总是谈论她最喜欢的词。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_496_03",
+        "en": "The child said a kind word to his friend.",
+        "cn": "那个孩子对朋友说了一句好话。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -12975,6 +19961,13 @@ window.__WORDS_DATA =
         "cn": "今天干得不错。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_497_02",
+        "en": "Tom likes to work at school.",
+        "cn": "汤姆喜欢在学校工作。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -13001,6 +19994,20 @@ window.__WORDS_DATA =
         "cn": "把伤口洗干净。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_498_02",
+        "en": "The child fell and got a small wound on his knee.",
+        "cn": "孩子摔倒了，膝盖上有一处小伤口。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_498_03",
+        "en": "The little boy got a small wound on his finger while playing with his toys.",
+        "cn": "那个小男孩在玩玩具时手指上受了点小伤。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -13027,6 +20034,20 @@ window.__WORDS_DATA =
         "cn": "她写得很清楚。",
         "tense": "present_continuous",
         "level": "beginner"
+      },
+      {
+        "id": "word_499_02",
+        "en": "She is writing a story.",
+        "cn": "她正在写一个故事。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_499_03",
+        "en": "She enjoys writing stories in her free time.",
+        "cn": "她喜欢在空闲时间写故事。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -13053,6 +20074,20 @@ window.__WORDS_DATA =
         "cn": "新年快乐。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_500_02",
+        "en": "The students are studying Chinese history in their yearbook class.",
+        "cn": "学生们正在年鉴课上学习中国历史。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_500_03",
+        "en": "In the year 2010, children started learning about the solar system in their elementary school classrooms.",
+        "cn": "在2010年，孩子们在小学的课堂上开始学习关于太阳系的知识。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -13079,6 +20114,20 @@ window.__WORDS_DATA =
         "cn": "直角切。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_501_02",
+        "en": "The bookshelf has a right angle at the corner.",
+        "cn": "书架的角落呈直角。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_501_03",
+        "en": "The bird perched on a tree branch at a perfect angle.",
+        "cn": "鸟儿以完美的角度停在了树枝上。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -13104,6 +20153,20 @@ window.__WORDS_DATA =
         "en": "An ant is on the bread.",
         "cn": "面包上有只蚂蚁。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_502_02",
+        "en": "The ants are carrying food back to their nest.",
+        "cn": "蚂蚁们正在把食物搬回它们的巢穴。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_502_03",
+        "en": "The ant carried a tiny leaf back to its nest.",
+        "cn": "那只蚂蚁把一片小叶子搬回了它的巢穴。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -13131,6 +20194,13 @@ window.__WORDS_DATA =
         "cn": "每天一苹果。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_503_02",
+        "en": "She eats an apple every morning.",
+        "cn": "她每天早上吃一个苹果.",
+        "tense": "simple_present",
+        "level": "elementary"
       }
     ]
   },
@@ -13157,6 +20227,20 @@ window.__WORDS_DATA =
         "cn": "从拱门下走过。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_504_02",
+        "en": "The children built an arch out of sticks and paper.",
+        "cn": "孩子们用树枝和纸制作了一个拱门。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_504_03",
+        "en": "The children built an arch using sticks and ropes. They were very happy with their creation.",
+        "cn": "孩子们用树枝和绳子搭建了一个拱门，他们对自己的作品感到非常满意。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -13183,6 +20267,20 @@ window.__WORDS_DATA =
         "cn": "抬起手臂。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_505_02",
+        "en": "The child raised his arm to answer the teacher's question.",
+        "cn": "孩子举起手臂来回答老师的问题。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_505_03",
+        "en": "The child used his arm to reach for the toy on the top shelf.",
+        "cn": "这个孩子用他的手臂去够架子顶上的玩具。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -13209,6 +20307,20 @@ window.__WORDS_DATA =
         "cn": "军队开进来了。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_506_02",
+        "en": "The army is training soldiers every day.",
+        "cn": "军队每天都在训练士兵。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_506_03",
+        "en": "The army helped build the new bridge.",
+        "cn": "军队帮助修建了新桥。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -13235,6 +20347,20 @@ window.__WORDS_DATA =
         "cn": "宝宝在睡觉。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_507_02",
+        "en": "The baby is playing with a toy car.",
+        "cn": "这个婴儿正在玩一辆玩具汽车。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_507_03",
+        "en": "The baby smiled at its mother.",
+        "cn": "婴儿对着妈妈笑了。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -13261,6 +20387,20 @@ window.__WORDS_DATA =
         "cn": "我的包很重。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_508_02",
+        "en": "She carries a bag to school every day.",
+        "cn": "她每天都会带一个包去学校。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_508_03",
+        "en": "The child carried a bag with his lunch inside.",
+        "cn": "孩子拿着一个装着午餐的包。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -13287,6 +20427,20 @@ window.__WORDS_DATA =
         "cn": "把球扔给我。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_509_02",
+        "en": "The children are playing with a ball in the park.",
+        "cn": "孩子们在公园里玩球。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_509_03",
+        "en": "The children played with a ball in the park.",
+        "cn": "孩子们在公园里玩球。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -13313,6 +20467,20 @@ window.__WORDS_DATA =
         "cn": "一条金色带子。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_510_02",
+        "en": "The children used a band to tie their hair back.",
+        "cn": "孩子们用一根带子把头发扎在后面。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_510_03",
+        "en": "The children wore colorful bands around their wrists as part of their school activity.",
+        "cn": "孩子们在手腕上戴上了五彩缤纷的带子，这是学校活动的一部分。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -13339,6 +20507,20 @@ window.__WORDS_DATA =
         "cn": "在水池洗手。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_511_02",
+        "en": "The children are playing by the basin.",
+        "cn": "孩子们正在水池边玩耍。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_511_03",
+        "en": "The children played with water in the basin at home.",
+        "cn": "孩子们在家里的盆里玩水。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -13365,6 +20547,20 @@ window.__WORDS_DATA =
         "cn": "一篮苹果。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_512_02",
+        "en": "The children are playing with a basket in the park.",
+        "cn": "孩子们在公园里用一个篮子玩耍。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_512_03",
+        "en": "The children used a basket to collect apples from the tree.",
+        "cn": "孩子们用一个篮子从树上摘苹果。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -13391,6 +20587,20 @@ window.__WORDS_DATA =
         "cn": "洗个热水澡。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_513_02",
+        "en": "The child enjoys taking baths in the colorful bath every evening.",
+        "cn": "孩子每天晚上都喜欢在彩色浴缸里洗澡。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_513_03",
+        "en": "The child took a bath in the bath.",
+        "cn": "孩子在水浴缸里洗澡。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -13417,6 +20627,20 @@ window.__WORDS_DATA =
         "cn": "去睡觉。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_514_02",
+        "en": "The child is playing with his toy under the bed.",
+        "cn": "孩子在床底下玩玩具.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_514_03",
+        "en": "The child went to bed early because it was already dark outside.",
+        "cn": "孩子很早就上床睡觉了，因为外面已经天黑了。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -13442,6 +20666,20 @@ window.__WORDS_DATA =
         "en": "The bee landed on a flower.",
         "cn": "蜜蜂落在花上。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_515_02",
+        "en": "The bee is collecting nectar from the flowers.",
+        "cn": "蜜蜂正在从花朵中采集花蜜。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_515_03",
+        "en": "A bee collected nectar from a flower.",
+        "cn": "一只蜜蜂从一朵花上采集花蜜。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -13469,6 +20707,20 @@ window.__WORDS_DATA =
         "cn": "铃响了。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_516_02",
+        "en": "The bell rings at 8 o'clock every morning.",
+        "cn": "每天早上8点钟，铃会响起。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_516_03",
+        "en": "The school bell rang at 3 o'clock, signaling the end of the first period.",
+        "cn": "学校在3点钟敲响了铃铛，标志着第一节课的结束。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -13495,6 +20747,20 @@ window.__WORDS_DATA =
         "cn": "采野果。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_517_02",
+        "en": "She picked some berries from the forest.",
+        "cn": "她从森林里摘了一些浆果。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_517_03",
+        "en": "She picked some fresh berries in the forest.",
+        "cn": "她在森林里摘了一些新鲜的浆果。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -13521,6 +20787,20 @@ window.__WORDS_DATA =
         "cn": "鸟飞走了。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_518_02",
+        "en": "The bird is singing in the tree.",
+        "cn": "那只鸟在树上唱歌。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_518_03",
+        "en": "The bird sang a beautiful song in the morning.",
+        "cn": "早上，那只鸟唱了一首美妙的歌。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -13547,6 +20827,20 @@ window.__WORDS_DATA =
         "cn": "刀刃很锋利。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_519_02",
+        "en": "The boy sharpened the blade of his knife before starting to cut the vegetables.",
+        "cn": "那个男孩在开始切蔬菜之前，先把刀刃磨锋利了。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_519_03",
+        "en": "The boy picked up a sharp blade from the ground.",
+        "cn": "男孩从地上捡起了一把锋利的刀刃。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -13573,6 +20867,20 @@ window.__WORDS_DATA =
         "cn": "走在木板上。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_520_02",
+        "en": "The children used wooden boards to build a simple bridge.",
+        "cn": "孩子们用木板搭建了一座简单的桥。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_520_03",
+        "en": "The children used wooden boards to build a simple bridge.",
+        "cn": "孩子们用木板搭了一座简单的桥。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -13599,6 +20907,20 @@ window.__WORDS_DATA =
         "cn": "乘船过去。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_521_02",
+        "en": "The children are playing with a small boat in the park.",
+        "cn": "孩子们在公园里用一只小船玩耍。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_521_03",
+        "en": "The children played with a small boat in the park.",
+        "cn": "孩子们在公园里用小船玩耍。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -13625,6 +20947,20 @@ window.__WORDS_DATA =
         "cn": "狗有根骨头。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_522_02",
+        "en": "The dog has a healthy bone in its mouth.",
+        "cn": "狗嘴里有一根健康的骨头.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_522_03",
+        "en": "The dog found a bone in the park and played with it happily.",
+        "cn": "狗在公园里找到了一块骨头，开心地玩了起来。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -13651,6 +20987,20 @@ window.__WORDS_DATA =
         "cn": "读这本书。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_523_02",
+        "en": "She is reading a book.",
+        "cn": "她正在读一本书。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_523_03",
+        "en": "She read a book about animals.",
+        "cn": "她读了一本关于动物的书。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -13677,6 +21027,20 @@ window.__WORDS_DATA =
         "cn": "穿上靴子。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_524_02",
+        "en": "The child put on his boots before going outside.",
+        "cn": "孩子在外面之前穿上了他的靴子。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_524_03",
+        "en": "The child wore a pair of red boots to school.",
+        "cn": "那个孩子穿了一双红色靴子去上学。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -13703,6 +21067,20 @@ window.__WORDS_DATA =
         "cn": "一瓶水。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_525_02",
+        "en": "He is holding a bottle of water.",
+        "cn": "他正在拿着一瓶水。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_525_03",
+        "en": "The child picked up a bottle of water from the table.",
+        "cn": "孩子从桌上拿起了一个水瓶。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -13729,6 +21107,20 @@ window.__WORDS_DATA =
         "cn": "放进盒里。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_526_02",
+        "en": "The child put the toys into the box.",
+        "cn": "孩子把玩具放进了盒子。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_526_03",
+        "en": "The child put the toy in the box.",
+        "cn": "孩子把玩具放进了盒子里.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -13755,6 +21147,20 @@ window.__WORDS_DATA =
         "cn": "那男孩在玩。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_527_02",
+        "en": "The boy is playing with his toys.",
+        "cn": "这个男孩正在玩他的玩具。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_527_03",
+        "en": "The boy played with his toy car in the yard.",
+        "cn": "那个男孩在院子里玩他的玩具车。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -13781,6 +21187,13 @@ window.__WORDS_DATA =
         "cn": "动动脑子。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_528_02",
+        "en": "The brain is very important for thinking and learning.",
+        "cn": "大脑对思考和学习非常重要。",
+        "tense": "simple_present",
+        "level": "elementary"
       }
     ]
   },
@@ -13807,6 +21220,20 @@ window.__WORDS_DATA =
         "cn": "踩刹车。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_529_02",
+        "en": "The car uses brakes to slow down or stop.",
+        "cn": "汽车使用刹车来减速或停车。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_529_03",
+        "en": "The car used its brakes to stop suddenly.",
+        "cn": "汽车使用刹车突然停了下来.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -13833,6 +21260,20 @@ window.__WORDS_DATA =
         "cn": "一根树枝断了。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_530_02",
+        "en": "The children played with the branches of the tree in the park.",
+        "cn": "孩子们在公园里用树枝玩耍。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_530_03",
+        "en": "The children were playing with branches in the park.",
+        "cn": "孩子们在公园里用树枝玩耍。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -13859,6 +21300,20 @@ window.__WORDS_DATA =
         "cn": "用砖砌墙。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_531_02",
+        "en": "The children built a house using bricks.",
+        "cn": "孩子们用砖块建了一座房子。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_531_03",
+        "en": "The children used bricks to build a small house.",
+        "cn": "孩子们用砖头建了一座小房子。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -13885,6 +21340,20 @@ window.__WORDS_DATA =
         "cn": "过桥。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_532_02",
+        "en": "The children are playing under the bridge.",
+        "cn": "孩子们正在桥下玩耍。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_532_03",
+        "en": "The children built a small bridge out of sticks and leaves.",
+        "cn": "孩子们用树枝和树叶搭建了一座小桥。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -13911,6 +21380,20 @@ window.__WORDS_DATA =
         "cn": "用刷子刷漆。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_533_02",
+        "en": "The child uses a brush to paint pictures.",
+        "cn": "孩子用刷子画画。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_533_03",
+        "en": "The child used a brush to paint a picture.",
+        "cn": "孩子用刷子画了一幅画。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -13937,6 +21420,20 @@ window.__WORDS_DATA =
         "cn": "把桶装满。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_534_02",
+        "en": "The child filled a bucket with water.",
+        "cn": "孩子把一桶水装满了。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_534_03",
+        "en": "The children filled a bucket with water from the stream.",
+        "cn": "孩子们从小溪里把水舀到桶里。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -13963,6 +21460,20 @@ window.__WORDS_DATA =
         "cn": "换灯泡。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_535_02",
+        "en": "The bulb in the light socket glows when we turn on the switch.",
+        "cn": "我们打开开关时，灯座里的灯泡就会亮起来。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_535_03",
+        "en": "The farmer planted some bulbs in the garden.",
+        "cn": "农民在花园里种了一些球茎。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -13989,6 +21500,20 @@ window.__WORDS_DATA =
         "cn": "一颗扣子掉了。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_536_02",
+        "en": "The child pressed the button on his shirt to fasten it.",
+        "cn": "孩子按了衬衫上的纽扣来把它扣紧。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_536_03",
+        "en": "The child put on his button and looked very happy.",
+        "cn": "孩子扣上了他的纽扣，看起来非常开心。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -14015,6 +21540,20 @@ window.__WORDS_DATA =
         "cn": "吃块蛋糕。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_537_02",
+        "en": "She baked a cake for her friend's birthday.",
+        "cn": "她为朋友的生日烤了一个蛋糕.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_537_03",
+        "en": "She baked a delicious cake for her friends.",
+        "cn": "她为朋友们烤了一个美味的蛋糕。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -14041,6 +21580,20 @@ window.__WORDS_DATA =
         "cn": "带上相机。",
         "tense": "present_continuous",
         "level": "beginner"
+      },
+      {
+        "id": "word_538_02",
+        "en": "The little boy uses his camera to take pictures of his family.",
+        "cn": "小男孩用他的相机给家人拍照。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_538_03",
+        "en": "The child used a camera to take pictures of his favorite animals.",
+        "cn": "孩子用相机拍下了他最喜欢的动物。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -14067,6 +21620,20 @@ window.__WORDS_DATA =
         "cn": "给我寄张卡。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_539_02",
+        "en": "She is playing with a card.",
+        "cn": "她正在玩一张卡片。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_539_03",
+        "en": "The child played with a colorful card at school.",
+        "cn": "孩子在学校里玩了一张五颜六色的卡片。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -14093,6 +21660,20 @@ window.__WORDS_DATA =
         "cn": "推车。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_540_02",
+        "en": "The child pushed the cart full of toys down the street.",
+        "cn": "孩子推着装满玩具的手推车沿街走去。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_540_03",
+        "en": "The children used a cart to carry all their toys home.",
+        "cn": "孩子们用手推车把所有的玩具都运回了家。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -14119,6 +21700,20 @@ window.__WORDS_DATA =
         "cn": "马拉的车。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_541_02",
+        "en": "In the past, people often traveled by carriage.",
+        "cn": "在过去，人们经常乘坐马车出行。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_541_03",
+        "en": "In the old days, people often traveled by carriage.",
+        "cn": "在旧时候，人们经常乘坐马车旅行。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -14145,6 +21740,20 @@ window.__WORDS_DATA =
         "cn": "猫在睡觉。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_542_02",
+        "en": "The cat is playing with a ball.",
+        "cn": "这只猫正在玩球。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_542_03",
+        "en": "The cat played with a ball of yarn.",
+        "cn": "那只猫在玩一团毛线球。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -14171,6 +21780,20 @@ window.__WORDS_DATA =
         "cn": "一条山脉。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_543_02",
+        "en": "The children played with a long chain in the park.",
+        "cn": "孩子们在公园里用一根长链子玩耍。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_543_03",
+        "en": "The child held a small chain in his hands.",
+        "cn": "孩子手里拿着一根小链子.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -14197,6 +21820,13 @@ window.__WORDS_DATA =
         "cn": "请给我面包和奶酪。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_544_02",
+        "en": "She added some cheese to her sandwich.",
+        "cn": "她在三明治里加了一些奶酪。",
+        "tense": "simple_present",
+        "level": "elementary"
       }
     ]
   },
@@ -14223,6 +21853,20 @@ window.__WORDS_DATA =
         "cn": "胸口疼。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_545_02",
+        "en": "The child opened the chest and found some toys inside.",
+        "cn": "孩子打开了箱子，发现里面有一些玩具。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_545_03",
+        "en": "The boy put his toys into the chest.",
+        "cn": "男孩把他的玩具放进了箱子里。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -14249,6 +21893,13 @@ window.__WORDS_DATA =
         "cn": "他下巴线条很硬。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_546_02",
+        "en": "The boy held his chin while thinking carefully.",
+        "cn": "那个男孩摸着下巴认真思考。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -14275,6 +21926,20 @@ window.__WORDS_DATA =
         "cn": "周日去教堂。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_547_02",
+        "en": "The children went to the church for Sunday service.",
+        "cn": "孩子们去教堂参加周日礼拜。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_547_03",
+        "en": "The children went to the church on Sunday morning to attend the service.",
+        "cn": "孩子们在周日上午去教堂参加了礼拜。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -14301,6 +21966,20 @@ window.__WORDS_DATA =
         "cn": "画个圆。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_548_02",
+        "en": "The child drew a beautiful circle on the paper.",
+        "cn": "孩子在纸上画了一个漂亮的圆。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_548_03",
+        "en": "The children drew circles on the paper with colored pencils.",
+        "cn": "孩子们用彩色铅笔在纸上画圆。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -14327,6 +22006,20 @@ window.__WORDS_DATA =
         "cn": "钟快了。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_549_02",
+        "en": "The clock on the wall shows 8 o'clock in the morning.",
+        "cn": "墙上的时钟显示现在是早上8点。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_549_03",
+        "en": "The clock on the wall showed it was 8 o'clock in the morning.",
+        "cn": "墙上的时钟显示现在是早上8点。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -14353,6 +22046,20 @@ window.__WORDS_DATA =
         "cn": "云挡住了太阳。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_550_02",
+        "en": "The clouds are white and fluffy.",
+        "cn": "这些云朵是白色且蓬松的。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_550_03",
+        "en": "The clouds in the sky were white and fluffy.",
+        "cn": "天空中的云朵又白又蓬松。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -14379,6 +22086,20 @@ window.__WORDS_DATA =
         "cn": "穿上外套。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_551_02",
+        "en": "He is wearing a blue coat.",
+        "cn": "他穿着一件蓝色外套。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_551_03",
+        "en": "The child put on his coat before going out into the cold weather.",
+        "cn": "孩子在外出面对寒冷的天气之前穿上了他的外套。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -14405,6 +22126,20 @@ window.__WORDS_DATA =
         "cn": "他的衣领是白的。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_552_02",
+        "en": "The child adjusted his collar to keep it comfortable.",
+        "cn": "孩子调整了一下衣领，让它更舒服。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_552_03",
+        "en": "The boy put on his collar before going out.",
+        "cn": "男孩在出门前戴上了衣领。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -14431,6 +22166,20 @@ window.__WORDS_DATA =
         "cn": "用梳子。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_553_02",
+        "en": "She uses a comb to tidy her hair every night.",
+        "cn": "她每天晚上都用梳子整理头发。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_553_03",
+        "en": "The child used a comb to brush her hair.",
+        "cn": "孩子用梳子梳头发。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -14457,6 +22206,20 @@ window.__WORDS_DATA =
         "cn": "用绳子绑上。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_554_02",
+        "en": "The child used a cord to tie the books together.",
+        "cn": "孩子用一根绳子把书绑在一起.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_554_03",
+        "en": "The child used a cord to tie the books together.",
+        "cn": "孩子用一根绳子把书本绑在一起。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -14483,6 +22246,20 @@ window.__WORDS_DATA =
         "cn": "母牛产奶。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_555_02",
+        "en": "The cow is grazing in the field.",
+        "cn": "那头母牛正在田野里吃草。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_555_03",
+        "en": "The farmer took care of his cow every day.",
+        "cn": "农夫每天都会照顾他的母牛。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -14509,6 +22286,13 @@ window.__WORDS_DATA =
         "cn": "一杯茶。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_556_02",
+        "en": "She holds a cup of tea in her hands.",
+        "cn": "她手里拿着一杯茶。",
+        "tense": "simple_present",
+        "level": "elementary"
       }
     ]
   },
@@ -14535,6 +22319,20 @@ window.__WORDS_DATA =
         "cn": "拉上窗帘。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_557_02",
+        "en": "The children drew pictures on the curtain.",
+        "cn": "孩子们在窗帘上画了图画。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_557_03",
+        "en": "The little girl pulled back the curtain to let in some light.",
+        "cn": "小女孩拉开窗帘让光线进来。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -14561,6 +22359,20 @@ window.__WORDS_DATA =
         "cn": "坐在垫子上。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_558_02",
+        "en": "The cat is lying on a soft cushion.",
+        "cn": "猫正躺在一块柔软的垫子上.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_558_03",
+        "en": "The child put a cushion under his head while reading.",
+        "cn": "孩子读书时在头下放了一个垫子。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -14587,6 +22399,20 @@ window.__WORDS_DATA =
         "cn": "狗在叫。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_559_02",
+        "en": "The dog is barking.",
+        "cn": "狗在叫。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_559_03",
+        "en": "The dog barked loudly at the stranger.",
+        "cn": "那只狗对着陌生人大声叫。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -14613,6 +22439,20 @@ window.__WORDS_DATA =
         "cn": "关门。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_560_02",
+        "en": "The child opened the door and went outside.",
+        "cn": "孩子打开了门，然后走了出去.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_560_03",
+        "en": "The child opened the door and played outside.",
+        "cn": "孩子打开了门，到外面去玩了。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -14639,6 +22479,20 @@ window.__WORDS_DATA =
         "cn": "下水道堵了。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_561_02",
+        "en": "The drain in the kitchen is clogged, so water is overflowing.",
+        "cn": "厨房的排水管堵塞了，所以水都溢出来了.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_561_03",
+        "en": "The drain in the bathroom is clogged, so water is flowing on the floor.",
+        "cn": "浴室的排水管堵塞了，所以水都流在地板上。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -14665,6 +22519,20 @@ window.__WORDS_DATA =
         "cn": "打开抽屉。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_562_02",
+        "en": "The child opened the drawer and took out his toys.",
+        "cn": "孩子打开了抽屉，拿出了他的玩具。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_562_03",
+        "en": "The child found a colorful toy in the drawer.",
+        "cn": "孩子在一个抽屉里发现了一个彩色的玩具。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -14691,6 +22559,20 @@ window.__WORDS_DATA =
         "cn": "一条红裙子。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_563_02",
+        "en": "She is wearing a beautiful dress to the party.",
+        "cn": "她穿了一条漂亮的连衣裙去参加派对。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_563_03",
+        "en": "She wore a beautiful dress to the party.",
+        "cn": "她穿了一条漂亮的连衣裙去参加派对。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -14717,6 +22599,20 @@ window.__WORDS_DATA =
         "cn": "一滴水。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_564_02",
+        "en": "The water滴 fell slowly from the leaf.",
+        "cn": "水滴从树叶上慢慢滴下来。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_564_03",
+        "en": "A small drop of water fell from the leaf and landed on the ground.",
+        "cn": "一滴水从叶子上掉下来，落在了地上。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -14743,6 +22639,20 @@ window.__WORDS_DATA =
         "cn": "我耳朵疼。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_565_02",
+        "en": "She uses her ears to listen carefully.",
+        "cn": "她用耳朵仔细听。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_565_03",
+        "en": "The child touched his ear gently.",
+        "cn": "那个孩子轻轻地摸了摸他的耳朵。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -14769,6 +22679,20 @@ window.__WORDS_DATA =
         "cn": "煮两个蛋。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_566_02",
+        "en": "The child broke an egg while playing.",
+        "cn": "孩子玩耍时打碎了一个蛋.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_566_03",
+        "en": "She boiled an egg for breakfast.",
+        "cn": "她煮了一个蛋当早餐。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -14795,6 +22719,20 @@ window.__WORDS_DATA =
         "cn": "引擎轰鸣。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_567_02",
+        "en": "The engine of the car is very powerful.",
+        "cn": "汽车的引擎非常强大。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_567_03",
+        "en": "The engine of the car makes a loud noise when it starts.",
+        "cn": "汽车的引擎在启动时会发出很大的声响。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -14821,6 +22759,20 @@ window.__WORDS_DATA =
         "cn": "闭上眼睛。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_568_02",
+        "en": "The child uses his eyes to look at the picture.",
+        "cn": "这个孩子用他的眼睛来看图片。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_568_03",
+        "en": "She uses her eyes to see the world around her.",
+        "cn": "她用眼睛来看清周围的世界。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -14847,6 +22799,20 @@ window.__WORDS_DATA =
         "cn": "洗脸。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_569_02",
+        "en": "The child smiled and showed his face to everyone.",
+        "cn": "孩子笑了，把脸露给大家看。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_569_03",
+        "en": "The child smiled and showed his face to everyone.",
+        "cn": "那个孩子笑了，把脸露给大家看。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -14873,6 +22839,20 @@ window.__WORDS_DATA =
         "cn": "住在农场。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_570_02",
+        "en": "The children went to the farm to help with the planting.",
+        "cn": "孩子们去农场帮忙种植。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_570_03",
+        "en": "The children visited a farm where they learned about animals like cows and chickens.",
+        "cn": "孩子们参观了一个农场，在那里他们了解了牛和鸡等动物。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -14899,6 +22879,20 @@ window.__WORDS_DATA =
         "cn": "轻如鸿毛。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_571_02",
+        "en": "The bird uses its feathers to keep warm.",
+        "cn": "这只鸟用它的羽毛来保持温暖。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_571_03",
+        "en": "The bird has beautiful feathers.",
+        "cn": "这只鸟有漂亮的羽毛。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -14925,6 +22919,20 @@ window.__WORDS_DATA =
         "cn": "用手指点。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_572_02",
+        "en": "She uses her finger to point at the picture.",
+        "cn": "她用手指指着图片。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_572_03",
+        "en": "The little girl used her finger to point at the picture.",
+        "cn": "小女孩用手指指着那幅画。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -14951,6 +22959,20 @@ window.__WORDS_DATA =
         "cn": "钓条鱼。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_573_02",
+        "en": "The child caught a fish in the pond.",
+        "cn": "孩子在水塘里抓到了一条鱼.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_573_03",
+        "en": "The children caught some fish in the lake.",
+        "cn": "孩子们在湖里抓到了一些鱼。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -14977,6 +22999,20 @@ window.__WORDS_DATA =
         "cn": "旗帜高高飘扬。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_574_02",
+        "en": "The children waved their flags excitedly during the parade.",
+        "cn": "孩子们在游行中兴奋地挥动着他们的旗帜。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_574_03",
+        "en": "The children waved flags at the parade.",
+        "cn": "孩子们在游行中挥舞着旗帜。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -15003,6 +23039,20 @@ window.__WORDS_DATA =
         "cn": "坐在地板上。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_575_02",
+        "en": "The floor in the classroom is made of wood.",
+        "cn": "教室里的地板是木制的。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_575_03",
+        "en": "The child fell down on the floor while playing.",
+        "cn": "孩子在玩耍时摔在了地板上。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -15028,6 +23078,20 @@ window.__WORDS_DATA =
         "en": "There's a fly on the window.",
         "cn": "窗上有只苍蝇。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_576_02",
+        "en": "The fly buzzes around the kitchen.",
+        "cn": "那只苍蝇在厨房里嗡嗡飞。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_576_03",
+        "en": "A little fly flew around the kitchen.",
+        "cn": "一只小苍蝇在厨房里飞来飞去。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -15055,6 +23119,20 @@ window.__WORDS_DATA =
         "cn": "我脚疼。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_577_02",
+        "en": "The child is walking with his feet on the ground.",
+        "cn": "这个孩子用脚走路。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_577_03",
+        "en": "The child put her foot on the bench.",
+        "cn": "孩子把脚放在长椅上。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -15081,6 +23159,20 @@ window.__WORDS_DATA =
         "cn": "用叉子。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_578_02",
+        "en": "She used a fork to eat her dinner.",
+        "cn": "她用叉子吃晚餐。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_578_03",
+        "en": "The child used a fork to eat his ice cream.",
+        "cn": "孩子用叉子吃冰淇淋。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -15107,6 +23199,20 @@ window.__WORDS_DATA =
         "cn": "农场养家禽。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_579_02",
+        "en": "The farmer raises fowl on his farm.",
+        "cn": "这位农民在农场上饲养家禽。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_579_03",
+        "en": "The farmer raised many fowl on his farm.",
+        "cn": "农夫在他的农场里养了很多家禽。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -15133,6 +23239,20 @@ window.__WORDS_DATA =
         "cn": "相框。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_580_02",
+        "en": "The teacher used a frame to help the children organize their ideas.",
+        "cn": "老师用了一个框架来帮助孩子们整理他们的想法。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_580_03",
+        "en": "The children built a frame out of wooden sticks to make a little house.",
+        "cn": "孩子们用木棍搭建了一个框架，用来制作一个小房子。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -15159,6 +23279,20 @@ window.__WORDS_DATA =
         "cn": "在花园里干活。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_581_02",
+        "en": "The children are playing in the garden.",
+        "cn": "孩子们正在花园里玩耍。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_581_03",
+        "en": "The children played in the garden with their toys.",
+        "cn": "孩子们在花园里玩玩具。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -15185,6 +23319,20 @@ window.__WORDS_DATA =
         "cn": "那女孩很开心。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_582_02",
+        "en": "The girl is playing with her doll.",
+        "cn": "这个女孩正在玩她的洋娃娃。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_582_03",
+        "en": "A little girl was playing with her doll in the park.",
+        "cn": "一个小女孩在公园里玩她的洋娃娃。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -15211,6 +23359,20 @@ window.__WORDS_DATA =
         "cn": "戴上保暖手套。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_583_02",
+        "en": "She put on a pair of gloves before starting to paint.",
+        "cn": "她在开始画画之前戴了一副手套.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_583_03",
+        "en": "She put on a glove before touching the hot stove.",
+        "cn": "她在触摸热炉子之前戴了一只手套。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -15237,6 +23399,20 @@ window.__WORDS_DATA =
         "cn": "山羊在吃草。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_584_02",
+        "en": "The goat is grazing in the field.",
+        "cn": "那只山羊正在田野里吃草。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_584_03",
+        "en": "The children played with a goat at the farm.",
+        "cn": "孩子们在农场里和一只山羊一起玩耍。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -15263,6 +23439,20 @@ window.__WORDS_DATA =
         "cn": "他放下了枪。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_585_02",
+        "en": "The boy is playing with a gun.",
+        "cn": "这个男孩正在玩一把枪。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_585_03",
+        "en": "The boy found a gun in the garden.",
+        "cn": "男孩在花园里发现了一把枪。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -15289,6 +23479,20 @@ window.__WORDS_DATA =
         "cn": "她头发很长。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_586_02",
+        "en": "The child has long hair.",
+        "cn": "这个孩子有一头长头发.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_586_03",
+        "en": "The boy brushed his hair before going out to play.",
+        "cn": "那个男孩在出去玩之前梳了梳头发。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -15315,6 +23519,20 @@ window.__WORDS_DATA =
         "cn": "用锤子。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_587_02",
+        "en": "The child used a hammer to break the glass.",
+        "cn": "孩子用锤子打破了玻璃。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_587_03",
+        "en": "The child used a hammer to tap the nails into the board.",
+        "cn": "孩子用锤子把钉子敲进木板上.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -15341,6 +23559,20 @@ window.__WORDS_DATA =
         "cn": "把手给我。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_588_02",
+        "en": "She held the book carefully with her hand.",
+        "cn": "她用手小心翼翼地拿着那本书.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_588_03",
+        "en": "The child used his hand to paint pictures.",
+        "cn": "孩子用他的手来画画。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -15367,6 +23599,20 @@ window.__WORDS_DATA =
         "cn": "戴顶遮阳帽。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_589_02",
+        "en": "The boy puts on his hat before going outside.",
+        "cn": "男孩在出门前戴上了帽子.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_589_03",
+        "en": "The boy wore a red hat to the park.",
+        "cn": "那个男孩戴了一顶红色帽子去公园。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -15393,6 +23639,48 @@ window.__WORDS_DATA =
         "cn": "我头疼。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_590_02",
+        "en": "She always puts her head down when she is thinking.",
+        "cn": "她思考的时候总是低着头。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_590_03",
+        "en": "The child raised his head and looked at the teacher.",
+        "cn": "孩子抬起头看着老师。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_590_04",
+        "en": "She always puts her head down when she is thinking.",
+        "cn": "她思考的时候总是低着头。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_590_05",
+        "en": "He kept his head down during the meeting to avoid being noticed.",
+        "cn": "他在会议上一直低着头，以免被注意到。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_590_06",
+        "en": "When we look up at the sky, we can see the head of the sun shining brightly.",
+        "cn": "当我们仰望天空时，可以看到太阳的头部闪耀着光芒。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_590_07",
+        "en": "She placed her head on the pillow and closed her eyes.",
+        "cn": "她把头放在枕头上，闭上了眼睛。",
+        "tense": "simple_present",
+        "level": "elementary"
       }
     ]
   },
@@ -15419,6 +23707,20 @@ window.__WORDS_DATA =
         "cn": "我心跳很快。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_591_02",
+        "en": "My heart beats fast when I see my favorite cartoon.",
+        "cn": "当我看到我最喜欢的动画片时，我的心跳会加快。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_591_03",
+        "en": "Her heart beat fast when she saw the surprise.",
+        "cn": "当她看到这个惊喜时，她的心跳得很快。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -15445,6 +23747,20 @@ window.__WORDS_DATA =
         "cn": "挂到钩子上。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_592_02",
+        "en": "The boy used a hook to catch fish.",
+        "cn": "男孩用钩子抓鱼。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_592_03",
+        "en": "The fisherman used a hook to catch many fish.",
+        "cn": "渔夫用钩子抓到了很多鱼。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -15471,6 +23787,20 @@ window.__WORDS_DATA =
         "cn": "公牛有角。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_593_02",
+        "en": "The bull uses its horn to knock over the fence.",
+        "cn": "公牛用它的角把围栏撞倒。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_593_03",
+        "en": "The elephant raised its horn and trumpeted loudly.",
+        "cn": "大象竖起了它的角，大声地鸣叫。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -15497,6 +23827,20 @@ window.__WORDS_DATA =
         "cn": "骑马。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_594_02",
+        "en": "The horse is running in the field.",
+        "cn": "马正在田野里奔跑。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_594_03",
+        "en": "The child rode a horse at the farm.",
+        "cn": "孩子在农场里骑了一匹马.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -15523,6 +23867,20 @@ window.__WORDS_DATA =
         "cn": "送她去医院。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_595_02",
+        "en": "The child went to the hospital because he felt sick.",
+        "cn": "孩子因为生病去了医院。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_595_03",
+        "en": "The little boy fell and hurt his knee, so his parents took him to the hospital.",
+        "cn": "小男孩摔倒了，弄伤了膝盖，所以他的父母带他去了医院。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -15549,6 +23907,20 @@ window.__WORDS_DATA =
         "cn": "我家房子小。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_596_02",
+        "en": "The house is red.",
+        "cn": "这房子是红色的.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_596_03",
+        "en": "The children played in the house with their toys.",
+        "cn": "孩子们在房子里玩他们的玩具。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -15575,6 +23947,20 @@ window.__WORDS_DATA =
         "cn": "这岛很小。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_597_02",
+        "en": "The island is full of beautiful beaches.",
+        "cn": "这个岛上到处都是美丽的海滩。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_597_03",
+        "en": "The children played on the island.",
+        "cn": "孩子们在岛上玩耍。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -15601,6 +23987,20 @@ window.__WORDS_DATA =
         "cn": "戒指上有颗宝石。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_598_02",
+        "en": "The child found a beautiful jewel in the garden.",
+        "cn": "孩子在学校花园里发现了一颗漂亮的宝石。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_598_03",
+        "en": "The child found a beautiful jewel in the sand while playing by the beach.",
+        "cn": "孩子在海滩边玩耍时，在沙子里发现了一颗美丽的宝石。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -15627,6 +24027,20 @@ window.__WORDS_DATA =
         "cn": "烧上水。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_599_02",
+        "en": "The child poured water from the kettle into the cup.",
+        "cn": "孩子从水壶里把水倒进杯子里。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_599_03",
+        "en": "The child filled the kettle with water.",
+        "cn": "孩子把水壶装满了水.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -15653,6 +24067,13 @@ window.__WORDS_DATA =
         "cn": "我丢了钥匙。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_600_02",
+        "en": "She used the key to open the door.",
+        "cn": "她用钥匙打开了门.",
+        "tense": "simple_present",
+        "level": "elementary"
       }
     ]
   },
@@ -15679,6 +24100,20 @@ window.__WORDS_DATA =
         "cn": "弯膝盖。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_601_02",
+        "en": "The child fell and hurt his knee.",
+        "cn": "孩子摔倒了，弄伤了膝盖。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_601_03",
+        "en": "The boy fell and hurt his knee.",
+        "cn": "那个男孩摔倒了，伤到了膝盖。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -15705,6 +24140,20 @@ window.__WORDS_DATA =
         "cn": "用锋利的刀。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_602_02",
+        "en": "He used a knife to cut the bread.",
+        "cn": "他用刀切面包。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_602_03",
+        "en": "The boy used a knife to cut the bread.",
+        "cn": "那个男孩用刀切面包。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -15731,6 +24180,20 @@ window.__WORDS_DATA =
         "cn": "打个结实的结。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_603_02",
+        "en": "She tied a knot in the rope to secure it.",
+        "cn": "她在绳子上打了个结把它固定住。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_603_03",
+        "en": "The rope was tied into a tight knot.",
+        "cn": "绳子被系成了一个紧紧的结。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -15757,6 +24220,20 @@ window.__WORDS_DATA =
         "cn": "叶子黄了。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_604_02",
+        "en": "The leaves on the tree are green and shiny.",
+        "cn": "树上的叶子是绿油油且闪闪发亮的。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_604_03",
+        "en": "The children collected leaves in the park during the autumn season.",
+        "cn": "孩子们在秋天的时候在公园里收集树叶。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -15783,6 +24260,20 @@ window.__WORDS_DATA =
         "cn": "我腿疼。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_605_02",
+        "en": "The child is learning to walk using his legs.",
+        "cn": "这个孩子正在用他的腿学习走路。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_605_03",
+        "en": "The child ran with his leg hurt.",
+        "cn": "那个孩子腿受伤了还在跑步。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -15809,6 +24300,20 @@ window.__WORDS_DATA =
         "cn": "从图书馆借。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_606_02",
+        "en": "The library has many books for children.",
+        "cn": "图书馆里有很多适合孩子阅读的书。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_606_03",
+        "en": "The library has many books on different subjects.",
+        "cn": "图书馆里有很多关于不同主题的书籍。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -15835,6 +24340,20 @@ window.__WORDS_DATA =
         "cn": "画条直线。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_607_02",
+        "en": "The children drew lines on the paper with a pencil.",
+        "cn": "孩子们用铅笔在纸上画线。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_607_03",
+        "en": "The children drew lines on the paper with colored pencils.",
+        "cn": "孩子们用彩色铅笔在纸上画线。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -15861,6 +24380,20 @@ window.__WORDS_DATA =
         "cn": "咬嘴唇。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_608_02",
+        "en": "The child touched her lip gently.",
+        "cn": "孩子轻轻摸了摸自己的嘴唇。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_608_03",
+        "en": "The child smiled and showed his bright red lips.",
+        "cn": "孩子微笑着，露出了他那红润的嘴唇。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -15887,6 +24420,20 @@ window.__WORDS_DATA =
         "cn": "转动锁。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_609_02",
+        "en": "The teacher locked the door before leaving the classroom.",
+        "cn": "老师在离开教室前锁上了门。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_609_03",
+        "en": "The child put the lock on the door before going out.",
+        "cn": "孩子在出门前给门上了锁.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -15913,6 +24460,20 @@ window.__WORDS_DATA =
         "cn": "看地图。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_610_02",
+        "en": "The children used a map to find their way to the park.",
+        "cn": "孩子们用地图找到了去公园的路。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_610_03",
+        "en": "The children used a map to find their way to the park.",
+        "cn": "孩子们用地图找到了去公园的路。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -15939,6 +24500,13 @@ window.__WORDS_DATA =
         "cn": "点根火柴。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_611_02",
+        "en": "He used a match to light the candle.",
+        "cn": "他用火柴点燃了蜡烛。",
+        "tense": "simple_present",
+        "level": "elementary"
       }
     ]
   },
@@ -15965,6 +24533,20 @@ window.__WORDS_DATA =
         "cn": "猴子爬上去了。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_612_02",
+        "en": "The monkey jumped onto the tree.",
+        "cn": "那只猴子跳到了树上.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_612_03",
+        "en": "The monkey climbed the tree quickly.",
+        "cn": "那只猴子很快就爬上了树。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -15991,6 +24573,20 @@ window.__WORDS_DATA =
         "cn": "月亮很亮。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_613_02",
+        "en": "The moon shines brightly at night.",
+        "cn": "月亮在夜晚明亮地照耀着。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_613_03",
+        "en": "The children looked at the bright moon in the night sky.",
+        "cn": "孩子们在夜空中注视着明亮的月亮。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -16017,6 +24613,20 @@ window.__WORDS_DATA =
         "cn": "张开嘴。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_614_02",
+        "en": "The child uses his mouth to eat food.",
+        "cn": "这个孩子用嘴来吃饭。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_614_03",
+        "en": "The child opened his mouth and smiled.",
+        "cn": "孩子张开嘴笑了起来.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -16043,6 +24653,20 @@ window.__WORDS_DATA =
         "cn": "练肌肉。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_615_02",
+        "en": "The children exercised their muscles by playing tag",
+        "cn": "孩子们通过玩捉人游戏锻炼了他们的肌肉",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_615_03",
+        "en": "The boy exercised his muscles by doing push-ups.",
+        "cn": "这个男孩通过做俯卧撑来锻炼他的肌肉。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -16069,6 +24693,20 @@ window.__WORDS_DATA =
         "cn": "锤钉子。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_616_02",
+        "en": "She used a nail to hang the picture on the wall.",
+        "cn": "她用了一颗钉子把画挂在墙上。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_616_03",
+        "en": "The child used a nail to hang the picture on the wall.",
+        "cn": "孩子用一根钉子把画挂在墙上。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -16095,6 +24733,20 @@ window.__WORDS_DATA =
         "cn": "我脖子疼。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_617_02",
+        "en": "The child holds his neck tightly while swimming.",
+        "cn": "孩子在游泳时紧紧地抓住自己的脖子。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_617_03",
+        "en": "The boy rubbed his neck after running outside in the cold wind.",
+        "cn": "男孩在寒风中在外面跑了一圈后，揉了揉脖子。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -16121,6 +24773,20 @@ window.__WORDS_DATA =
         "cn": "穿针引线。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_618_02",
+        "en": "She used a needle to sew the button back on the shirt.",
+        "cn": "她用针把纽扣缝回衬衫上。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_618_03",
+        "en": "The child used a needle to thread the thread into the hole.",
+        "cn": "孩子用针把线穿进孔里。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -16147,6 +24813,20 @@ window.__WORDS_DATA =
         "cn": "他有钢铁般的神经。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_619_02",
+        "en": "The boy touched his nerve and it hurt a lot.",
+        "cn": "那个男孩碰到了他的神经，疼得很厉害。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_619_03",
+        "en": "The dog wagged its tail nervously when it saw the stranger.",
+        "cn": "狗看到陌生人时，紧张地摇着尾巴。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -16173,6 +24853,20 @@ window.__WORDS_DATA =
         "cn": "用网抓鱼。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_620_02",
+        "en": "The children are playing on the net.",
+        "cn": "孩子们正在网上玩耍。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_620_03",
+        "en": "The children played online games on the net.",
+        "cn": "孩子们在网络上玩网络游戏。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -16199,6 +24893,20 @@ window.__WORDS_DATA =
         "cn": "擤鼻涕。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_621_02",
+        "en": "The baby touched his nose with his finger.",
+        "cn": "宝宝用手指碰了碰他的鼻子.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_621_03",
+        "en": "The boy rubbed his nose when it started to itch.",
+        "cn": "那个男孩觉得鼻子痒，就揉了揉。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -16225,6 +24933,20 @@ window.__WORDS_DATA =
         "cn": "敲开坚果。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_622_02",
+        "en": "The child found a nut in the garden.",
+        "cn": "孩子们在花园里发现了一颗坚果。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_622_03",
+        "en": "The boy found a nut in the park and picked it up.",
+        "cn": "男孩在公园里发现了一颗坚果，把它捡了起来.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -16251,6 +24973,20 @@ window.__WORDS_DATA =
         "cn": "去办公室。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_623_02",
+        "en": "The children are playing in the office.",
+        "cn": "孩子们正在办公室里玩耍。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_623_03",
+        "en": "The children were playing in the office during recess.",
+        "cn": "孩子们在课间休息时在办公室里玩耍。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -16277,6 +25013,20 @@ window.__WORDS_DATA =
         "cn": "剥橙子。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_624_02",
+        "en": "She picked some oranges from the tree.",
+        "cn": "她从树上摘了一些橙子。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_624_03",
+        "en": "She picked some oranges from the tree.",
+        "cn": "她从树上摘了一些橙子。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -16303,6 +25053,20 @@ window.__WORDS_DATA =
         "cn": "放进烤箱。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_625_02",
+        "en": "She baked a cake in the oven.",
+        "cn": "她在烤箱里烤了一个蛋糕.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_625_03",
+        "en": "She baked cookies in the oven.",
+        "cn": "她在烤箱里烤了饼干。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -16329,6 +25093,20 @@ window.__WORDS_DATA =
         "cn": "你的包裹到了。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_626_02",
+        "en": "The child opened the parcel and found a new toy inside.",
+        "cn": "孩子打开了包裹，发现里面有一个新玩具。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_626_03",
+        "en": "The child opened his parcel on Christmas morning.",
+        "cn": "孩子在新年早上打开了他的包裹。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -16355,6 +25133,20 @@ window.__WORDS_DATA =
         "cn": "用笔写。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_627_02",
+        "en": "She writes her homework carefully using a pen.",
+        "cn": "她用钢笔仔细地写作业。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_627_03",
+        "en": "She used a pen to write her homework.",
+        "cn": "她用钢笔写作业。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -16381,6 +25173,20 @@ window.__WORDS_DATA =
         "cn": "削铅笔。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_628_02",
+        "en": "She used a pencil to draw a picture.",
+        "cn": "她用铅笔画了一幅画。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_628_03",
+        "en": "The child used a pencil to draw a picture.",
+        "cn": "孩子用铅笔画了一幅画。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -16407,6 +25213,27 @@ window.__WORDS_DATA =
         "cn": "一幅美丽的画。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_629_02",
+        "en": "She drew a beautiful picture of a sunset.",
+        "cn": "她画了一幅美丽的日落图画。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_629_03",
+        "en": "He collected pictures of famous landmarks around the world.",
+        "cn": "他收集了世界各地著名地标的照片。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_629_04",
+        "en": "We looked at pictures of ancient civilizations in class.",
+        "cn": "我们在课堂上看了关于古代文明的图片。",
+        "tense": "simple_present",
+        "level": "elementary"
       }
     ]
   },
@@ -16432,6 +25259,20 @@ window.__WORDS_DATA =
         "en": "The pig is in the mud.",
         "cn": "猪在泥里。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_630_02",
+        "en": "The pig is eating food.",
+        "cn": "这只猪正在吃东西。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_630_03",
+        "en": "The pig rolled in the mud to get dirty.",
+        "cn": "那头猪在泥里打滚弄得自己浑身都是泥。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -16459,6 +25300,20 @@ window.__WORDS_DATA =
         "cn": "把它别在板上。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_631_02",
+        "en": "She used a pin to attach the note to her backpack.",
+        "cn": "她用了一枚别针把便条固定在背包上。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_631_03",
+        "en": "She used a pin to hold the papers together.",
+        "cn": "她用了一枚别针把文件固定在一起。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -16485,6 +25340,20 @@ window.__WORDS_DATA =
         "cn": "管子漏了。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_632_02",
+        "en": "The child held a pipe in his hand and blew bubbles.",
+        "cn": "孩子手里拿着一根管子，吹着泡泡。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_632_03",
+        "en": "The children played with a long pipe in the park.",
+        "cn": "孩子们在公园里玩了一根长管子。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -16511,6 +25380,20 @@ window.__WORDS_DATA =
         "cn": "飞机起飞了。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_633_02",
+        "en": "The plane is flying high in the sky.",
+        "cn": "飞机正在高空中飞翔。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_633_03",
+        "en": "The plane took off smoothly from the runway.",
+        "cn": "飞机顺利地从跑道起飞了.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -16537,6 +25420,20 @@ window.__WORDS_DATA =
         "cn": "把盘子刷干净。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_634_02",
+        "en": "The child used a plate to eat his food.",
+        "cn": "孩子用一个盘子来吃饭。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_634_03",
+        "en": "The child picked up the plate and brought it to the table.",
+        "cn": "孩子拿起盘子，把它拿到了桌子上。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -16563,6 +25460,20 @@ window.__WORDS_DATA =
         "cn": "驾驶犁。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_635_02",
+        "en": "The farmer used a plough to prepare the field for planting.",
+        "cn": "农民用犁把田地耕好，准备播种。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_635_03",
+        "en": "The farmer used a plough to prepare the field for planting.",
+        "cn": "农夫用犁把田地整理好，准备播种。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -16589,6 +25500,27 @@ window.__WORDS_DATA =
         "cn": "在我口袋里。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_636_02",
+        "en": "She always carries a small pocketbook in her pocket.",
+        "cn": "她总是把一个小钱包放在口袋里。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_636_03",
+        "en": "The children are learning how to put their toys in their pockets.",
+        "cn": "孩子们正在学习如何把玩具放进口袋里。",
+        "tense": "present_continuous",
+        "level": "elementary"
+      },
+      {
+        "id": "word_636_04",
+        "en": "He has a habit of keeping his keys in his pocket.",
+        "cn": "他有把钥匙放在口袋里的习惯。",
+        "tense": "present_perfect",
+        "level": "elementary"
       }
     ]
   },
@@ -16615,6 +25547,20 @@ window.__WORDS_DATA =
         "cn": "一壶茶。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_637_02",
+        "en": "He used a pot to cook soup.",
+        "cn": "他用一个罐子来煮汤。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_637_03",
+        "en": "The children used a pot to cook some vegetables for dinner.",
+        "cn": "孩子们用一个罐子煮了一些蔬菜当晚餐。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -16641,6 +25587,20 @@ window.__WORDS_DATA =
         "cn": "把土豆压碎。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_638_02",
+        "en": "The children are eating potatoes for dinner.",
+        "cn": "孩子们正在吃土豆当晚餐。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_638_03",
+        "en": "The children enjoyed eating potatoes with their sandwiches.",
+        "cn": "孩子们很喜欢吃配在三明治里的土豆。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -16667,6 +25627,20 @@ window.__WORDS_DATA =
         "cn": "他进了监狱。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_639_02",
+        "en": "The boy was sent to prison for breaking the law.",
+        "cn": "这个男孩因为违法被送进了监狱。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_639_03",
+        "en": "The little boy dreamed about playing outside instead of going to prison.",
+        "cn": "那个小男孩梦想着在外面玩耍，而不是去监狱。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -16693,6 +25667,20 @@ window.__WORDS_DATA =
         "cn": "用泵。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_640_02",
+        "en": "The children used a pump to fill the water container.",
+        "cn": "孩子们用泵把水容器装满水。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_640_03",
+        "en": "The children used a pump to fill the water bottle.",
+        "cn": "孩子们用泵把水灌进水瓶里。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -16719,6 +25707,20 @@ window.__WORDS_DATA =
         "cn": "火车出轨了。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_641_02",
+        "en": "The train runs smoothly on the rail.",
+        "cn": "火车在铁轨上平稳地运行。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_641_03",
+        "en": "The children played on the rail near the train station.",
+        "cn": "孩子们在火车站附近的铁轨上玩耍。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -16771,6 +25773,20 @@ window.__WORDS_DATA =
         "cn": "留好收据。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_643_02",
+        "en": "The teacher gave me a receipt for my homework.",
+        "cn": "老师给了我一份作业的收据。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_643_03",
+        "en": "The teacher gave me a receipt for my homework.",
+        "cn": "老师给了我一份作业的收据。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -16797,6 +25813,20 @@ window.__WORDS_DATA =
         "cn": "她戴着金戒指。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_644_02",
+        "en": "She wears a beautiful ring on her finger.",
+        "cn": "她手指上戴着一枚漂亮的戒指。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_644_03",
+        "en": "She wore a beautiful ring on her finger.",
+        "cn": "她手指上戴着一枚漂亮的戒指。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -16823,6 +25853,20 @@ window.__WORDS_DATA =
         "cn": "一根鱼竿。",
         "tense": "present_continuous",
         "level": "beginner"
+      },
+      {
+        "id": "word_645_02",
+        "en": "The child is holding a rod and balancing it at a level elementary level.",
+        "cn": "这个孩子正在拿着一根杆子，在初级水平上保持平衡。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_645_03",
+        "en": "The child used a rod to help him balance while standing on one leg.",
+        "cn": "孩子用一根杆子在单腿站立时帮助保持平衡。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -16849,6 +25893,20 @@ window.__WORDS_DATA =
         "cn": "屋顶是红色的。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_646_02",
+        "en": "The roof of the house is red.",
+        "cn": "房子的屋顶是红色的.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_646_03",
+        "en": "The roof of the little house was painted blue.",
+        "cn": "小房子的屋顶被涂成了蓝色。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -16875,6 +25933,20 @@ window.__WORDS_DATA =
         "cn": "树根扎得深。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_647_02",
+        "en": "The tree has deep roots.",
+        "cn": "这棵树有很深的根。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_647_03",
+        "en": "The root of the tree is very strong.",
+        "cn": "这棵树的根非常结实。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -16901,6 +25973,20 @@ window.__WORDS_DATA =
         "cn": "扬帆。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_648_02",
+        "en": "The children are learning to sail on the small boat.",
+        "cn": "孩子们正在小船上学习划船。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_648_03",
+        "en": "The children learned how to sail a small boat at the beach.",
+        "cn": "孩子们在海滩上学会了如何驾驶小船。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -16927,6 +26013,20 @@ window.__WORDS_DATA =
         "cn": "去上学。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_649_02",
+        "en": "The children at the elementary school are learning about the weather.",
+        "cn": "小学里的孩子们正在学习关于天气的知识。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_649_03",
+        "en": "At the elementary school, the children were learning about fractions.",
+        "cn": "在小学里，孩子们正在学习分数。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -16953,6 +26053,20 @@ window.__WORDS_DATA =
         "cn": "用剪刀。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_650_02",
+        "en": "The child used scissors to cut out paper shapes.",
+        "cn": "孩子用剪刀剪出了纸形状。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_650_03",
+        "en": "Tom used scissors to cut the paper into pieces.",
+        "cn": "汤姆用剪刀把纸剪成了几片。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -16979,6 +26093,20 @@ window.__WORDS_DATA =
         "cn": "拧紧螺丝。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_651_02",
+        "en": "He used a screw to fix the broken chair.",
+        "cn": "他用一颗螺丝修好了那把坏掉的椅子。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_651_03",
+        "en": "He used a screw to fix the broken chair.",
+        "cn": "他用一颗螺丝修好了坏掉的椅子。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -17005,6 +26133,20 @@ window.__WORDS_DATA =
         "cn": "播下种子。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_652_02",
+        "en": "The farmer planted seeds in the field.",
+        "cn": "农民在田里种下了种子。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_652_03",
+        "en": "The farmer planted seeds in the field.",
+        "cn": "农民在田里种下了种子。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -17030,6 +26172,20 @@ window.__WORDS_DATA =
         "en": "The sheep graze in the field.",
         "cn": "羊在田里吃草。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_653_02",
+        "en": "The sheep are grazing in the field.",
+        "cn": "羊正在田里吃草。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_653_03",
+        "en": "The girl herded the sheep in the field.",
+        "cn": "那个女孩在田野里赶羊。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -17057,6 +26213,20 @@ window.__WORDS_DATA =
         "cn": "放架子上。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_654_02",
+        "en": "The books are neatly arranged on the shelf.",
+        "cn": "这些书整齐地摆放在架子上.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_654_03",
+        "en": "The children placed the books neatly on the shelf.",
+        "cn": "孩子们把书整齐地放在架子上。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -17083,6 +26253,13 @@ window.__WORDS_DATA =
         "cn": "轮船开走了。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_655_02",
+        "en": "The ship sails across the ocean.",
+        "cn": "那艘轮船在海洋上航行。",
+        "tense": "simple_present",
+        "level": "elementary"
       }
     ]
   },
@@ -17109,6 +26286,20 @@ window.__WORDS_DATA =
         "cn": "他穿着白衬衫。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_656_02",
+        "en": "She is wearing a blue shirt.",
+        "cn": "她穿着一件蓝色衬衫。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_656_03",
+        "en": "He wore a blue shirt to school today.",
+        "cn": "他今天穿了一件蓝色衬衫去上学。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -17135,6 +26326,20 @@ window.__WORDS_DATA =
         "cn": "系鞋带。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_657_02",
+        "en": "She is wearing a pair of red shoes.",
+        "cn": "她正在穿一双红色的鞋。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_657_03",
+        "en": "The child put on his shoe before going outside.",
+        "cn": "孩子在外出之前穿上了他的鞋子.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -17161,6 +26366,20 @@ window.__WORDS_DATA =
         "cn": "她皮肤很滑。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_658_02",
+        "en": "The child washed his skin carefully with soap and water.",
+        "cn": "孩子用肥皂和水仔细清洗了他的皮肤。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_658_03",
+        "en": "The child rubbed his skin gently after washing his face.",
+        "cn": "孩子洗完脸后轻轻揉了揉自己的皮肤。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -17187,6 +26406,20 @@ window.__WORDS_DATA =
         "cn": "一条长裙。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_659_02",
+        "en": "The girl wore a pink skirt to school.",
+        "cn": "那个女孩穿着一条粉色裙子去上学。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_659_03",
+        "en": "She wore a blue skirt to the party.",
+        "cn": "她穿了一条蓝色裙子去参加派对。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -17213,6 +26446,20 @@ window.__WORDS_DATA =
         "cn": "草里有蛇。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_660_02",
+        "en": "A snake slithered across the path in the sunlight.",
+        "cn": "一条蛇在阳光下蜿蜒滑过小路。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_660_03",
+        "en": "Children are often afraid of snakes.",
+        "cn": "孩子们通常会害怕蛇。",
+        "tense": "simple_present",
+        "level": "elementary"
       }
     ]
   },
@@ -17239,6 +26486,20 @@ window.__WORDS_DATA =
         "cn": "穿干净袜子。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_661_02",
+        "en": "She put on her socks before going to bed.",
+        "cn": "她在睡觉前穿上了袜子.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_661_03",
+        "en": "She put on a pair of red socks before going out.",
+        "cn": "她出门前穿了一双红色袜子。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -17265,6 +26526,20 @@ window.__WORDS_DATA =
         "cn": "用铲挖。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_662_02",
+        "en": "He used a spade to dig a hole in the garden.",
+        "cn": "他用铲子在花园里挖了一个洞.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_662_03",
+        "en": "The child used a spade to dig a small hole in the garden.",
+        "cn": "孩子用铲子在花园里挖了一个小洞。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -17291,6 +26566,20 @@ window.__WORDS_DATA =
         "cn": "用海绵擦。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_663_02",
+        "en": "The sponge soaks up all the water quickly.",
+        "cn": "海绵很快就把水吸干了.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_663_03",
+        "en": "The sponge soaks up all the water quickly.",
+        "cn": "海绵很快就吸干了所有的水。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -17317,6 +26606,20 @@ window.__WORDS_DATA =
         "cn": "喝汤用勺。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_664_02",
+        "en": "She used a spoon to eat her soup.",
+        "cn": "她用勺子喝汤。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_664_03",
+        "en": "She used a spoon to eat her soup.",
+        "cn": "她用勺子喝汤。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -17343,6 +26646,20 @@ window.__WORDS_DATA =
         "cn": "弹簧坏了。",
         "tense": "present_continuous",
         "level": "beginner"
+      },
+      {
+        "id": "word_665_02",
+        "en": "The spring in this toy is very flexible.",
+        "cn": "这个玩具里的弹簧非常灵活。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_665_03",
+        "en": "In spring, the spring comes back to life.",
+        "cn": "在春天，弹簧重新焕发生机。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -17369,6 +26686,20 @@ window.__WORDS_DATA =
         "cn": "画个正方形。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_666_02",
+        "en": "The child drew a simple square on the paper.",
+        "cn": "孩子在纸上画了一个简单的正方形。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_666_03",
+        "en": "The child drew a square on the paper.",
+        "cn": "孩子们在纸上画了一个正方形。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -17395,6 +26726,13 @@ window.__WORDS_DATA =
         "cn": "买张邮票。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_667_02",
+        "en": "The child collected stamps from around the world.",
+        "cn": "这个孩子收集了来自世界各地的邮票。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -17421,6 +26759,20 @@ window.__WORDS_DATA =
         "cn": "星光灿烂。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_668_02",
+        "en": "The little girl looked up at the stars and smiled.",
+        "cn": "小女孩抬头望着星星，笑了起来.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_668_03",
+        "en": "The children looked up at the sky and saw many stars shining brightly.",
+        "cn": "孩子们抬头望向天空，看到许多星星闪闪发光。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -17447,6 +26799,20 @@ window.__WORDS_DATA =
         "cn": "在车站见。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_669_02",
+        "en": "The children waited at the station for their parents.",
+        "cn": "孩子们在车站等待他们的父母。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_669_03",
+        "en": "The children waited at the station for their parents to arrive.",
+        "cn": "孩子们在车站等待父母到来。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -17473,6 +26839,20 @@ window.__WORDS_DATA =
         "cn": "花茎很长。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_670_02",
+        "en": "The stem of the plant provides nourishment for the rest of the body.",
+        "cn": "植物的茎为植物的其他部分提供养分。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_670_03",
+        "en": "The stem of the plant is very strong.",
+        "cn": "这株植物的茎非常结实。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -17499,6 +26879,20 @@ window.__WORDS_DATA =
         "cn": "捡起棍子。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_671_02",
+        "en": "The boy used a stick to hit the ball.",
+        "cn": "男孩用一根棍子击打球。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_671_03",
+        "en": "The boy used a stick to hit the ball.",
+        "cn": "男孩用棍子打了球。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -17525,6 +26919,20 @@ window.__WORDS_DATA =
         "cn": "圣诞袜。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_672_02",
+        "en": "She is wearing a pair of red stocking under her dress.",
+        "cn": "她穿着一条红色长袜在裙子下面。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_672_03",
+        "en": "She put on her red stocking before going to bed.",
+        "cn": "她睡前穿上了她红色的长袜。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -17551,6 +26959,20 @@ window.__WORDS_DATA =
         "cn": "我肚子疼。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_673_02",
+        "en": "The child eats an apple for breakfast and feels full in his stomach.",
+        "cn": "这个孩子早餐吃了一个苹果，他的胃感到很饱。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_673_03",
+        "en": "The child felt pain in his stomach after eating too much candy.",
+        "cn": "孩子吃了太多糖果后，肚子感到疼痛。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -17577,6 +26999,20 @@ window.__WORDS_DATA =
         "cn": "去商店。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_674_02",
+        "en": "The kids bought some toys at the store.",
+        "cn": "孩子们在商店里买了一些玩具.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_674_03",
+        "en": "The children went to the store to buy some toys.",
+        "cn": "孩子们去商店买了一些玩具。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -17603,6 +27039,20 @@ window.__WORDS_DATA =
         "cn": "沿街走。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_675_02",
+        "en": "The children played happily on the street after school.",
+        "cn": "放学后，孩子们在街道上开心地玩耍。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_675_03",
+        "en": "The children played on the street after school.",
+        "cn": "孩子们放学后在街道上玩耍。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -17629,6 +27079,20 @@ window.__WORDS_DATA =
         "cn": "太阳很刺眼。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_676_02",
+        "en": "The sun shines brightly in the sky.",
+        "cn": "太阳在天空中闪耀着明亮的光。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_676_03",
+        "en": "The sun shone brightly in the sky today.",
+        "cn": "今天，太阳在天空中闪耀着明亮的光。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -17655,6 +27119,20 @@ window.__WORDS_DATA =
         "cn": "摆桌子。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_677_02",
+        "en": "The children are playing around the table.",
+        "cn": "孩子们正在桌子周围玩耍。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_677_03",
+        "en": "The children sat around the table and played games together.",
+        "cn": "孩子们围坐在桌子旁一起玩游戏。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -17681,6 +27159,20 @@ window.__WORDS_DATA =
         "cn": "狗摇尾巴。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_678_02",
+        "en": "The dog wagged its tail happily.",
+        "cn": "狗开心地摇着尾巴。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_678_03",
+        "en": "The dog wagged its tail happily when it saw its owner.",
+        "cn": "狗看到主人时高兴地摇着尾巴。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -17707,6 +27199,20 @@ window.__WORDS_DATA =
         "cn": "拉一下线。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_679_02",
+        "en": "The needle moves smoothly along the thread.",
+        "cn": "针沿着线顺畅地移动。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_679_03",
+        "en": "The thread was very long and thick.",
+        "cn": "那条线又长又粗。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -17733,6 +27239,20 @@ window.__WORDS_DATA =
         "cn": "我嗓子疼。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_680_02",
+        "en": "The child wiped his throat with a tissue after drinking milk.",
+        "cn": "孩子喝完牛奶后用纸巾擦了擦喉咙。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_680_03",
+        "en": "He wiped his throat with a tissue after eating too much candy.",
+        "cn": "他吃了太多糖果后，用纸巾擦了擦喉咙。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -17759,6 +27279,13 @@ window.__WORDS_DATA =
         "cn": "赞一个!",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_681_02",
+        "en": "He used his thumb to push the button.",
+        "cn": "他用拇指按下了按钮。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -17785,6 +27312,20 @@ window.__WORDS_DATA =
         "cn": "出示票。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_682_02",
+        "en": "She bought a ticket for the concert.",
+        "cn": "她买了一张音乐会的票。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_682_03",
+        "en": "The child bought a ticket for the toy store.",
+        "cn": "这个孩子买了一张去玩具店的票。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -17811,6 +27352,20 @@ window.__WORDS_DATA =
         "cn": "碰到脚趾。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_683_02",
+        "en": "She rubbed her toe against the edge of the table.",
+        "cn": "她用脚趾尖蹭桌子边缘。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_683_03",
+        "en": "She rubbed her toe against the rough table leg.",
+        "cn": "她用脚趾蹭了蹭粗糙的桌腿。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -17837,6 +27392,20 @@ window.__WORDS_DATA =
         "cn": "伸出舌头。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_684_02",
+        "en": "The baby uses his tongue to taste the food.",
+        "cn": "宝宝用舌头品尝食物。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_684_03",
+        "en": "The child used his tongue to poke his brother.",
+        "cn": "那个孩子用舌头去戳他的弟弟。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -17863,6 +27432,20 @@ window.__WORDS_DATA =
         "cn": "刷牙。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_685_02",
+        "en": "The child brushes his teeth twice a day.",
+        "cn": "这个孩子每天刷两次牙。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_685_03",
+        "en": "The dentist checked my teeth and said they were healthy.",
+        "cn": "牙医检查了我的牙齿，说它们很健康。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -17889,6 +27472,20 @@ window.__WORDS_DATA =
         "cn": "一个小镇。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_686_02",
+        "en": "The children in the elementary school live in a small town.",
+        "cn": "这些小学的孩子们住在一个小城镇里。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_686_03",
+        "en": "The children in the elementary school went on a field trip to the nearby town.",
+        "cn": "小学里的孩子们去附近的城镇进行了实地考察。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -17915,6 +27512,20 @@ window.__WORDS_DATA =
         "cn": "赶火车。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_687_02",
+        "en": "The train is coming into the station.",
+        "cn": "火车正在进站。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_687_03",
+        "en": "The children enjoyed riding the train at the amusement park.",
+        "cn": "孩子们在游乐园里很喜欢乘坐火车。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -17941,6 +27552,27 @@ window.__WORDS_DATA =
         "cn": "把托盘端来。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_688_02",
+        "en": "She placed the books on a tray before bringing them to the classroom.",
+        "cn": "她把书放在托盘上，然后带到了教室。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_688_03",
+        "en": "He is using a tray to carry the dishes to the table.",
+        "cn": "他正用托盘把盘子端到桌子上。",
+        "tense": "present_continuous",
+        "level": "elementary"
+      },
+      {
+        "id": "word_688_04",
+        "en": "The waiter brought the food on a silver tray.",
+        "cn": "服务员用银托盘端来了食物。",
+        "tense": "present_perfect",
+        "level": "elementary"
       }
     ]
   },
@@ -17967,6 +27599,20 @@ window.__WORDS_DATA =
         "cn": "爬树。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_689_02",
+        "en": "The tree in our garden is very tall.",
+        "cn": "我们花园里的那棵树非常高。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_689_03",
+        "en": "The children planted a tree in their backyard.",
+        "cn": "孩子们在后院种了一棵树.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -17993,6 +27639,20 @@ window.__WORDS_DATA =
         "cn": "穿黑裤子。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_690_02",
+        "en": "He is wearing a pair of blue trousers.",
+        "cn": "他正在穿一条蓝色的裤子.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_690_03",
+        "en": "He wore a pair of blue trousers to school.",
+        "cn": "他穿了一条蓝色裤子去上学。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -18019,6 +27679,20 @@ window.__WORDS_DATA =
         "cn": "打开伞。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_691_02",
+        "en": "The children are playing under the umbrella during the rain.",
+        "cn": "孩子们在雨天里打着伞玩耍。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_691_03",
+        "en": "The children played outdoors under an umbrella to protect themselves from the rain.",
+        "cn": "孩子们在伞下户外玩耍，以防被雨淋到。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -18045,6 +27719,20 @@ window.__WORDS_DATA =
         "cn": "挂在墙上。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_692_02",
+        "en": "The children are building a wall out of blocks.",
+        "cn": "孩子们正在用积木搭建一堵墙。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_692_03",
+        "en": "The children built a small wall out of blocks to separate their play area from the garden.",
+        "cn": "孩子们用积木搭了一堵小墙，把他们的玩耍区域和花园隔开。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -18071,6 +27759,20 @@ window.__WORDS_DATA =
         "cn": "我表快了。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_693_02",
+        "en": "She watches her favorite TV show every evening.",
+        "cn": "她每天晚上都会看她最喜欢的电视节目。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_693_03",
+        "en": "He wore a watch to keep track of time.",
+        "cn": "他戴了一块手表来记录时间。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -18097,6 +27799,20 @@ window.__WORDS_DATA =
         "cn": "轮子在转。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_694_02",
+        "en": "The child pushed the toy car with its wheels.",
+        "cn": "孩子推着装有轮子的玩具车。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_694_03",
+        "en": "The children were playing with a toy car with wheels. They pushed it around the floor.",
+        "cn": "孩子们在玩一辆有轮子的玩具车。他们把它推来推去。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -18123,6 +27839,20 @@ window.__WORDS_DATA =
         "cn": "挥鞭子。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_695_02",
+        "en": "The boy used a whip to drive the horse faster.",
+        "cn": "男孩用鞭子驱使马跑得更快。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_695_03",
+        "en": "The child was scared when he saw the whip in the hand of the teacher.",
+        "cn": "孩子看到老师手里拿着鞭子，非常害怕。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -18149,6 +27879,20 @@ window.__WORDS_DATA =
         "cn": "吹哨子。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_696_02",
+        "en": "The child blew a whistle to get his friend's attention.",
+        "cn": "孩子吹哨子来引起朋友的注意。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_696_03",
+        "en": "The children played with a whistle in the park.",
+        "cn": "孩子们在公园里用哨子玩耍。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -18175,6 +27919,20 @@ window.__WORDS_DATA =
         "cn": "开窗。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_697_02",
+        "en": "The child looks through the window to see the outside world.",
+        "cn": "孩子透过窗户看向外面的世界。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_697_03",
+        "en": "The children looked through the window to see the outside world.",
+        "cn": "孩子们透过窗户看着外面的世界。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -18201,6 +27959,20 @@ window.__WORDS_DATA =
         "cn": "鸟展开翅膀。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_698_02",
+        "en": "The bird uses its wings to fly.",
+        "cn": "这只鸟用它的翅膀飞翔。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_698_03",
+        "en": "The bird used its wings to fly high in the sky.",
+        "cn": "这只鸟用它的翅膀飞向高高的天空。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -18227,6 +27999,20 @@ window.__WORDS_DATA =
         "cn": "拧一下金属丝。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_699_02",
+        "en": "The toy is made of thin wire.",
+        "cn": "这个玩具是由细金属丝制成的.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_699_03",
+        "en": "The boy used a wire to bend a small branch into a shape he liked.",
+        "cn": "男孩用一根金属丝把小树枝弯成他喜欢的形状。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -18253,6 +28039,20 @@ window.__WORDS_DATA =
         "cn": "苹果里有虫。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_700_02",
+        "en": "The child found a tiny worm in the dirt.",
+        "cn": "孩子在大土里发现了一只小虫子.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_700_03",
+        "en": "The child found a tiny worm in the dirt while playing outside.",
+        "cn": "孩子在外面玩耍时，在泥土里发现了一只小虫子.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -18279,6 +28079,20 @@ window.__WORDS_DATA =
         "cn": "她会游泳。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_701_02",
+        "en": "She is able to read books by herself.",
+        "cn": "她能够自己阅读书籍。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_701_03",
+        "en": "She was able to finish the puzzle on her own.",
+        "cn": "她自己就能完成这个拼图。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -18305,6 +28119,20 @@ window.__WORDS_DATA =
         "cn": "柠檬尝起来酸。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_702_02",
+        "en": "The lemon juice is very acid.",
+        "cn": "柠檬汁酸味很重。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_702_03",
+        "en": "The lemon has acid in it.",
+        "cn": "柠檬里面含有酸。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -18331,6 +28159,20 @@ window.__WORDS_DATA =
         "cn": "别生我气。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_703_02",
+        "en": "The boy got angry when he didn't get his favorite toy.",
+        "cn": "那个男孩没有得到他最喜欢的玩具，所以他生气了.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_703_03",
+        "en": "The boy got angry when he couldn't play his favorite game.",
+        "cn": "那个男孩在他不能玩他最喜欢的游戏时生气了。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -18357,6 +28199,20 @@ window.__WORDS_DATA =
         "cn": "自动门。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_704_02",
+        "en": "The machine is automatic and can do the work quickly.",
+        "cn": "这台机器是自动的，可以快速完成工作。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_704_03",
+        "en": "The machine can perform tasks automatically.",
+        "cn": "这台机器可以自动完成各项任务。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -18383,6 +28239,20 @@ window.__WORDS_DATA =
         "cn": "多美的一天!",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_705_02",
+        "en": "The sunset was beautiful.",
+        "cn": "日落非常美丽。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_705_03",
+        "en": "The flowers in the garden were so beautiful that they made everyone smile.",
+        "cn": "花园里的花朵非常美丽，让每个人都露出了笑容。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -18409,6 +28279,20 @@ window.__WORDS_DATA =
         "cn": "一只黑猫。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_706_02",
+        "en": "The cat is black.",
+        "cn": "这只猫是黑色的.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_706_03",
+        "en": "The cat had black fur.",
+        "cn": "这只猫的毛是黑色的.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -18435,6 +28319,20 @@ window.__WORDS_DATA =
         "cn": "沸水会烫伤人。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_707_02",
+        "en": "The water is boiling in the pot.",
+        "cn": "水在锅里沸腾。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_707_03",
+        "en": "The water in the pot is boiling.",
+        "cn": "锅里的水正在沸腾。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -18461,6 +28359,20 @@ window.__WORDS_DATA =
         "cn": "一盏明亮的灯。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_708_02",
+        "en": "The classroom is very bright because the windows are large and let in a lot of sunlight.",
+        "cn": "教室非常明亮，因为窗户很大，能透进很多阳光。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_708_03",
+        "en": "The classroom was bright with the sunlight shining through the windows.",
+        "cn": "教室里充满了阳光，明亮而舒适。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -18487,6 +28399,20 @@ window.__WORDS_DATA =
         "cn": "玻璃碎了。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_709_02",
+        "en": "The vase is broken.",
+        "cn": "花瓶破了.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_709_03",
+        "en": "The vase was broken when it fell off the shelf.",
+        "cn": "花瓶从架子上掉下来时碎了。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -18513,6 +28439,20 @@ window.__WORDS_DATA =
         "cn": "棕色面包更健康。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_710_02",
+        "en": "The dog has brown fur.",
+        "cn": "这只狗有棕色的毛。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_710_03",
+        "en": "The child picked up a brown crayon from the box.",
+        "cn": "孩子从盒子里拿了一支棕色的蜡笔.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -18539,6 +28479,20 @@ window.__WORDS_DATA =
         "cn": "这是家便宜店。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_711_02",
+        "en": "This store sells cheap toys for children.",
+        "cn": "这家商店出售便宜的儿童玩具。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_711_03",
+        "en": "The store sold some cheap toys for children.",
+        "cn": "这家商店卖了一些便宜的玩具给孩子们。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -18565,6 +28519,20 @@ window.__WORDS_DATA =
         "cn": "化学反应。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_712_02",
+        "en": "Chemical substances are used in many products we use every day.",
+        "cn": "我们每天使用的许多产品中都含有化学物质。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_712_03",
+        "en": "In elementary school, we learned that chemistry is the study of substances and their interactions.",
+        "cn": "在小学时，我们了解到化学是研究物质及其相互作用的学科。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -18591,6 +28559,20 @@ window.__WORDS_DATA =
         "cn": "主要原因。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_713_02",
+        "en": "The chief of the tribe made an important decision.",
+        "cn": "部落的首领做了一个重要的决定.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_713_03",
+        "en": "The chief of the tribe made an important decision.",
+        "cn": "部落的首领做了一个重要的决定.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -18617,6 +28599,20 @@ window.__WORDS_DATA =
         "cn": "把手洗干净。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_714_02",
+        "en": "She keeps her room clean every day.",
+        "cn": "她每天都会把房间保持干净。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_714_03",
+        "en": "The children cleaned their rooms before playing outside.",
+        "cn": "孩子们在出去玩之前把房间打扫干净了.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -18643,6 +28639,20 @@ window.__WORDS_DATA =
         "cn": "水很清。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_715_02",
+        "en": "She sees the picture clearly.",
+        "cn": "她能清楚地看到这张图片。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_715_03",
+        "en": "The sky was clear and blue today.",
+        "cn": "今天天空清澈湛蓝。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -18669,6 +28679,13 @@ window.__WORDS_DATA =
         "cn": "常见的景象。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_716_02",
+        "en": "John is a common boy in our school.",
+        "cn": "约翰是我们学校里一个普通的男孩。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -18695,6 +28712,20 @@ window.__WORDS_DATA =
         "cn": "复杂的问题。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_717_02",
+        "en": "The complex machine consists of many small parts.",
+        "cn": "这台复杂的机器由许多小部件组成。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_717_03",
+        "en": "The complex building took years to complete.",
+        "cn": "这座复杂的建筑花了多年时间才建成。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -18720,6 +28751,20 @@ window.__WORDS_DATA =
         "en": "He is conscious of his faults.",
         "cn": "他意识到自己的缺点。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_718_02",
+        "en": "She is consciously choosing to eat healthy food.",
+        "cn": "她有意识地选择吃健康的食物。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_718_03",
+        "en": "The child was very conscious about his actions.",
+        "cn": "这个孩子非常清楚自己的行为。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -18747,6 +28792,20 @@ window.__WORDS_DATA =
         "cn": "剪下的花谢得快。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_719_02",
+        "en": "She cuts the paper into small pieces.",
+        "cn": "她把纸剪成小片。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_719_03",
+        "en": "She cut the paper with a scissors.",
+        "cn": "她用剪刀剪纸。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -18773,6 +28832,20 @@ window.__WORDS_DATA =
         "cn": "一口深井。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_720_02",
+        "en": "The children dug deep into the sand to find shells.",
+        "cn": "孩子们在沙子里挖得很深来寻找贝壳。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_720_03",
+        "en": "The deep forest was so mysterious and dark.",
+        "cn": "那片深邃的森林十分神秘且昏暗。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -18799,6 +28872,20 @@ window.__WORDS_DATA =
         "cn": "孩子依赖父母。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_721_02",
+        "en": "She is dependent on her parents for financial support.",
+        "cn": "她依赖父母提供经济支持。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_721_03",
+        "en": "The puppy is dependent on its mother for food and care.",
+        "cn": "这只小狗依赖它的妈妈来获取食物和照顾。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -18825,6 +28912,20 @@ window.__WORDS_DATA =
         "cn": "早早出发。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_722_02",
+        "en": "The children got up early this morning to go to the park.",
+        "cn": "孩子们今天早上起得很早，准备去公园。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_722_03",
+        "en": "In the early morning, the sun began to rise over the mountains.",
+        "cn": "清晨，太阳从山上升起。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -18851,6 +28952,20 @@ window.__WORDS_DATA =
         "cn": "橡皮筋。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_723_02",
+        "en": "The rubber band is very elastic and can stretch a lot.",
+        "cn": "这个橡皮筋非常有弹性，可以拉得很长。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_723_03",
+        "en": "The rubber band is elastic and can stretch easily.",
+        "cn": "这个橡皮筋很有弹性，可以很容易地拉伸。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -18877,6 +28992,20 @@ window.__WORDS_DATA =
         "cn": "一辆电动车。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_724_02",
+        "en": "The light bulb uses electricity to shine.",
+        "cn": "灯泡利用电来发光。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_724_03",
+        "en": "The light bulb uses electricity to glow.",
+        "cn": "灯泡利用电来发光。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -18903,6 +29032,20 @@ window.__WORDS_DATA =
         "cn": "人人平等。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_725_02",
+        "en": "The two numbers are equal.",
+        "cn": "这两个数是相等的.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_725_03",
+        "en": "The two sides of the balance are equal.",
+        "cn": "天平的两边是相等的.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -18928,6 +29071,20 @@ window.__WORDS_DATA =
         "en": "A fat cat sat on the mat.",
         "cn": "一只胖猫坐在垫子上。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_726_02",
+        "en": "The little boy is fat.",
+        "cn": "那个小男孩很胖。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_726_03",
+        "en": "The little boy was too fat to climb the tree.",
+        "cn": "那个小男孩太胖了，爬不上树。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -18955,6 +29112,20 @@ window.__WORDS_DATA =
         "cn": "土地肥沃。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_727_02",
+        "en": "The farmer used fertile soil to grow crops.",
+        "cn": "农民使用肥沃的土壤来种植作物。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_727_03",
+        "en": "The farmer used fertile soil to grow crops.",
+        "cn": "农夫使用肥沃的土壤来种植庄稼。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -18980,6 +29151,20 @@ window.__WORDS_DATA =
         "en": "The first time I met you.",
         "cn": "我们第一次见面。",
         "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_728_02",
+        "en": "First, we need to count how many apples are in the basket.",
+        "cn": "首先，我们需要数一数篮子里有多少个苹果。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_728_03",
+        "en": "First, we need to pick a color for the painting.",
+        "cn": "首先，我们需要为这幅画选择一种颜色。",
+        "tense": "simple_past",
         "level": "elementary"
       }
     ]
@@ -19007,6 +29192,20 @@ window.__WORDS_DATA =
         "cn": "固定价格。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_729_02",
+        "en": "The teacher fixed the broken chair before class started.",
+        "cn": "老师在上课前修好了那把坏掉的椅子。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_729_03",
+        "en": "The teacher fixed the broken chair before class began.",
+        "cn": "老师在上课前修好了那把坏掉的椅子。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -19033,6 +29232,20 @@ window.__WORDS_DATA =
         "cn": "平面。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_730_02",
+        "en": "The table is flat and level.",
+        "cn": "桌子是平的，而且很水平。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_730_03",
+        "en": "The ground was flat after the rain stopped.",
+        "cn": "雨停后，地面变得平缓了。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -19059,6 +29272,20 @@ window.__WORDS_DATA =
         "cn": "免费。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_731_02",
+        "en": "The library offers free books to children.",
+        "cn": "图书馆为孩子们提供免费的书籍。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_731_03",
+        "en": "The kids played in the park for free.",
+        "cn": "孩子们在公园里免费玩耍。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -19085,6 +29312,20 @@ window.__WORDS_DATA =
         "cn": "他经常来访。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_732_02",
+        "en": "She visits her grandparents frequently.",
+        "cn": "她经常去看望她的祖父母。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_732_03",
+        "en": "She visited her grandparents frequently during the summer.",
+        "cn": "她在夏天频繁地去看望她的祖父母。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -19111,6 +29352,20 @@ window.__WORDS_DATA =
         "cn": "杯子满了。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_733_02",
+        "en": "The bowl is full of food.",
+        "cn": "碗里装满了食物。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_733_03",
+        "en": "The bowl was full of apples.",
+        "cn": "碗里装满了苹果。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -19137,6 +29392,20 @@ window.__WORDS_DATA =
         "cn": "大致的想法。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_734_02",
+        "en": "General knowledge is important for everyone.",
+        "cn": "一般的知识对每个人都很重要。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_734_03",
+        "en": "General knowledge is important for everyone.",
+        "cn": "一般的知识对每个人都很重要。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -19163,6 +29432,20 @@ window.__WORDS_DATA =
         "cn": "一本好书。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_735_02",
+        "en": "She always does good deeds.",
+        "cn": "她总是做善事。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_735_03",
+        "en": "She did a good job on her homework.",
+        "cn": "她认真完成了作业。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -19189,6 +29472,20 @@ window.__WORDS_DATA =
         "cn": "一位伟人。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_736_02",
+        "en": "She did a great job on her project.",
+        "cn": "她在自己的项目中做得非常出色。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_736_03",
+        "en": "The great athlete won the gold medal.",
+        "cn": "那位伟大的运动员赢得了金牌。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -19215,6 +29512,20 @@ window.__WORDS_DATA =
         "cn": "灰云带来雨。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_737_02",
+        "en": "The cat is grey.",
+        "cn": "这只猫是灰色的.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_737_03",
+        "en": "The cat was grey",
+        "cn": "那只猫是灰色的",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -19241,6 +29552,20 @@ window.__WORDS_DATA =
         "cn": "挂着的花。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_738_02",
+        "en": "The picture is hanging on the wall.",
+        "cn": "那幅画挂在墙上。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_738_03",
+        "en": "The picture was hanging on the wall.",
+        "cn": "那幅画挂在墙上。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -19267,6 +29592,20 @@ window.__WORDS_DATA =
         "cn": "一个快乐的孩子。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_739_02",
+        "en": "The children were happy when they received their new toys.",
+        "cn": "孩子们收到新玩具时非常开心。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_739_03",
+        "en": "The children were happy to play in the park.",
+        "cn": "孩子们在公园里玩耍，非常开心。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -19293,6 +29632,20 @@ window.__WORDS_DATA =
         "cn": "硬石头。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_740_02",
+        "en": "He found it hard to learn a new language.",
+        "cn": "他发现学习一门新语言很困难。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_740_03",
+        "en": "The child found a hard rock while playing in the park.",
+        "cn": "孩子在公园里玩耍时发现了一块硬石头.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -19319,6 +29672,20 @@ window.__WORDS_DATA =
         "cn": "吃健康食物。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_741_02",
+        "en": "She eats healthy food every day.",
+        "cn": "她每天吃健康的食物。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_741_03",
+        "en": "The teacher told the students to eat healthy food for better health.",
+        "cn": "老师告诉学生们要吃健康的食物，这样才能保持身体健康。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -19345,6 +29712,20 @@ window.__WORDS_DATA =
         "cn": "一座高塔。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_742_02",
+        "en": "The student scored high on the test.",
+        "cn": "这个学生在考试中取得了高分.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_742_03",
+        "en": "The cat jumped very high onto the table.",
+        "cn": "那只猫跳得非常高，到了桌子上。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -19371,6 +29752,20 @@ window.__WORDS_DATA =
         "cn": "空心树。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_743_02",
+        "en": "The pumpkin is hollow inside.",
+        "cn": "这个南瓜是空心的。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_743_03",
+        "en": "The hollow tree trunk was used as a bird's nest.",
+        "cn": "那棵空心的树干被当作了鸟儿的巢穴。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -19397,6 +29792,20 @@ window.__WORDS_DATA =
         "cn": "重要会议。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_744_02",
+        "en": "This is an important lesson that we need to learn.",
+        "cn": "这是一个我们需要学习的重要的课程。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_744_03",
+        "en": "The teacher emphasized the importance of studying hard.",
+        "cn": "老师强调了努力学习的重要性。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -19423,6 +29832,13 @@ window.__WORDS_DATA =
         "cn": "她非常善良。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_745_02",
+        "en": "The teacher is very kind to all her students.",
+        "cn": "老师对所有学生都非常友善。",
+        "tense": "simple_present",
+        "level": "elementary"
       }
     ]
   },
@@ -19449,6 +29865,20 @@ window.__WORDS_DATA =
         "cn": "他像他父亲。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_746_02",
+        "en": "She looks like her mother.",
+        "cn": "她长得和她妈妈很像。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_746_03",
+        "en": "The children drew pictures with similar colors.",
+        "cn": "孩子们画了颜色相似的图画.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -19475,6 +29905,20 @@ window.__WORDS_DATA =
         "cn": "所有生物都需要空气。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_747_02",
+        "en": "The living animals in the forest are very colorful.",
+        "cn": "森林里活着的动物们都非常五彩缤纷。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_747_03",
+        "en": "The living animals in the forest are very active.",
+        "cn": "森林里的活着的动物非常活跃。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -19501,6 +29945,20 @@ window.__WORDS_DATA =
         "cn": "一条长路。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_748_02",
+        "en": "The cat is long.",
+        "cn": "这只猫很长。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_748_03",
+        "en": "The long snake stretched across the garden.",
+        "cn": "那条长长的蛇蜿蜒穿过花园。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -19527,6 +29985,20 @@ window.__WORDS_DATA =
         "cn": "男医生。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_749_02",
+        "en": "The male student won the race.",
+        "cn": "那位男学生赢得了比赛。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_749_03",
+        "en": "A male student helped his classmate with homework.",
+        "cn": "一位男学生帮助他的同学完成了作业。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -19553,6 +30025,20 @@ window.__WORDS_DATA =
         "cn": "他们婚姻幸福。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_750_02",
+        "en": "She is married and has two children.",
+        "cn": "她已经结婚了，还有两个孩子。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_750_03",
+        "en": "She is married and has two children.",
+        "cn": "她已经结婚了，还有两个孩子。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -19579,6 +30065,20 @@ window.__WORDS_DATA =
         "cn": "物质的东西不那么重要。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_751_02",
+        "en": "The children used some materials to make a craft.",
+        "cn": "孩子们用一些材料制作了一件手工艺品.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_751_03",
+        "en": "The children used various materials to make a beautiful sculpture.",
+        "cn": "孩子们用各种材料制作了一座漂亮的雕塑。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -19605,6 +30105,20 @@ window.__WORDS_DATA =
         "cn": "医疗费用高。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_752_02",
+        "en": "Doctors use medical instruments to diagnose patients.",
+        "cn": "医生使用医学仪器来诊断病人。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_752_03",
+        "en": "The doctor explained how medical tests help diagnose diseases.",
+        "cn": "医生解释了医学检查是如何帮助诊断疾病的。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -19631,6 +30145,20 @@ window.__WORDS_DATA =
         "cn": "军队服役很艰苦。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_753_02",
+        "en": "The military is training new recruits this week.",
+        "cn": "这周，军队正在训练新兵。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_753_03",
+        "en": "The military played a crucial role in protecting the country during the war.",
+        "cn": "在战争期间，军事在保护国家方面发挥了至关重要的作用。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -19657,6 +30185,20 @@ window.__WORDS_DATA =
         "cn": "自然之美。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_754_02",
+        "en": "The flowers in the garden are growing naturally.",
+        "cn": "花园里的花朵正在自然地生长。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_754_03",
+        "en": "The birds were flying naturally in the sky.",
+        "cn": "鸟儿们在天空中自然地飞翔。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -19683,6 +30225,20 @@ window.__WORDS_DATA =
         "cn": "睡眠是必需的。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_755_02",
+        "en": "It is necessary to wear a helmet when riding a bike.",
+        "cn": "骑自行车时戴上头盔是必要的。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_755_03",
+        "en": "It was necessary to wear a helmet when riding a bicycle.",
+        "cn": "骑自行车时戴头盔是必要的。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -19709,6 +30265,20 @@ window.__WORDS_DATA =
         "cn": "一辆新车。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_756_02",
+        "en": "The teacher bought new books for the classroom.",
+        "cn": "老师为教室买了新书。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_756_03",
+        "en": "The teacher introduced a new topic to the class today.",
+        "cn": "今天老师给班级介绍了一个新主题。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -19735,6 +30305,13 @@ window.__WORDS_DATA =
         "cn": "正常体温。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_757_02",
+        "en": "The dog barked loudly when it saw the normal cat.",
+        "cn": "狗看到那只普通的猫时大声地叫了起来。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -19761,6 +30338,20 @@ window.__WORDS_DATA =
         "cn": "门开着。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_758_02",
+        "en": "The door is open.",
+        "cn": "门是开着的.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_758_03",
+        "en": "The door was open when we arrived.",
+        "cn": "我们到达的时候门是开着的.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -19787,6 +30378,20 @@ window.__WORDS_DATA =
         "cn": "平行线永不相交。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_759_02",
+        "en": "The two roads are parallel and run for miles without any intersection.",
+        "cn": "这两条路是平行的，延伸了好几英里都没有任何交叉点。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_759_03",
+        "en": "The two roads run parallel to each other for many miles.",
+        "cn": "这两条路平行地延伸了许多英里。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -19813,6 +30418,20 @@ window.__WORDS_DATA =
         "cn": "过去几年里。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_760_02",
+        "en": "She played with her toys in the past.",
+        "cn": "她过去经常玩她的玩具。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_760_03",
+        "en": "In the past, people communicated using letters and telegraphs.",
+        "cn": "在过去，人们用信件和电报来交流。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -19839,6 +30458,20 @@ window.__WORDS_DATA =
         "cn": "运动有好处。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_761_02",
+        "en": "The children are doing some physical exercises at school.",
+        "cn": "孩子们在学校做一些体育锻炼。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_761_03",
+        "en": "The children were playing outside and using their physical strength to throw the ball.",
+        "cn": "孩子们在外面玩耍，用他们的体力来投掷球。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -19865,6 +30498,20 @@ window.__WORDS_DATA =
         "cn": "政治观点各异。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_762_02",
+        "en": "The politician gave a speech about political reform.",
+        "cn": "那位政治家发表了一篇关于政治改革的演讲。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_762_03",
+        "en": "During the lesson, the teacher discussed political parties and how they influence elections.",
+        "cn": "在课堂上，老师讨论了政党以及它们如何影响选举。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -19891,6 +30538,20 @@ window.__WORDS_DATA =
         "cn": "贫穷的家庭。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_763_02",
+        "en": "The poor family had little food to eat.",
+        "cn": "这个贫穷的家庭几乎没有食物可吃。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_763_03",
+        "en": "The poor family had nothing but old clothes to wear.",
+        "cn": "这个贫穷的家庭除了旧衣服什么都没有。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -19917,6 +30578,20 @@ window.__WORDS_DATA =
         "cn": "一切皆有可能。",
         "tense": "present_continuous",
         "level": "beginner"
+      },
+      {
+        "id": "word_764_02",
+        "en": "It's possible that it will rain tomorrow.",
+        "cn": "有可能明天会下雨。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_764_03",
+        "en": "It is possible that we will see rain tomorrow.",
+        "cn": "有可能我们明天会看到下雨。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -19943,6 +30618,20 @@ window.__WORDS_DATA =
         "cn": "今天全都到了。",
         "tense": "simple_past",
         "level": "beginner"
+      },
+      {
+        "id": "word_765_02",
+        "en": "She is present at the meeting.",
+        "cn": "她现在在会议上。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_765_03",
+        "en": "She is present at the meeting now.",
+        "cn": "她现在在参加会议。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -19969,6 +30658,20 @@ window.__WORDS_DATA =
         "cn": "私人房间。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_766_02",
+        "en": "She keeps her private belongings in a locked drawer.",
+        "cn": "她把私人物品放在一个上锁的抽屉里。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_766_03",
+        "en": "She kept her private things in a safe place.",
+        "cn": "她把私人物品放在一个安全的地方。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -19995,6 +30698,20 @@ window.__WORDS_DATA =
         "cn": "很可能的原因。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_767_02",
+        "en": "It is probable that it will rain tomorrow.",
+        "cn": "很可能明天会下雨。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_767_03",
+        "en": "It is very probable that it will rain tomorrow.",
+        "cn": "很有可能明天会下雨。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -20021,6 +30738,20 @@ window.__WORDS_DATA =
         "cn": "快速回答。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_768_02",
+        "en": "The cat moved quickly to catch the mouse.",
+        "cn": "那只猫迅速移动去抓老鼠。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_768_03",
+        "en": "The rabbit moved quickly to escape the fox.",
+        "cn": "兔子迅速移动以躲避狐狸。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -20047,6 +30778,20 @@ window.__WORDS_DATA =
         "cn": "安静的房间。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_769_02",
+        "en": "The room was quiet after everyone left.",
+        "cn": "大家都离开后，房间里很安静。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_769_03",
+        "en": "The room was quiet and peaceful at night.",
+        "cn": "晚上，房间里安静而宁静。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -20073,6 +30818,20 @@ window.__WORDS_DATA =
         "cn": "你准备好了吗?",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_770_02",
+        "en": "She is ready to start her new job.",
+        "cn": "她已经准备好开始她的新工作。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_770_03",
+        "en": "She was ready to start her new job.",
+        "cn": "她已经准备好开始她的新工作。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -20099,6 +30858,20 @@ window.__WORDS_DATA =
         "cn": "红苹果。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_771_02",
+        "en": "The apple is red.",
+        "cn": "这个苹果是红色的.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_771_03",
+        "en": "The child wore a red dress to the party.",
+        "cn": "那个孩子穿了一条红色的裙子去参加派对。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -20125,6 +30898,34 @@ window.__WORDS_DATA =
         "cn": "规律锻炼有助健康。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_772_02",
+        "en": "She attends regular meetings every Monday morning.",
+        "cn": "她每周一早上都会参加定期的会议。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_772_03",
+        "en": "He has a regular routine of exercising three times a week.",
+        "cn": "他有一套每周锻炼三次的固定习惯。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_772_04",
+        "en": "She attends the gym regularly to stay healthy.",
+        "cn": "她定期去健身房保持健康。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_772_05",
+        "en": "It's regular for him to wake up at 6 am every day.",
+        "cn": "他每天早上6点起床是惯例。",
+        "tense": "simple_present",
+        "level": "elementary"
       }
     ]
   },
@@ -20151,6 +30952,20 @@ window.__WORDS_DATA =
         "cn": "你要负责。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_773_02",
+        "en": "She is responsible for cleaning the classroom every day.",
+        "cn": "她负责每天打扫教室。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_773_03",
+        "en": "She is very responsible and always helps her friends when they need it.",
+        "cn": "她非常负责，总是在朋友们需要帮助时伸出援手。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -20177,6 +30992,20 @@ window.__WORDS_DATA =
         "cn": "你对了。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_774_02",
+        "en": "She always does her homework right.",
+        "cn": "她总是把作业做对。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_774_03",
+        "en": "She chose the right answer in the test.",
+        "cn": "她在考试中选对了答案。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -20203,6 +31032,20 @@ window.__WORDS_DATA =
         "cn": "一张圆桌。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_775_02",
+        "en": "The ball is round.",
+        "cn": "这个球是圆的.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_775_03",
+        "en": "The children drew round circles on their paper with crayons.",
+        "cn": "孩子们用蜡笔在纸上画了圆圆的圆圈。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -20229,6 +31072,20 @@ window.__WORDS_DATA =
         "cn": "我们想法一样。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_776_02",
+        "en": "The two toys are the same color.",
+        "cn": "这两个玩具颜色相同.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_776_03",
+        "en": "The two puppies have the same color of fur.",
+        "cn": "这两只小狗有相同的毛色。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -20255,6 +31112,20 @@ window.__WORDS_DATA =
         "cn": "第二天。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_777_02",
+        "en": "The second student in line waited patiently.",
+        "cn": "队伍中的第二个学生耐心地等待着.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_777_03",
+        "en": "The second student in line waited patiently.",
+        "cn": "队伍里的第二个学生耐心地等待着.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -20281,6 +31152,20 @@ window.__WORDS_DATA =
         "cn": "把它们分开。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_778_02",
+        "en": "The teacher asked the students to separate their books into two piles.",
+        "cn": "老师让学生们把他们的书分成两堆。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_778_03",
+        "en": "The two apples were separate and did not touch each other.",
+        "cn": "这两个苹果是分开的，没有互相接触。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -20307,6 +31192,20 @@ window.__WORDS_DATA =
         "cn": "严重的问题。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_779_02",
+        "en": "She is serious about her studies.",
+        "cn": "她对待学习非常认真。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_779_03",
+        "en": "He was very serious when he told us the news.",
+        "cn": "他告诉我们这个消息时非常严肃。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -20333,6 +31232,20 @@ window.__WORDS_DATA =
         "cn": "锋利的刀。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_780_02",
+        "en": "The knife has a very sharp blade.",
+        "cn": "这把刀的刀片非常锋利。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_780_03",
+        "en": "The knife was very sharp and cut his finger easily.",
+        "cn": "那把刀非常锋利，很容易就割伤了他的手指。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -20359,6 +31272,20 @@ window.__WORDS_DATA =
         "cn": "丝一般光滑。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_781_02",
+        "en": "The surface of the table is very smooth.",
+        "cn": "桌子的表面非常光滑。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_781_03",
+        "en": "The surface of the table is very smooth.",
+        "cn": "桌子的表面非常光滑。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -20385,6 +31312,20 @@ window.__WORDS_DATA =
         "cn": "粘乎乎的手指。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_782_02",
+        "en": "The glue is very sticky and sticks to everything.",
+        "cn": "这种胶水非常粘，会粘在所有东西上。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_782_03",
+        "en": "The glue made the paper sticky.",
+        "cn": "胶水让纸张变得粘粘的。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -20411,6 +31352,13 @@ window.__WORDS_DATA =
         "cn": "脖子僵硬。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_783_02",
+        "en": "The toy's joints were stiff and wouldn’t move.",
+        "cn": "这个玩具的关节很僵硬，动弹不了。",
+        "tense": "simple_present",
+        "level": "elementary"
       }
     ]
   },
@@ -20437,6 +31385,20 @@ window.__WORDS_DATA =
         "cn": "走直线。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_784_02",
+        "en": "The road is straight and leads to the village.",
+        "cn": "这条路很直，通向村庄。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_784_03",
+        "en": "The road was straight and easy to drive on.",
+        "cn": "这条路很直，开车很方便。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -20463,6 +31425,20 @@ window.__WORDS_DATA =
         "cn": "一个强壮的人。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_785_02",
+        "en": "The strong boy can lift heavy boxes.",
+        "cn": "那个强壮的男孩能举起沉重的箱子。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_785_03",
+        "en": "The strong man lifted a heavy bar with ease.",
+        "cn": "那个强壮的男人轻松地举起了沉重的杠铃。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -20489,6 +31465,20 @@ window.__WORDS_DATA =
         "cn": "突然的变化。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_786_02",
+        "en": "The child was playing outside when suddenly a dog ran towards him.",
+        "cn": "孩子正在外面玩耍，突然有一只狗朝他跑了过来。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_786_03",
+        "en": "Suddenly, a dog ran into the room.",
+        "cn": "突然，一只狗跑进了房间。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -20515,6 +31505,20 @@ window.__WORDS_DATA =
         "cn": "这蛋糕很甜。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_787_02",
+        "en": "She loves eating sweet candies.",
+        "cn": "她喜欢吃甜糖果。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_787_03",
+        "en": "She tasted the sweet candy and smiled.",
+        "cn": "她尝到了甜糖果，笑了起来.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -20541,6 +31545,20 @@ window.__WORDS_DATA =
         "cn": "一个高个子男人。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_788_02",
+        "en": "The tall tree blocked our view of the park.",
+        "cn": "那棵高大的树挡住了我们看公园的视线。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_788_03",
+        "en": "The tall tree stood in the middle of the park.",
+        "cn": "那棵高大的树矗立在公园的中央。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -20567,6 +31585,20 @@ window.__WORDS_DATA =
         "cn": "一本厚书。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_789_02",
+        "en": "The book has thick pages.",
+        "cn": "这本书的页子很厚。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_789_03",
+        "en": "The book has thick pages.",
+        "cn": "这本书的页面很厚。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -20593,6 +31625,20 @@ window.__WORDS_DATA =
         "cn": "紧紧抓住。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_790_02",
+        "en": "The tie is too tight around his neck.",
+        "cn": "这条领带戴在他脖子上太紧了.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_790_03",
+        "en": "The toy was too tight to open.",
+        "cn": "这个玩具太紧了，打不开。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -20619,6 +31665,20 @@ window.__WORDS_DATA =
         "cn": "我今天很累。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_791_02",
+        "en": "She was tired after playing outside all day.",
+        "cn": "她在外面玩了一整天后感到很疲倦。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_791_03",
+        "en": "The little boy was tired after playing outside all day.",
+        "cn": "这个小男孩在外面玩了一整天后，感到很疲倦。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -20645,6 +31705,20 @@ window.__WORDS_DATA =
         "cn": "这是个真实的故事。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_792_02",
+        "en": "True is always true.",
+        "cn": "真的永远是真的.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_792_03",
+        "en": "True is always the right answer.",
+        "cn": "真的总是正确的答案。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -20671,6 +31745,20 @@ window.__WORDS_DATA =
         "cn": "狂风暴雨。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_793_02",
+        "en": "The children were afraid of the violent dog.",
+        "cn": "孩子们害怕那只暴力的狗。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_793_03",
+        "en": "The boy threw a violent tantrum when he couldn't get his way.",
+        "cn": "那个男孩在无法如愿时大发雷霆。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -20697,6 +31785,20 @@ window.__WORDS_DATA =
         "cn": "候诊室。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_794_02",
+        "en": "The children are waiting for their parents at the playground.",
+        "cn": "孩子们在游乐场等待着他们的父母。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_794_03",
+        "en": "The children were waiting patiently for their teacher.",
+        "cn": "孩子们耐心地等待着他们的老师。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -20723,6 +31825,20 @@ window.__WORDS_DATA =
         "cn": "暖和的天气。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_795_02",
+        "en": "The sun makes the air warm and comfortable.",
+        "cn": "太阳让空气变得温暖舒适。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_795_03",
+        "en": "The sun was warm on her face as she walked outside in the morning.",
+        "cn": "早晨出门时，阳光温暖地照在她的脸上。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -20749,6 +31865,20 @@ window.__WORDS_DATA =
         "cn": "我衣服湿了。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_796_02",
+        "en": "The floor is wet after the rain.",
+        "cn": "雨后地板变湿了。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_796_03",
+        "en": "The leaves were wet after the rain.",
+        "cn": "雨后树叶变得湿漉漉的。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -20775,6 +31905,20 @@ window.__WORDS_DATA =
         "cn": "宽阔的河流。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_797_02",
+        "en": "The teacher explained the wide range of topics that would be covered in the course.",
+        "cn": "老师解释了这门课程将会涵盖的广泛主题。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_797_03",
+        "en": "The child drew a wide circle on the paper.",
+        "cn": "孩子在纸上画了一个宽大的圆。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -20801,6 +31945,20 @@ window.__WORDS_DATA =
         "cn": "睿智的老人。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_798_02",
+        "en": "She made a wise decision to study hard for her exams.",
+        "cn": "她做出了一个明智的决定，为考试努力学习。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_798_03",
+        "en": "The wise old owl always gave good advice.",
+        "cn": "聪明的老猫头鹰总是给出好的建议。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -20827,6 +31985,20 @@ window.__WORDS_DATA =
         "cn": "一朵黄花。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_799_02",
+        "en": "The cat is yellow.",
+        "cn": "这只猫是黄色的.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_799_03",
+        "en": "The cat was sitting on a yellow chair.",
+        "cn": "那只猫正坐在一把黄色的椅子上。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -20853,6 +32025,20 @@ window.__WORDS_DATA =
         "cn": "一个小男孩。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_800_02",
+        "en": "The young child is playing with his toy cars.",
+        "cn": "这个年幼的孩子正在玩他的玩具汽车。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_800_03",
+        "en": "The young girl played with her toys in the bedroom.",
+        "cn": "那个年轻的女孩在卧室里玩她的玩具。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -20879,6 +32065,20 @@ window.__WORDS_DATA =
         "cn": "我完全醒着。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_801_02",
+        "en": "The baby is awake and playing with his toys.",
+        "cn": "宝宝醒着，正在玩他的玩具。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_801_03",
+        "en": "She was awake when the phone rang.",
+        "cn": "电话响的时候，她醒着。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -20905,6 +32105,20 @@ window.__WORDS_DATA =
         "cn": "坏天气。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_802_02",
+        "en": "The boy is bad at math.",
+        "cn": "这个男孩数学不好。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_802_03",
+        "en": "The boy drew a bad picture.",
+        "cn": "这个男孩画了一幅不好的画。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -20931,6 +32145,20 @@ window.__WORDS_DATA =
         "cn": "弯了的钉子。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_803_02",
+        "en": "The tree branch was bent by the strong wind.",
+        "cn": "树枝被强风吹弯了.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_803_03",
+        "en": "The wire was bent into a circle.",
+        "cn": "那根铁丝被弯成了一个圆圈。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -20957,6 +32185,20 @@ window.__WORDS_DATA =
         "cn": "苦咖啡。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_804_02",
+        "en": "The tea was too bitter for me to drink.",
+        "cn": "这茶太苦了，我喝不下去。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_804_03",
+        "en": "The lemon was bitter and didn't taste good at all.",
+        "cn": "那个柠檬很苦，一点都不好吃。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -20983,6 +32225,20 @@ window.__WORDS_DATA =
         "cn": "一条蓝裙子。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_805_02",
+        "en": "The sky is blue today.",
+        "cn": "今天天空是蓝色的.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_805_03",
+        "en": "The sky was a beautiful blue today.",
+        "cn": "今天天空是美丽的蓝色。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -21009,6 +32265,20 @@ window.__WORDS_DATA =
         "cn": "我很确定。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_806_02",
+        "en": "She is certain about her decision.",
+        "cn": "她对自己的决定很确定。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_806_03",
+        "en": "Certain children enjoyed playing with toys in the park.",
+        "cn": "一些孩子喜欢在公园里玩玩具。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -21035,6 +32305,20 @@ window.__WORDS_DATA =
         "cn": "冷水。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_807_02",
+        "en": "The ice is cold when I touch it.",
+        "cn": "当我碰到冰的时候，它很冷。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_807_03",
+        "en": "The weather was very cold outside, so we stayed inside and played games.",
+        "cn": "外面天气非常冷，所以我们待在室内玩游戏。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -21061,6 +32345,20 @@ window.__WORDS_DATA =
         "cn": "一整套。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_808_02",
+        "en": "The book is complete now.",
+        "cn": "这本书现在已经完成了.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_808_03",
+        "en": "The teacher checked our complete homework assignments.",
+        "cn": "老师检查了我们完整的作业。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -21087,6 +32385,20 @@ window.__WORDS_DATA =
         "cn": "残忍的行为。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_809_02",
+        "en": "The cruel dog barked at the little cat.",
+        "cn": "那只残忍的狗对着小猫吠叫。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_809_03",
+        "en": "The cruel animal chased its helpless prey across the field.",
+        "cn": "那只残忍的动物在田野里追逐着它无助的猎物。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -21113,6 +32425,20 @@ window.__WORDS_DATA =
         "cn": "漆黑的夜。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_810_02",
+        "en": "The room was dark when I turned off the light.",
+        "cn": "当我关掉灯时，房间里很黑暗。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_810_03",
+        "en": "In the dark room, the child was afraid of the shadows.",
+        "cn": "在那个黑暗的房间里，孩子害怕那些阴影。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -21139,6 +32465,20 @@ window.__WORDS_DATA =
         "cn": "花死了。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_811_02",
+        "en": "The flower is dead.",
+        "cn": "这朵花已经枯死了.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_811_03",
+        "en": "The rabbit was dead after falling into the trap.",
+        "cn": "兔子掉进陷阱后死了。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -21165,6 +32505,20 @@ window.__WORDS_DATA =
         "cn": "我亲爱的朋友。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_812_02",
+        "en": "Dear friend, this book is very expensive.",
+        "cn": "亲爱的朋友，这本书非常昂贵。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_812_03",
+        "en": "Dear friend, I hope this letter finds you well.",
+        "cn": "亲爱的朋友，希望这封信能让你一切安好。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -21191,6 +32545,20 @@ window.__WORDS_DATA =
         "cn": "易碎的玻璃。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_813_02",
+        "en": "The artist used delicate brushes to create beautiful patterns on the canvas.",
+        "cn": "艺术家用精致的画笔在画布上描绘出美丽的图案。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_813_03",
+        "en": "The artist carefully selected delicate feathers to create the beautiful bird sculpture.",
+        "cn": "艺术家精心挑选了精致的羽毛来制作这只美丽的鸟雕塑。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -21217,6 +32585,13 @@ window.__WORDS_DATA =
         "cn": "不同的想法。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_814_02",
+        "en": "The two toys are different in color.",
+        "cn": "这两个玩具在颜色上不一样。",
+        "tense": "simple_present",
+        "level": "elementary"
       }
     ]
   },
@@ -21243,6 +32618,20 @@ window.__WORDS_DATA =
         "cn": "脏手。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_815_02",
+        "en": "The dog left dirty marks on the carpet.",
+        "cn": "狗在地毯上留下了脏污的痕迹。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_815_03",
+        "en": "The child played with a dirty toy.",
+        "cn": "那个孩子玩了一个脏玩具。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -21269,6 +32658,20 @@ window.__WORDS_DATA =
         "cn": "干衣服。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_816_02",
+        "en": "The leaves are dry and brown in the autumn.",
+        "cn": "秋天的树叶又干又黄。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_816_03",
+        "en": "The leaves on the tree turned dry in the hot sun.",
+        "cn": "树上的叶子在烈日下变干了.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -21295,6 +32698,13 @@ window.__WORDS_DATA =
         "cn": "虚假声明。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_817_02",
+        "en": "He claimed his story was true, but it turned out to be false.",
+        "cn": "他声称自己的故事是真实的，但结果证明这是虚假的。",
+        "tense": "simple_present",
+        "level": "elementary"
       }
     ]
   },
@@ -21321,6 +32731,13 @@ window.__WORDS_DATA =
         "cn": "虚弱的老人。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_818_02",
+        "en": "The feeble old man could hardly walk.",
+        "cn": "那位虚弱的老人几乎无法行走。",
+        "tense": "simple_present",
+        "level": "elementary"
       }
     ]
   },
@@ -21347,6 +32764,20 @@ window.__WORDS_DATA =
         "cn": "女医生。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_819_02",
+        "en": "A female teacher is reading a story to the children.",
+        "cn": "一位女性老师正在给孩子们读故事。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_819_03",
+        "en": "A female teacher helped the children with their homework.",
+        "cn": "一位女老师帮助孩子们完成了作业。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -21373,6 +32804,20 @@ window.__WORDS_DATA =
         "cn": "愚蠢的错误。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_820_02",
+        "en": "Don't be foolish and listen to your teacher.",
+        "cn": "不要犯傻，要听老师的话。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_820_03",
+        "en": "The boy thought it was foolish to throw stones at the dog.",
+        "cn": "那个男孩认为向狗扔石头是愚蠢的。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -21399,6 +32844,20 @@ window.__WORDS_DATA =
         "cn": "未来的计划。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_821_02",
+        "en": "In the future, I will learn how to play the piano.",
+        "cn": "将来，我会学习如何弹钢琴。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_821_03",
+        "en": "In the future, we will be able to travel to other planets.",
+        "cn": "在未来，我们将能够去到其他星球旅行。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -21425,6 +32884,20 @@ window.__WORDS_DATA =
         "cn": "绿叶。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_822_02",
+        "en": "The leaves are green in spring.",
+        "cn": "春天的叶子是绿色的.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_822_03",
+        "en": "The children wore green dresses to the dress up party.",
+        "cn": "孩子们穿上了绿色的连衣裙去参加化妆派对。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -21451,6 +32924,20 @@ window.__WORDS_DATA =
         "cn": "他病了卧床。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_823_02",
+        "en": "Tom is ill and cannot go to school today.",
+        "cn": "汤姆生病了，今天不能去上学。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_823_03",
+        "en": "Tom was ill and couldn't go to school.",
+        "cn": "汤姆生病了，不能去上学。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -21477,6 +32964,20 @@ window.__WORDS_DATA =
         "cn": "最后一天。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_824_02",
+        "en": "Last week, I went to the park with my friends.",
+        "cn": "上周，我和朋友们一起去了公园。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_824_03",
+        "en": "Last weekend, we went to the park. We played on the swings and watched the birds.",
+        "cn": "上周末，我们去了公园。我们在秋千上玩耍，还观察了鸟儿。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -21503,6 +33004,20 @@ window.__WORDS_DATA =
         "cn": "抱歉我迟到了。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_825_02",
+        "en": "The students arrived late for the meeting.",
+        "cn": "学生们开会迟到了.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_825_03",
+        "en": "The children were late for school because they got stuck in the snow.",
+        "cn": "孩子们因为被困在雪中而上学迟到了。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -21529,6 +33044,20 @@ window.__WORDS_DATA =
         "cn": "左转。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_826_02",
+        "en": "She left her book on the table.",
+        "cn": "她把书落在桌子上了.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_826_03",
+        "en": "The child moved his left hand to touch the painting.",
+        "cn": "孩子用他的左手去触摸那幅画。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -21555,6 +33084,20 @@ window.__WORDS_DATA =
         "cn": "宽松的衣服。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_827_02",
+        "en": "The cat's fur is loose and fluffy.",
+        "cn": "这只猫的毛又松又蓬松。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_827_03",
+        "en": "The dog's leash was loose, so it ran away from the park.",
+        "cn": "狗的绳子松了，所以它跑出了公园。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -21581,6 +33124,13 @@ window.__WORDS_DATA =
         "cn": "大声的音乐。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_828_02",
+        "en": "The children played loudly in the park.",
+        "cn": "孩子们在公园里大声玩耍。",
+        "tense": "simple_present",
+        "level": "elementary"
       }
     ]
   },
@@ -21607,6 +33157,20 @@ window.__WORDS_DATA =
         "cn": "矮天花板。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_829_02",
+        "en": "The temperature is low today, so we should wear warm clothes.",
+        "cn": "今天气温很低，所以我们应该穿上保暖的衣服。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_829_03",
+        "en": "The cat's height was very low, barely reaching the floor.",
+        "cn": "这只猫的高度非常低，几乎碰不到地板。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -21633,6 +33197,20 @@ window.__WORDS_DATA =
         "cn": "心情复杂。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_830_02",
+        "en": "She has a mixed bag of emotions when she thinks about her trip.",
+        "cn": "她想到这次旅行时，心情很复杂。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_830_03",
+        "en": "She made a mixed bag of fruits for breakfast.",
+        "cn": "她准备了一个混合水果袋当早餐。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -21659,6 +33237,20 @@ window.__WORDS_DATA =
         "cn": "狭窄的路。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_831_02",
+        "en": "The hallway in their house is very narrow.",
+        "cn": "他们家的走廊非常狭窄。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_831_03",
+        "en": "The tiny room was so narrow that it was hardly possible to move around inside.",
+        "cn": "那个小房间非常狭窄，几乎无法在里面走动。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -21685,6 +33277,20 @@ window.__WORDS_DATA =
         "cn": "我的老爷爷。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_832_02",
+        "en": "The old man tells stories to the children.",
+        "cn": "那位老人为孩子们讲故事。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_832_03",
+        "en": "The old man sat on the bench, watching the children play.",
+        "cn": "那位老先生坐在长椅上，看着孩子们玩耍。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -21711,6 +33317,20 @@ window.__WORDS_DATA =
         "cn": "相反方向。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_833_02",
+        "en": "The opposite of hot is cold.",
+        "cn": "热相反的是冷。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_833_03",
+        "en": "The cat and the dog are opposite animals.",
+        "cn": "猫和狗是相反的动物。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -21737,6 +33357,13 @@ window.__WORDS_DATA =
         "cn": "公园。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_834_02",
+        "en": "The park is a public place where everyone can enjoy themselves.",
+        "cn": "公园是一个公共场所，每个人都可以在这里享受乐趣。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -21763,6 +33390,20 @@ window.__WORDS_DATA =
         "cn": "粗糙的手。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_835_02",
+        "en": "The surface of the rough rock was covered in tiny cracks.",
+        "cn": "粗糙的岩石表面布满了细小的裂纹。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_835_03",
+        "en": "The surface of the rough rock was covered in small bumps.",
+        "cn": "这块粗糙的岩石表面布满了小凸起。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -21789,6 +33430,20 @@ window.__WORDS_DATA =
         "cn": "悲伤的故事。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_836_02",
+        "en": "She felt sad when she heard the bad news.",
+        "cn": "听到这个坏消息，她感到很悲伤。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_836_03",
+        "en": "The little girl felt sad when she lost her favorite toy.",
+        "cn": "小女孩丢了最喜欢的玩具，感到很伤心。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -21815,6 +33470,20 @@ window.__WORDS_DATA =
         "cn": "注意安全。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_837_02",
+        "en": "The children played safely in the park.",
+        "cn": "孩子们在公园里安全地玩耍。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_837_03",
+        "en": "The children played safely in the park.",
+        "cn": "孩子们在公园里安全地玩耍。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -21841,6 +33510,20 @@ window.__WORDS_DATA =
         "cn": "秘密花园。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_838_02",
+        "en": "The child kept a secret secret from his parents.",
+        "cn": "孩子对父母保守着一个秘密秘密。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_838_03",
+        "en": "The child kept a secret about his new toy.",
+        "cn": "这个孩子对他新得到的玩具守口如瓶。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -21867,6 +33550,20 @@ window.__WORDS_DATA =
         "cn": "短暂的散步。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_839_02",
+        "en": "The dog is short.",
+        "cn": "这只狗很短。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_839_03",
+        "en": "The dog was very short, only a few inches tall.",
+        "cn": "那只狗非常矮，只有几英寸高。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -21893,6 +33590,20 @@ window.__WORDS_DATA =
         "cn": "门关着。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_840_02",
+        "en": "The door is shut.",
+        "cn": "门是关着的.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_840_03",
+        "en": "The door was shut when we arrived.",
+        "cn": "我们到达的时候门是关着的。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -21919,6 +33630,20 @@ window.__WORDS_DATA =
         "cn": "简单的答案。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_841_02",
+        "en": "She writes simple stories for elementary school children.",
+        "cn": "她为小学生编写简单的故事。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_841_03",
+        "en": "She did a simple drawing of a house using crayons.",
+        "cn": "她用蜡笔画了一幅简单的房子。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -21945,6 +33670,20 @@ window.__WORDS_DATA =
         "cn": "慢吞吞的乌龟。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_842_02",
+        "en": "The car moves slowly on the icy road.",
+        "cn": "汽车在结冰的路上行驶得很慢。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_842_03",
+        "en": "The car moved slowly down the road.",
+        "cn": "汽车在道路上缓慢行驶。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -21971,6 +33710,20 @@ window.__WORDS_DATA =
         "cn": "小房子。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_843_02",
+        "en": "The cat is small.",
+        "cn": "这只猫很小。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_843_03",
+        "en": "The little mouse was very small.",
+        "cn": "那只小老鼠非常小。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -21997,6 +33750,20 @@ window.__WORDS_DATA =
         "cn": "软枕头。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_844_02",
+        "en": "The cat's fur is very soft.",
+        "cn": "这只猫的毛非常柔软。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_844_03",
+        "en": "The cat's fur was soft and smooth to the touch.",
+        "cn": "这只猫的毛柔软光滑，摸起来很舒服。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -22023,6 +33790,20 @@ window.__WORDS_DATA =
         "cn": "坚硬的岩石。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_845_02",
+        "en": "The toy is made of solid material.",
+        "cn": "这个玩具是由固体材料制成的.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_845_03",
+        "en": "The toy is made of solid material.",
+        "cn": "这个玩具是由固体材料制成的.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -22049,6 +33830,20 @@ window.__WORDS_DATA =
         "cn": "特别的日子。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_846_02",
+        "en": "She made a special cake for her friend's birthday.",
+        "cn": "她为朋友的生日做了一个特别的蛋糕.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_846_03",
+        "en": "She wore a special dress to the party.",
+        "cn": "她穿了一条特别的裙子去参加派对。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -22075,6 +33870,20 @@ window.__WORDS_DATA =
         "cn": "奇怪的声音。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_847_02",
+        "en": "The strange noise came from inside the closet.",
+        "cn": "那个奇怪的声音是从衣柜里面传来的.",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_847_03",
+        "en": "The child found a strange object in the garden.",
+        "cn": "孩子在水园里发现了一个奇怪的物体.",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -22101,6 +33910,20 @@ window.__WORDS_DATA =
         "cn": "薄薄一片。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_848_02",
+        "en": "She is thin and looks healthy.",
+        "cn": "她很瘦，看起来很健康。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_848_03",
+        "en": "The cat was very thin and looked hungry.",
+        "cn": "那只猫很瘦，看起来很饿。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -22127,6 +33950,20 @@ window.__WORDS_DATA =
         "cn": "白云。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_849_02",
+        "en": "The cat has white fur.",
+        "cn": "这只猫有白色的毛。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_849_03",
+        "en": "The cat was white with black spots.",
+        "cn": "那只猫是白色的，带有黑色的斑点。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   },
@@ -22153,6 +33990,20 @@ window.__WORDS_DATA =
         "cn": "错误答案。",
         "tense": "simple_present",
         "level": "beginner"
+      },
+      {
+        "id": "word_850_02",
+        "en": "He answered the question wrong.",
+        "cn": "他答错了这个题目。",
+        "tense": "simple_present",
+        "level": "elementary"
+      },
+      {
+        "id": "word_850_03",
+        "en": "He drew a wrong picture.",
+        "cn": "他画了一幅错误的画。",
+        "tense": "simple_past",
+        "level": "elementary"
       }
     ]
   }

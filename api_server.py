@@ -12,6 +12,7 @@ import argparse
 import json
 import mimetypes
 import os
+import re
 import time
 from http.server import HTTPServer, BaseHTTPRequestHandler
 from pathlib import Path
@@ -19,30 +20,28 @@ from urllib.parse import urlparse
 
 import httpx
 
+
+def _parse_json_list(text):
+    """Try to parse JSON, handle extra data by finding all [...] groups."""
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError:
+        arrays = re.findall(r'\[.*?\]', text, re.DOTALL)
+        result = []
+        for a in arrays:
+            try:
+                items = json.loads(a)
+                if isinstance(items, list):
+                    result.extend(items)
+            except json.JSONDecodeError:
+                continue
+        return result
+
 DATA_PATH = "ogden_850_words_with_ipa.json"
 JS_PATH = "words_data.js"
 OLLAMA_BASE = os.environ.get("OLLAMA_BASE", "http://localhost:11434")
 DEFAULT_OLLAMA_URL = f"{OLLAMA_BASE}/v1/chat/completions"
 DEFAULT_TTS_URL = os.environ.get("TTS_URL", "")
-
-LEVEL_DESC = {
-    "beginner": "A1 level, ≤5 words, only basic vocabulary, SVO sentences",
-    "elementary": "A2 level, 8-12 words, simple modifiers, basic conjunctions (and, but, or)",
-    "intermediate": "B1 level, compound sentences, subordinate clauses, passive voice basics",
-    "advanced": "B2-C1 level, complex structures, abstract expressions",
-    "native": "C2 level, idiomatic expressions, rhetorical devices",
-}
-
-TENSE_DESC = {
-    "simple_present": "habitual actions or general truths",
-    "present_continuous": "actions happening right now",
-    "present_perfect": "past actions with present relevance",
-    "simple_past": "completed past actions",
-    "past_continuous": "actions in progress at a past moment",
-    "past_perfect": "actions completed before another past action",
-    "simple_future": "future actions or predictions",
-    "future_continuous": "actions in progress at a future moment",
-}
 
 
 def load_data():
@@ -64,19 +63,22 @@ class Handler(BaseHTTPRequestHandler):
     api_url = DEFAULT_OLLAMA_URL
     ollama_base = OLLAMA_BASE
     model = "huihui_ai/hy-mt1.5-abliterated:latest"
+    api_key = ""
+    max_tokens = 1024
+    temperature = 0.7
     tts_url = DEFAULT_TTS_URL
     tts_voice = ""
 
     def do_GET(self):
         path = urlparse(self.path).path
         if path == "/health":
-            self._json(200, {"status": "ok", "model": self.model, "tts_url": self.tts_url, "tts_voice": self.tts_voice})
+            self._json(200, {"status": "ok", "model": self.model, "max_tokens": self.max_tokens, "temperature": self.temperature, "tts_url": self.tts_url, "tts_voice": self.tts_voice})
             return
         if path == "/models":
             self._handle_list_models()
             return
         if path == "/config":
-            self._json(200, {"model": self.model, "tts_url": self.tts_url, "tts_voice": self.tts_voice})
+            self._json(200, {"model": self.model, "api_url": self.api_url, "max_tokens": self.max_tokens, "temperature": self.temperature, "tts_url": self.tts_url, "tts_voice": self.tts_voice})
             return
         if path in ("", "/"):
             path = "/index.html"
@@ -122,7 +124,7 @@ class Handler(BaseHTTPRequestHandler):
             return
 
         word_id = body.get("word_id")
-        tense = body.get("tense", "simple_present")
+        tenses = body.get("tenses")
         level = body.get("level", "beginner")
         count = body.get("count", 1)
 
@@ -130,8 +132,12 @@ class Handler(BaseHTTPRequestHandler):
             self._json(400, {"error": "word_id is required"})
             return
 
+        if not tenses or not isinstance(tenses, list):
+            self._json(400, {"error": "tenses array is required"})
+            return
+
         try:
-            result = self._generate(word_id, tense, level, count)
+            result = self._generate(word_id, tenses, level, count)
             self._json(200, result)
         except Exception as e:
             self._json(500, {"error": str(e)})
@@ -154,12 +160,20 @@ class Handler(BaseHTTPRequestHandler):
             return
         if "model" in body and body["model"]:
             self.model = body["model"]
+        if "api_url" in body:
+            self.api_url = body["api_url"] or DEFAULT_OLLAMA_URL
+        if "api_key" in body:
+            self.api_key = body["api_key"] or ""
+        if "max_tokens" in body:
+            self.max_tokens = int(body["max_tokens"]) if body["max_tokens"] else 1024
+        if "temperature" in body:
+            self.temperature = float(body["temperature"]) if body["temperature"] else 0.7
         if "tts_url" in body:
             self.tts_url = body["tts_url"]
         if "tts_voice" in body:
             self.tts_voice = body["tts_voice"]
-        print(f"[config] model={self.model} tts_url={self.tts_url} tts_voice={self.tts_voice}")
-        self._json(200, {"model": self.model, "tts_url": self.tts_url, "tts_voice": self.tts_voice})
+        print(f"[config] model={self.model} api_url={self.api_url} max_tokens={self.max_tokens} temperature={self.temperature} tts_url={self.tts_url} tts_voice={self.tts_voice}")
+        self._json(200, {"model": self.model, "api_url": self.api_url, "max_tokens": self.max_tokens, "temperature": self.temperature, "tts_url": self.tts_url, "tts_voice": self.tts_voice})
 
     def _handle_tts(self):
         if not self.tts_url:
@@ -189,19 +203,23 @@ class Handler(BaseHTTPRequestHandler):
         except Exception as e:
             self._json(500, {"error": f"TTS failed: {e}"})
 
-    def _generate(self, word_id, tense, level, count):
+    def _generate(self, word_id, tenses, level, count=1):
         entries = load_data()
         entry = next((e for e in entries if e["id"] == word_id), None)
         if not entry:
             raise ValueError(f"word {word_id} not found")
 
-        prompt = self._build_prompt(entry, tense, level, count)
+        prompt = self._build_prompt(entry, tenses, level)
         llm_result = self._call_llm(prompt)
 
         existing = entry.setdefault("examples", [])
         start_idx = len(existing)
         new_examples = []
+        expected = len(tenses)
         for i, item in enumerate(llm_result):
+            if i >= expected:
+                break
+            tense = tenses[i]
             ex = {
                 "id": f"{word_id}_{start_idx + i + 1:02d}",
                 "en": item["en"],
@@ -215,43 +233,38 @@ class Handler(BaseHTTPRequestHandler):
         save_data(entries)
         return {"examples": new_examples}
 
-    def _build_prompt(self, entry, tense, level, count):
-        return f"""You are a professional English teaching assistant. Generate {count} English sentence(s) for the word "{entry['word']}".
+    def _build_prompt(self, entry, tenses, level):
+        count = len(tenses)
+        word = entry['word']
+        meaning_cn = entry.get('meaning_cn', '')
+        tense_list = ", ".join(tenses)
+        return f"""Generate exactly {count} sentences with "{word}"({meaning_cn}), level {level}.
+Tenses in order: {tense_list}.
 
-Word: {entry['word']} (IPA: {entry.get('ipa', '')})
-Definition: {entry.get('definition_en', '')}
-Chinese: {entry.get('meaning_cn', '')}
-
-Requirements:
-1. "{entry['word']}" MUST appear in EVERY sentence.
-2. Level: {level} — {LEVEL_DESC.get(level, level)}
-3. Tense: {tense} — {TENSE_DESC.get(tense, tense)}
-4. Each sentence must be natural, everyday, suitable for language learners.
-
-Return ONLY a valid JSON array — no markdown, no other text:
-[
-  {{"en": "...", "cn": "..."}},
-  {{"en": "...", "cn": "..."}}
-]"""
+Return JSON array: [{{"en": "...", "cn": "..."}}]"""
 
     def _call_llm(self, prompt, max_retries=2):
         last_err = None
+        headers = {"Content-Type": "application/json"}
+        if self.api_key:
+            headers["Authorization"] = f"Bearer {self.api_key}"
         for attempt in range(max_retries + 1):
             try:
                 resp = httpx.post(
                     self.api_url,
+                    headers=headers,
                     json={
                         "model": self.model,
                         "messages": [{"role": "user", "content": prompt}],
-                        "temperature": 0.7,
-                        "max_tokens": 1024,
+                        "temperature": self.temperature,
+                        "max_tokens": self.max_tokens,
                     },
                     timeout=120,
                 )
                 resp.raise_for_status()
                 content = resp.json()["choices"][0]["message"]["content"].strip()
                 content = content.removeprefix("```json").removesuffix("```").strip()
-                parsed = json.loads(content)
+                parsed = _parse_json_list(content)
                 if not isinstance(parsed, list):
                     raise ValueError("response not a list")
                 return parsed

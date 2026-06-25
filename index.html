@@ -157,7 +157,7 @@ main {
 /* Card Flip */
 .card-scene {
   width: 100%;
-  max-width: 520px;
+  max-width: 640px;
   perspective: 1400px;
   margin: 16px auto 0;
 }
@@ -1022,16 +1022,16 @@ main {
                 <div class="example-header" id="exampleHeader">
                   <div class="example-tags" id="exampleTags"></div>
                   <div class="example-nav" id="exampleNav">
-                    <button type="button" id="exPrev" onclick="prevExample()">‹</button>
+                    <button type="button" id="exPrev" onclick="prevExample(event)">‹</button>
                     <span id="exCounter"></span>
-                    <button type="button" id="exNext" onclick="nextExample()">›</button>
+                    <button type="button" id="exNext" onclick="nextExample(event)">›</button>
                   </div>
                 </div>
                 <div class="example-en" id="backExEn"></div>
                 <div class="example-cn" id="backExCn"></div>
                 <div class="no-examples" id="noExamples" style="display:none">当前设置下无例句，可尝试其他难度时态</div>
                 <div style="display:flex;gap:8px;align-items:center;justify-content:center;margin-top:8px">
-                  <button type="button" class="regenerate-btn" id="genBtn" onclick="generateExample()">
+                  <button type="button" class="regenerate-btn" id="genBtn" onclick="generateExample(event)">
                     <span class="loader"></span>
                     <span class="label">用 AI 生成</span>
                   </button>
@@ -1102,7 +1102,27 @@ main {
 
       <div class="modal-section">
         <h3>大模型 <span style="font-weight:400;text-transform:none;color:var(--text-muted)">（例句生成）</span></h3>
-        <select id="llmModelSelect" style="width:100%;padding:10px 14px;font-size:14px;border:2px solid var(--border);border-radius:var(--r-md);outline:none;background:var(--surface);color:var(--text)"></select>
+        <div style="display:flex;flex-direction:column;gap:8px">
+          <label style="font-size:13px;color:var(--text-muted)">API 地址（留空 = 本地 Ollama）</label>
+          <input type="url" id="apiUrlInput" placeholder="例如 https://api.hunyuan.cloud/v1/chat/completions" style="padding:10px 14px;font-size:14px;border:2px solid var(--border);border-radius:var(--r-md);outline:none;background:var(--surface);color:var(--text)">
+          <label style="font-size:13px;color:var(--text-muted)">API Key（可选）</label>
+          <input type="password" id="apiKeyInput" placeholder="sk-..." style="padding:10px 14px;font-size:14px;border:2px solid var(--border);border-radius:var(--r-md);outline:none;background:var(--surface);color:var(--text)">
+          <label style="font-size:13px;color:var(--text-muted)">模型名称</label>
+          <div style="position:relative">
+            <input type="text" id="llmModelInput" list="modelList" placeholder="huihui_ai/hy-mt1.5-abliterated:latest" style="width:100%;padding:10px 14px;font-size:14px;border:2px solid var(--border);border-radius:var(--r-md);outline:none;background:var(--surface);color:var(--text);box-sizing:border-box">
+            <datalist id="modelList"></datalist>
+          </div>
+          <div style="display:flex;gap:8px">
+            <div style="flex:1">
+              <label style="font-size:13px;color:var(--text-muted)">Max Tokens</label>
+              <input type="number" id="maxTokensInput" value="1024" min="64" max="4096" style="width:100%;padding:10px 14px;font-size:14px;border:2px solid var(--border);border-radius:var(--r-md);outline:none;background:var(--surface);color:var(--text);box-sizing:border-box">
+            </div>
+            <div style="flex:1">
+              <label style="font-size:13px;color:var(--text-muted)">Temperature</label>
+              <input type="number" id="temperatureInput" value="0.7" min="0" max="2" step="0.1" style="width:100%;padding:10px 14px;font-size:14px;border:2px solid var(--border);border-radius:var(--r-md);outline:none;background:var(--surface);color:var(--text);box-sizing:border-box">
+            </div>
+          </div>
+        </div>
       </div>
 
       <div class="modal-section">
@@ -1207,9 +1227,13 @@ let isGenerating = false;
 
 // Server config
 let llmModel = 'huihui_ai/hy-mt1.5-abliterated:latest';
+let llmApiUrl = '';
+let llmApiKey = '';
+let llmMaxTokens = 1024;
+let llmTemperature = 0.7;
 let ttsUrl = '';
 let ttsVoice = '';
-let availableModels = [];
+
 
 const $ = s => document.querySelector(s);
 const $$ = s => document.querySelectorAll(s);
@@ -1273,16 +1297,23 @@ function loadSettings() {
       userLevel = s.level || 'beginner';
       userTenses = s.tenses || ['simple_present', 'simple_past', 'simple_future'];
       llmModel = s.llmModel || llmModel;
+      llmApiUrl = s.llmApiUrl || '';
+      llmApiKey = s.llmApiKey || '';
+      llmMaxTokens = s.llmMaxTokens || 1024;
+      llmTemperature = s.llmTemperature ?? 0.7;
       ttsUrl = s.ttsUrl || '';
       ttsVoice = s.ttsVoice || '';
     }
-    // sync to server
-    fetch(API_URL + '/config', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ model: llmModel, tts_url: ttsUrl, tts_voice: ttsVoice }),
-    }).catch(() => {});
+    syncConfig();
   } catch { /* use defaults */ }
+}
+
+function syncConfig() {
+  fetch(API_URL + '/config', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ model: llmModel, api_url: llmApiUrl, api_key: llmApiKey, max_tokens: llmMaxTokens, temperature: llmTemperature, tts_url: ttsUrl, tts_voice: ttsVoice }),
+  }).catch(() => {});
 }
 
 function saveSettings() {
@@ -1292,18 +1323,17 @@ function saveSettings() {
   userLevel = level.value;
   userTenses = tenses;
 
-  const modelSel = document.getElementById('llmModelSelect');
-  llmModel = modelSel.value || llmModel;
+  llmModel = document.getElementById('llmModelInput').value.trim() || llmModel;
+  llmApiUrl = document.getElementById('apiUrlInput').value.trim();
+  llmApiKey = document.getElementById('apiKeyInput').value.trim();
+  llmMaxTokens = parseInt(document.getElementById('maxTokensInput').value) || 1024;
+  llmTemperature = parseFloat(document.getElementById('temperatureInput').value) || 0.7;
   ttsUrl = document.getElementById('ttsUrlInput').value.trim();
   ttsVoice = document.getElementById('ttsVoiceInput').value.trim();
 
-  localStorage.setItem(SETTINGS_KEY, JSON.stringify({ level: userLevel, tenses: userTenses, llmModel, ttsUrl, ttsVoice }));
+  localStorage.setItem(SETTINGS_KEY, JSON.stringify({ level: userLevel, tenses: userTenses, llmModel, llmApiUrl, llmApiKey, llmMaxTokens, llmTemperature, ttsUrl, ttsVoice }));
 
-  fetch(API_URL + '/config', {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ model: llmModel, tts_url: ttsUrl, tts_voice: ttsVoice }),
-  }).catch(() => {});
+  syncConfig();
 
   closeSettings();
   if (isFlipped) renderExamples();
@@ -1312,22 +1342,28 @@ function saveSettings() {
 async function openSettings() {
   document.querySelector('#levelGroup input[value="' + userLevel + '"]').checked = true;
   document.querySelectorAll('#tenseGroup input').forEach(c => { c.checked = userTenses.includes(c.value); });
+  document.getElementById('apiUrlInput').value = llmApiUrl;
+  document.getElementById('apiKeyInput').value = llmApiKey;
+  document.getElementById('maxTokensInput').value = llmMaxTokens;
+  document.getElementById('temperatureInput').value = llmTemperature;
   document.getElementById('ttsUrlInput').value = ttsUrl;
   document.getElementById('ttsVoiceInput').value = ttsVoice;
 
-  const sel = document.getElementById('llmModelSelect');
-  sel.innerHTML = '<option value="' + llmModel + '">' + llmModel + '</option>';
-  sel.value = llmModel;
-  try {
-    const resp = await fetch(API_URL + '/models');
-    const data = await resp.json();
-    if (data.models && data.models.length > 0) {
-      availableModels = data.models;
-      sel.innerHTML = data.models.map(m =>
-        '<option value="' + m + '"' + (m === llmModel ? ' selected' : '') + '>' + m + '</option>'
-      ).join('');
-    }
-  } catch {}
+  const input = document.getElementById('llmModelInput');
+  input.value = llmModel;
+  const list = document.getElementById('modelList');
+  list.innerHTML = '<option value="' + llmModel + '">';
+  if (!llmApiUrl) {
+    try {
+      const resp = await fetch(API_URL + '/models');
+      const data = await resp.json();
+      if (data.models && data.models.length > 0) {
+        list.innerHTML = data.models.map(m =>
+          '<option value="' + m + '"' + (m === llmModel ? ' selected' : '') + '>'
+        ).join('');
+      }
+    } catch {}
+  }
 
   document.getElementById('settingsOverlay').classList.add('open');
 }
@@ -1421,10 +1457,11 @@ function showExampleAt(idx) {
   if (isFlipped) $$('.eval-btn').forEach(b => b.disabled = false);
 }
 
-function prevExample() { if (exampleIdx > 0) showExampleAt(exampleIdx - 1); }
-function nextExample() { if (exampleIdx < filteredExamples.length - 1) showExampleAt(exampleIdx + 1); }
+function prevExample(e) { e.stopPropagation(); if (exampleIdx > 0) showExampleAt(exampleIdx - 1); }
+function nextExample(e) { e.stopPropagation(); if (exampleIdx < filteredExamples.length - 1) showExampleAt(exampleIdx + 1); }
 
-async function generateExample() {
+async function generateExample(e) {
+  if (e) e.stopPropagation();
   const btn = document.getElementById('genBtn');
   if (isGenerating) return;
   isGenerating = true;
@@ -1434,14 +1471,13 @@ async function generateExample() {
   const w = allWords.find(x => x.id === currentWordId);
   if (!w) { isGenerating = false; btn.classList.remove('loading'); btn.disabled = false; return; }
 
-  const tense = userTenses[0] || 'simple_present';
   const level = userLevel;
 
   try {
     const resp = await fetch(API_URL + '/generate', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ word_id: currentWordId, tense, level, count: 1 }),
+      body: JSON.stringify({ word_id: currentWordId, tenses: userTenses, level, count: 1 }),
     });
     const data = await resp.json();
     if (data.examples && data.examples.length > 0) {

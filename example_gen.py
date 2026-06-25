@@ -19,27 +19,26 @@ import httpx
 DATA_PATH = "ogden_850_words_with_ipa.json"
 JS_PATH = "words_data.js"
 
-TENSE_LABELS = {
-    "simple_present": "一般现在时, habitual actions or general truths",
-    "present_continuous": "现在进行时, actions happening right now",
-    "present_perfect": "现在完成时, past actions with present relevance",
-    "simple_past": "一般过去时, completed past actions",
-    "past_continuous": "过去进行时, actions in progress at a past moment",
-    "past_perfect": "过去完成时, actions completed before another past action",
-    "simple_future": "一般将来时, future actions or predictions",
-    "future_continuous": "将来进行时, actions in progress at a future moment",
-}
-
-LEVEL_DESCRIPTIONS = {
-    "beginner": "·A1· ≤5 words, only Ogden 850 vocabulary, SVO sentences",
-    "elementary": "·A2· 8-12 words, simple modifiers, basic conjunctions (and, but, or)",
-    "intermediate": "·B1· compound sentences, subordinate clauses, passive voice basics",
-    "advanced": "·B2-C1· complex structures, subjunctive mood, abstract expressions",
-    "native": "·C2· idiomatic expressions, rhetorical devices, cultural references",
-}
-
 DEFAULT_OLLAMA_URL = "http://localhost:11434/v1/chat/completions"
 DEFAULT_MODEL = "huihui_ai/hy-mt1.5-abliterated:latest"
+
+
+def _parse_json_list(text):
+    """Try to parse JSON, handle extra data by finding all [...] groups."""
+    import re
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError:
+        arrays = re.findall(r'\[.*?\]', text, re.DOTALL)
+        result = []
+        for a in arrays:
+            try:
+                items = json.loads(a)
+                if isinstance(items, list):
+                    result.extend(items)
+            except json.JSONDecodeError:
+                continue
+        return result
 
 
 def load_data():
@@ -59,48 +58,28 @@ def save_data(entries):
 
 def build_prompt(entry, count, level, tense):
     word = entry["word"]
-    ipa = entry.get("ipa", "")
-    def_en = entry.get("definition_en", "")
     meaning_cn = entry.get("meaning_cn", "")
 
-    level_desc = LEVEL_DESCRIPTIONS.get(level, "")
-    tense_desc = TENSE_LABELS.get(tense, tense)
+    return f"""Generate exactly {count} {tense} sentence(s) with "{word}"({meaning_cn}), level {level}.
 
-    prompt = f"""You are a professional English teaching assistant. Generate {count} English sentence(s) for the word "{word}".
-
-Word info:
-- IPA: {ipa}
-- Definition: {def_en}
-- Chinese: {meaning_cn}
-- CEFR Level: {level} {level_desc}
-- Tense: {tense} — {tense_desc}
-
-Requirements:
-1. The word "{word}" MUST appear in EVERY sentence.
-2. Use ONLY CEFR {level}-level vocabulary and grammar.
-3. Tense must be strictly {tense}.
-4. Each sentence must be a complete, natural, everyday sentence suitable for language learners.
-5. Keep sentences short and clear for level {level}.
-
-Return ONLY a valid JSON array — no markdown, no explanation, no other text:
-[
-  {{"en": "...", "cn": "Chinese translation..."}},
-  {{"en": "...", "cn": "Chinese translation..."}}
-]"""
-    return prompt
+Return JSON array: [{{"en": "...", "cn": "..."}}]"""
 
 
-def call_llm(prompt, api_url, model, temperature=0.7, max_retries=2):
+def call_llm(prompt, api_url, model, api_key="", max_tokens=1024, temperature=0.7, max_retries=2):
     last_err = None
+    headers = {"Content-Type": "application/json"}
+    if api_key:
+        headers["Authorization"] = f"Bearer {api_key}"
     for attempt in range(max_retries + 1):
         try:
             resp = httpx.post(
                 api_url,
+                headers=headers,
                 json={
                     "model": model,
                     "messages": [{"role": "user", "content": prompt}],
                     "temperature": temperature,
-                    "max_tokens": 1024,
+                    "max_tokens": max_tokens,
                 },
                 timeout=120,
             )
@@ -109,7 +88,7 @@ def call_llm(prompt, api_url, model, temperature=0.7, max_retries=2):
             content = data["choices"][0]["message"]["content"].strip()
             content = content.removeprefix("```json").removesuffix("```").strip()
 
-            parsed = json.loads(content)
+            parsed = _parse_json_list(content)
             if not isinstance(parsed, list):
                 raise ValueError("response is not a list")
             for item in parsed:
@@ -123,11 +102,13 @@ def call_llm(prompt, api_url, model, temperature=0.7, max_retries=2):
     raise RuntimeError(f"LLM call failed after {max_retries + 1} attempts: {last_err}")
 
 
-def gen_examples(entry, count, level, tense, api_url, model):
+def gen_examples(entry, count, level, tense, api_url, model, api_key="", max_tokens=1024, temperature=0.7):
     prompt = build_prompt(entry, count, level, tense)
-    result = call_llm(prompt, api_url, model)
+    result = call_llm(prompt, api_url, model, api_key, max_tokens, temperature)
     examples = []
     for i, item in enumerate(result):
+        if i >= count:
+            break
         ex = {
             "id": f"{entry['id']}_{len(entry.get('examples', [])) + i + 1:02d}",
             "en": item["en"],
@@ -146,32 +127,20 @@ PRIORITY_TENSES = ["simple_present", "simple_past", "simple_future",
 
 def build_backfill_prompt(entry, missing):
     word = entry["word"]
+    meaning_cn = entry.get("meaning_cn", "")
     lines = []
     for tense, level in missing:
-        lines.append(f"  - tense={tense}, level={level}: {LEVEL_DESCRIPTIONS[level]}")
+        lines.append(f"- {tense} {level}")
     combos_str = "\n".join(lines)
 
-    return f"""You are a professional English teaching assistant. Generate example sentences for the word "{word}" (IPA: {entry.get("ipa", "")}) — definition: {entry.get("definition_en", "")}, Chinese: {entry.get("meaning_cn", "")}.
-
-Generate exactly {len(missing)} sentences, one for each tense+level combo below:
-
+    return f"""Generate exactly {len(missing)} sentences with "{word}"({meaning_cn}).
 {combos_str}
 
-Requirements:
-1. The word "{word}" MUST appear in EVERY sentence.
-2. Each sentence must use the exact tense specified for it.
-3. Each sentence must use only vocabulary appropriate for its CEFR level.
-4. All sentences must be complete, natural, everyday sentences.
-
-Return a JSON array where each item has the "tense" and "level" fields matching the spec:
-[
-  {{"en": "...", "cn": "Chinese translation...", "tense": "...", "level": "..."}},
-  {{"en": "...", "cn": "Chinese translation...", "tense": "...", "level": "..."}}
-]
-Return ONLY the JSON, no markdown, no other text."""
+Return JSON array with "tense" and "level" fields:
+[{{"en": "...", "cn": "...", "tense": "...", "level": "..."}}]"""
 
 
-def backfill_all(entries, api_url, model, dry_run=False):
+def backfill_all(entries, api_url, model, api_key="", max_tokens=1024, temperature=0.7, dry_run=False):
     total_gen = 0
     total_err = 0
     error_words = []
@@ -214,7 +183,7 @@ def backfill_all(entries, api_url, model, dry_run=False):
 
         try:
             prompt = build_backfill_prompt(entry, missing)
-            result = call_llm(prompt, api_url, model)
+            result = call_llm(prompt, api_url, model, api_key, max_tokens, temperature)
             start_idx = len(entry.get("examples", []))
             added = 0
             for i, item in enumerate(result):
@@ -235,6 +204,8 @@ def backfill_all(entries, api_url, model, dry_run=False):
             total_gen += added
             t_str = ", ".join(f"{t}/{lv}" for t, lv in missing[:added])
             print(f"  [{wid}] {entry['word']}: generated {added} ({t_str})")
+            for ex in entry["examples"][-added:]:
+                print(f"    {ex['en']}")
         except Exception as e:
             total_err += 1
             error_words.append((wid, str(e)))
@@ -271,15 +242,21 @@ def main():
     parser.add_argument("--count", type=int, default=1, help="Examples per call")
     parser.add_argument("--model", default=DEFAULT_MODEL, help="Ollama model name")
     parser.add_argument("--api-url", default=DEFAULT_OLLAMA_URL, help="OpenAI-compatible API URL")
+    parser.add_argument("--api-key", default="", help="API key for remote API")
+    parser.add_argument("--max-tokens", type=int, default=1024, help="Max tokens per response")
+    parser.add_argument("--temperature", type=float, default=0.7, help="Temperature (0-2)")
     parser.add_argument("--force", action="store_true", help="Regenerate even if examples exist")
     args = parser.parse_args()
 
     entries = load_data()
     api_url = os.environ.get("LLM_API_URL", args.api_url)
     model = os.environ.get("LLM_MODEL", args.model)
+    api_key = os.environ.get("LLM_API_KEY", args.api_key)
+    max_tokens = int(os.environ.get("LLM_MAX_TOKENS", args.max_tokens))
+    temperature = float(os.environ.get("LLM_TEMPERATURE", args.temperature))
 
     if args.backfill:
-        backfill_all(entries, api_url, model, dry_run=args.dry_run)
+        backfill_all(entries, api_url, model, api_key, max_tokens, temperature, dry_run=args.dry_run)
         return
 
     levels = [l.strip() for l in args.level.split(",")]
@@ -303,11 +280,13 @@ def main():
         for tense in tenses:
             for level in levels:
                 try:
-                    exs = gen_examples(entry, args.count, level, tense, api_url, model)
+                    exs = gen_examples(entry, args.count, level, tense, api_url, model, api_key, max_tokens, temperature)
                     entry.setdefault("examples", [])
                     entry["examples"].extend(exs)
                     total_gen += len(exs)
                     print(f"  [{entry['id']}] {entry['word']} ({level}, {tense}) → {len(exs)} exs")
+                    for ex in exs:
+                        print(f"    {ex['en']}")
                 except Exception as e:
                     total_err += 1
                     print(f"  [{entry['id']}] {entry['word']} ({level}, {tense}) → ERROR: {e}")
